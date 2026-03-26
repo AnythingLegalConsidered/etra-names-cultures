@@ -61,7 +61,7 @@ REPLACE:moran_language = {
 		Navarius Carbonus Silvanus Montanus Rupinus Fluminus Vallensis Campanus
 		Litorius Fontanus Collivus Pratensis Calvinus Longinus Rufinus Crassanus
 		Procerus Tacitus Validus Parvulus Obscurus Fervidus Templanus Sacerdus
-		Augurius Flaminus Fidellus Sanctanus Divinus Caelanus Lucernus Aeternus
+		Flaminus Fidellus Sanctanus Caelanus
 	}
 
 	patronym_prefix_son = "patronym_prefix_latin_son"
