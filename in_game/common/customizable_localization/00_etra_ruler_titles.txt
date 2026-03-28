@@ -1067,7 +1067,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_empire = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# Armonorican — Aggeuios
@@ -1077,7 +1077,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_kingdom = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# Armonorican — Aggeuios
@@ -1087,7 +1087,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_duchy = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# Armonorican — Aggeuios
@@ -1097,7 +1097,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_county = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 
@@ -1870,7 +1870,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_empire = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# Armonorican — Ebiam
@@ -1880,7 +1880,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_kingdom = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# Armonorican — Ebiam
@@ -1890,7 +1890,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_duchy = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# Armonorican — Ebiam
@@ -1900,7 +1900,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_county = yes
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# Hravevi — Hravevi
@@ -3036,7 +3036,7 @@ country_flavor = {
 			country_rank_is_empire = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -3046,7 +3046,7 @@ country_flavor = {
 			country_rank_is_kingdom = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -3056,7 +3056,7 @@ country_flavor = {
 			country_rank_is_duchy = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -3066,7 +3066,7 @@ country_flavor = {
 			country_rank_is_county = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# ARMONORICAN (specific cultures) — Ebiam
@@ -3077,7 +3077,7 @@ country_flavor = {
 			country_rank_is_empire = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -3087,7 +3087,7 @@ country_flavor = {
 			country_rank_is_kingdom = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -3097,7 +3097,7 @@ country_flavor = {
 			country_rank_is_duchy = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -3107,7 +3107,7 @@ country_flavor = {
 			country_rank_is_county = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 
@@ -3895,27 +3895,7 @@ country_flavor = {
 			country_rank_is_empire = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
-		}
-	}
-	text = {
-		localization_key = etra_rank_empire_armonorican_order
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_empire = yes
-			government_type = government_type:theocracy
-			has_reform = government_reform:military_order_reform
 			ruler ?= { culture.language = language:armonorican_language }
-		}
-	}
-	text = {
-		localization_key = etra_rank_kingdom_armonorican_order
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_kingdom = yes
-			government_type = government_type:theocracy
-			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
 		}
 	}
 	text = {
@@ -3935,27 +3915,7 @@ country_flavor = {
 			country_rank_is_duchy = yes
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
-		}
-	}
-	text = {
-		localization_key = etra_rank_duchy_armonorican_order
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_duchy = yes
-			government_type = government_type:theocracy
-			has_reform = government_reform:military_order_reform
 			ruler ?= { culture.language = language:armonorican_language }
-		}
-	}
-	text = {
-		localization_key = etra_rank_county_armonorican_order
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_county = yes
-			government_type = government_type:theocracy
-			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
 		}
 	}
 	text = {
@@ -5098,7 +5058,7 @@ country_flavor = {
 			country_rank_is_empire = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -5108,7 +5068,7 @@ country_flavor = {
 			country_rank_is_kingdom = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -5118,7 +5078,7 @@ country_flavor = {
 			country_rank_is_duchy = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -5128,7 +5088,7 @@ country_flavor = {
 			country_rank_is_county = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# ARMONORICAN (specific cultures) — Ebiam
@@ -5139,7 +5099,7 @@ country_flavor = {
 			country_rank_is_empire = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -5149,7 +5109,7 @@ country_flavor = {
 			country_rank_is_kingdom = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -5159,7 +5119,7 @@ country_flavor = {
 			country_rank_is_duchy = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -5169,7 +5129,7 @@ country_flavor = {
 			country_rank_is_county = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 
@@ -5957,27 +5917,7 @@ country_flavor = {
 			country_rank_is_empire = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
-		}
-	}
-	text = {
-		localization_key = etra_rank_empire_armonorican_theocracy
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_empire = yes
-			government_type = government_type:theocracy
-			NOT = { has_reform = government_reform:military_order_reform }
 			ruler ?= { culture.language = language:armonorican_language }
-		}
-	}
-	text = {
-		localization_key = etra_rank_kingdom_armonorican_theocracy
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_kingdom = yes
-			government_type = government_type:theocracy
-			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
 		}
 	}
 	text = {
@@ -5997,27 +5937,7 @@ country_flavor = {
 			country_rank_is_duchy = yes
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
-		}
-	}
-	text = {
-		localization_key = etra_rank_duchy_armonorican_theocracy
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_duchy = yes
-			government_type = government_type:theocracy
-			NOT = { has_reform = government_reform:military_order_reform }
 			ruler ?= { culture.language = language:armonorican_language }
-		}
-	}
-	text = {
-		localization_key = etra_rank_county_armonorican_theocracy
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_county = yes
-			government_type = government_type:theocracy
-			NOT = { has_reform = government_reform:military_order_reform }
-			ruler ?= { culture.language = language:armonorican_dialect }
 		}
 	}
 	text = {
@@ -7055,7 +6975,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_empire = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -7064,7 +6984,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_kingdom = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -7073,7 +6993,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_duchy = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -7082,7 +7002,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_county = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	# ARMONORICAN (specific cultures) — Ebiam
@@ -7092,7 +7012,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_empire = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -7101,7 +7021,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_kingdom = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -7110,7 +7030,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_duchy = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -7119,7 +7039,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_county = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 
@@ -7830,25 +7750,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_empire = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
-		}
-	}
-	text = {
-		localization_key = etra_rank_empire_armonorican_republic
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_empire = yes
-			government_type = government_type:republic
 			ruler ?= { culture.language = language:armonorican_language }
-		}
-	}
-	text = {
-		localization_key = etra_rank_kingdom_armonorican_republic
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_kingdom = yes
-			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
 		}
 	}
 	text = {
@@ -7866,25 +7768,7 @@ country_flavor = {
 			has_game_rule = etra_names_fantasy
 			country_rank_is_duchy = yes
 			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
-		}
-	}
-	text = {
-		localization_key = etra_rank_duchy_armonorican_republic
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_duchy = yes
-			government_type = government_type:republic
 			ruler ?= { culture.language = language:armonorican_language }
-		}
-	}
-	text = {
-		localization_key = etra_rank_county_armonorican_republic
-		trigger = {
-			has_game_rule = etra_names_fantasy
-			country_rank_is_county = yes
-			government_type = government_type:republic
-			ruler ?= { culture.language = language:armonorican_dialect }
 		}
 	}
 	text = {
