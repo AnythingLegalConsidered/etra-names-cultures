@@ -1862,3 +1862,67 @@ A242 = {
 	}
 }
 
+# A54: Swanwatch
+A54 = {
+	type = country
+	text = {
+		localization_key = A54_ardrainic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			ruler ?= { culture.language = language:ardrainic_language }
+		}
+	}
+	text = {
+		localization_key = A54_torrent
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			ruler ?= { culture.language = language:torrent_language }
+		}
+	}
+	text = {
+		localization_key = A54_moran
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			ruler ?= { culture.language = language:moran_language }
+		}
+	}
+	text = {
+		localization_key = A54_vulgar_moran
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			ruler ?= { culture.language = language:vulgar_moran_language }
+		}
+	}
+	text = {
+		localization_key = A54_sordrenic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			ruler ?= { culture.language = language:sordrenic_language }
+		}
+	}
+	text = {
+		localization_key = A54_armonorican
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			ruler ?= { culture.language = language:armonorican_language }
+		}
+	}
+	text = {
+		localization_key = A54_hravevi
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			ruler ?= { culture.language = language:hravevi_language }
+		}
+	}
+	text = {
+		localization_key = A54_ardrainic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+		}
+	}
+	text = {
+		localization_key = A54
+		fallback = yes
+	}
+}
+

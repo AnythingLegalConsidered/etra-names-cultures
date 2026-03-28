@@ -279,6 +279,15 @@ l_english:
  A242_armonorican: "Calon Las"
  A242_hravevi: "Kanatch Sird"
 
+ # A54: Swanwatch
+ A54_ardrainic: "Cynegard"
+ A54_torrent: "Schwanwacht"
+ A54_moran: "Custodia Cygnorum"
+ A54_vulgar_moran: "Guardacigni"
+ A54_sordrenic: "Gardacinhatz"
+ A54_armonorican: "Gwylalarch"
+ A54_hravevi: "Karapahk"
+
  # --- MONARCHY RULER TITLES ---
  # ARDRAINIC
  etra_rank_empire_sittadellian: "Empereint"
