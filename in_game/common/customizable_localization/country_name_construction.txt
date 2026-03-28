@@ -8,7 +8,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:sittadellian_dialect }
+			ruler ?= { culture = culture:sittadellian_culture }
 		}
 	}
 	text = {
@@ -16,7 +16,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:aullerican_dialect }
+			ruler ?= { culture = culture:aullerican_culture }
 		}
 	}
 	text = {
@@ -24,7 +24,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:aloisoise_dialect }
+			ruler ?= { culture = culture:aloisoise_culture }
 		}
 	}
 	text = {
@@ -32,7 +32,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:caprainois_dialect }
+			ruler ?= { culture = culture:caprainois_culture }
 		}
 	}
 	text = {
@@ -40,7 +40,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:pwasciards_dialect }
+			ruler ?= { culture = culture:pwasciards_culture }
 		}
 	}
 	text = {
@@ -48,7 +48,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:serenish_dialect }
+			ruler ?= { culture = culture:serenish_culture }
 		}
 	}
 	text = {
@@ -56,7 +56,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:berenguer_dialect }
+			ruler ?= { culture = culture:berenguer_culture }
 		}
 	}
 	text = {
@@ -64,7 +64,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:draquatin_dialect }
+			ruler ?= { culture = culture:draquatin_culture }
 		}
 	}
 	text = {
@@ -72,7 +72,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:chevallois_dialect }
+			ruler ?= { culture = culture:chevallois_culture }
 		}
 	}
 	text = {
@@ -80,7 +80,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:appavin_dialect }
+			ruler ?= { culture = culture:appavin_culture }
 		}
 	}
 	text = {
@@ -96,7 +96,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:heuhian_dialect }
+			ruler ?= { culture = culture:heuhian_culture }
 		}
 	}
 	text = {
@@ -104,7 +104,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:fullhorner_dialect }
+			ruler ?= { culture = culture:fullhorner_culture }
 		}
 	}
 	text = {
@@ -112,7 +112,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:afhaemeisan_dialect }
+			ruler ?= { culture = culture:afhaemeisan_culture }
 		}
 	}
 	text = {
@@ -120,7 +120,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:lower_serenic_dialect }
+			ruler ?= { culture = culture:lower_serenic_culture }
 		}
 	}
 	text = {
@@ -128,7 +128,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:middle_serenic_dialect }
+			ruler ?= { culture = culture:middle_serenic_culture }
 		}
 	}
 	text = {
@@ -136,7 +136,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:sorlkol_dialect }
+			ruler ?= { culture = culture:sorlkol_culture }
 		}
 	}
 	text = {
@@ -144,7 +144,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:naurmen_dialect }
+			ruler ?= { culture = culture:naurmen_culture }
 		}
 	}
 	text = {
@@ -152,7 +152,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:stedeling_dialect }
+			ruler ?= { culture = culture:stedeling_culture }
 		}
 	}
 	text = {
@@ -160,7 +160,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:thaurfolk_dialect }
+			ruler ?= { culture = culture:thaurfolk_culture }
 		}
 	}
 	text = {
@@ -168,7 +168,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:bonwesforian_dialect }
+			ruler ?= { culture = culture:bonwesforian_culture }
 		}
 	}
 	text = {
@@ -176,7 +176,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:borrikan_dialect }
+			ruler ?= { culture = culture:borrikan_culture }
 		}
 	}
 	text = {
@@ -184,7 +184,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:tyelkian_dialect }
+			ruler ?= { culture = culture:tyelkian_culture }
 		}
 	}
 	text = {
@@ -192,7 +192,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:chesmeker_dialect }
+			ruler ?= { culture = culture:chesmeker_culture }
 		}
 	}
 	text = {
@@ -232,7 +232,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:stone_sordrenic_dialect }
+			ruler ?= { culture = culture:stone_sordrenic_culture }
 		}
 	}
 	text = {
@@ -240,7 +240,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:lutin_sordrenic_dialect }
+			ruler ?= { culture = culture:lutin_sordrenic_culture }
 		}
 	}
 	text = {
@@ -248,7 +248,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:pantagrin_sordrenic_dialect }
+			ruler ?= { culture = culture:pantagrin_sordrenic_culture }
 		}
 	}
 	text = {
@@ -376,7 +376,15 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture = culture:ebiam_culture }
+		}
+	}
+	text = {
+		localization_key = etra_order_armonorican
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 	text = {
@@ -394,7 +402,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:sittadellian_dialect }
+			ruler ?= { culture = culture:sittadellian_culture }
 		}
 	}
 	text = {
@@ -402,7 +410,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:aullerican_dialect }
+			ruler ?= { culture = culture:aullerican_culture }
 		}
 	}
 	text = {
@@ -410,7 +418,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:aloisoise_dialect }
+			ruler ?= { culture = culture:aloisoise_culture }
 		}
 	}
 	text = {
@@ -418,7 +426,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:caprainois_dialect }
+			ruler ?= { culture = culture:caprainois_culture }
 		}
 	}
 	text = {
@@ -426,7 +434,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:pwasciards_dialect }
+			ruler ?= { culture = culture:pwasciards_culture }
 		}
 	}
 	text = {
@@ -434,7 +442,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:serenish_dialect }
+			ruler ?= { culture = culture:serenish_culture }
 		}
 	}
 	text = {
@@ -442,7 +450,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:berenguer_dialect }
+			ruler ?= { culture = culture:berenguer_culture }
 		}
 	}
 	text = {
@@ -450,7 +458,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:draquatin_dialect }
+			ruler ?= { culture = culture:draquatin_culture }
 		}
 	}
 	text = {
@@ -458,7 +466,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:chevallois_dialect }
+			ruler ?= { culture = culture:chevallois_culture }
 		}
 	}
 	text = {
@@ -466,7 +474,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:appavin_dialect }
+			ruler ?= { culture = culture:appavin_culture }
 		}
 	}
 	text = {
@@ -484,7 +492,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:heuhian_dialect }
+			ruler ?= { culture = culture:heuhian_culture }
 		}
 	}
 	text = {
@@ -492,7 +500,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:fullhorner_dialect }
+			ruler ?= { culture = culture:fullhorner_culture }
 		}
 	}
 	text = {
@@ -500,7 +508,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:afhaemeisan_dialect }
+			ruler ?= { culture = culture:afhaemeisan_culture }
 		}
 	}
 	text = {
@@ -508,7 +516,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:lower_serenic_dialect }
+			ruler ?= { culture = culture:lower_serenic_culture }
 		}
 	}
 	text = {
@@ -516,7 +524,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:middle_serenic_dialect }
+			ruler ?= { culture = culture:middle_serenic_culture }
 		}
 	}
 	text = {
@@ -524,7 +532,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:sorlkol_dialect }
+			ruler ?= { culture = culture:sorlkol_culture }
 		}
 	}
 	text = {
@@ -532,7 +540,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:naurmen_dialect }
+			ruler ?= { culture = culture:naurmen_culture }
 		}
 	}
 	text = {
@@ -540,7 +548,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:stedeling_dialect }
+			ruler ?= { culture = culture:stedeling_culture }
 		}
 	}
 	text = {
@@ -548,7 +556,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:thaurfolk_dialect }
+			ruler ?= { culture = culture:thaurfolk_culture }
 		}
 	}
 	text = {
@@ -556,7 +564,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:bonwesforian_dialect }
+			ruler ?= { culture = culture:bonwesforian_culture }
 		}
 	}
 	text = {
@@ -564,7 +572,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:borrikan_dialect }
+			ruler ?= { culture = culture:borrikan_culture }
 		}
 	}
 	text = {
@@ -572,7 +580,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:tyelkian_dialect }
+			ruler ?= { culture = culture:tyelkian_culture }
 		}
 	}
 	text = {
@@ -580,7 +588,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:chesmeker_dialect }
+			ruler ?= { culture = culture:chesmeker_culture }
 		}
 	}
 	text = {
@@ -622,7 +630,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:stone_sordrenic_dialect }
+			ruler ?= { culture = culture:stone_sordrenic_culture }
 		}
 	}
 	text = {
@@ -630,7 +638,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:lutin_sordrenic_dialect }
+			ruler ?= { culture = culture:lutin_sordrenic_culture }
 		}
 	}
 	text = {
@@ -638,7 +646,7 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:pantagrin_sordrenic_dialect }
+			ruler ?= { culture = culture:pantagrin_sordrenic_culture }
 		}
 	}
 	text = {
@@ -772,7 +780,15 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			government_type = government_type:monarchy
-			ruler ?= { culture.language = language:armonorican_dialect }
+			ruler ?= { culture = culture:ebiam_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_armonorican
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			ruler ?= { culture.language = language:armonorican_language }
 		}
 	}
 
