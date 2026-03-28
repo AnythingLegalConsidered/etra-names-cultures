@@ -1,0 +1,10 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Paradox launcher cache
+.cr_cache/
