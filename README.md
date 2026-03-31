@@ -46,10 +46,6 @@ The mod adds a **game rule** to toggle fantasy naming:
 | **English** (default) | Vanilla English names |
 | **Fantasy Languages** | Culture-specific fantasy names |
 
-## Requirements
-
-- [Victoria 3](https://store.steampowered.com/app/529340/Victoria_3/) v1.1.*
-- [Etra: The New Age](https://steamcommunity.com/sharedfiles/filedetails/?id=3619896881) v0.05+
 
 ## Installation
 
