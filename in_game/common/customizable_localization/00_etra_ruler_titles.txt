@@ -9944,4 +9944,1047 @@ country_flavor = {
 		}
 	}
 
+	# === TRIBE — FALLBACK ===
+
+	# Ardrainien
+	text = {
+		localization_key = etra_rank_empire_ardrainien_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:ardrainic_language }
+		}
+	}
+	# Ardrainien
+	text = {
+		localization_key = etra_rank_kingdom_ardrainien_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:ardrainic_language }
+		}
+	}
+	# Ardrainien
+	text = {
+		localization_key = etra_rank_duchy_ardrainien_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:ardrainic_language }
+		}
+	}
+	# Ardrainien
+	text = {
+		localization_key = etra_rank_county_ardrainien_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:ardrainic_language }
+		}
+	}
+	# Torrent
+	text = {
+		localization_key = etra_rank_empire_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:torrent_language }
+		}
+	}
+	# Torrent (also: south_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_empire_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:south_torrentor_dialect }
+		}
+	}
+	# Torrent (also: central_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_empire_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:central_torrentor_dialect }
+		}
+	}
+	# Torrent (also: north_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_empire_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:north_torrentor_dialect }
+		}
+	}
+	# Torrent
+	text = {
+		localization_key = etra_rank_kingdom_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:torrent_language }
+		}
+	}
+	# Torrent (also: south_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:south_torrentor_dialect }
+		}
+	}
+	# Torrent (also: central_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:central_torrentor_dialect }
+		}
+	}
+	# Torrent (also: north_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:north_torrentor_dialect }
+		}
+	}
+	# Torrent
+	text = {
+		localization_key = etra_rank_duchy_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:torrent_language }
+		}
+	}
+	# Torrent (also: south_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_duchy_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:south_torrentor_dialect }
+		}
+	}
+	# Torrent (also: central_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_duchy_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:central_torrentor_dialect }
+		}
+	}
+	# Torrent (also: north_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_duchy_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:north_torrentor_dialect }
+		}
+	}
+	# Torrent
+	text = {
+		localization_key = etra_rank_county_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:torrent_language }
+		}
+	}
+	# Torrent (also: south_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_county_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:south_torrentor_dialect }
+		}
+	}
+	# Torrent (also: central_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_county_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:central_torrentor_dialect }
+		}
+	}
+	# Torrent (also: north_torrentor_dialect)
+	text = {
+		localization_key = etra_rank_county_torrent_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:north_torrentor_dialect }
+		}
+	}
+	# Salt Sordrenic
+	text = {
+		localization_key = etra_rank_empire_salt_sordrenic_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:sordrenic_language }
+		}
+	}
+	# Salt Sordrenic
+	text = {
+		localization_key = etra_rank_kingdom_salt_sordrenic_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:sordrenic_language }
+		}
+	}
+	# Salt Sordrenic
+	text = {
+		localization_key = etra_rank_duchy_salt_sordrenic_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:sordrenic_language }
+		}
+	}
+	# Salt Sordrenic
+	text = {
+		localization_key = etra_rank_county_salt_sordrenic_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:sordrenic_language }
+		}
+	}
+	# Moran
+	text = {
+		localization_key = etra_rank_empire_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:moran_language }
+		}
+	}
+	# Moran (also: early_moran_dialect)
+	text = {
+		localization_key = etra_rank_empire_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:early_moran_dialect }
+		}
+	}
+	# Moran (also: late_moran_dialect)
+	text = {
+		localization_key = etra_rank_empire_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:late_moran_dialect }
+		}
+	}
+	# Moran (also: novus_moran_dialect)
+	text = {
+		localization_key = etra_rank_empire_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:novus_moran_dialect }
+		}
+	}
+	# Moran (also: vivum_moran_dialect)
+	text = {
+		localization_key = etra_rank_empire_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vivum_moran_dialect }
+		}
+	}
+	# Moran
+	text = {
+		localization_key = etra_rank_kingdom_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:moran_language }
+		}
+	}
+	# Moran (also: early_moran_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:early_moran_dialect }
+		}
+	}
+	# Moran (also: late_moran_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:late_moran_dialect }
+		}
+	}
+	# Moran (also: novus_moran_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:novus_moran_dialect }
+		}
+	}
+	# Moran (also: vivum_moran_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vivum_moran_dialect }
+		}
+	}
+	# Moran
+	text = {
+		localization_key = etra_rank_duchy_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:moran_language }
+		}
+	}
+	# Moran (also: early_moran_dialect)
+	text = {
+		localization_key = etra_rank_duchy_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:early_moran_dialect }
+		}
+	}
+	# Moran (also: late_moran_dialect)
+	text = {
+		localization_key = etra_rank_duchy_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:late_moran_dialect }
+		}
+	}
+	# Moran (also: novus_moran_dialect)
+	text = {
+		localization_key = etra_rank_duchy_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:novus_moran_dialect }
+		}
+	}
+	# Moran (also: vivum_moran_dialect)
+	text = {
+		localization_key = etra_rank_duchy_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vivum_moran_dialect }
+		}
+	}
+	# Moran
+	text = {
+		localization_key = etra_rank_county_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:moran_language }
+		}
+	}
+	# Moran (also: early_moran_dialect)
+	text = {
+		localization_key = etra_rank_county_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:early_moran_dialect }
+		}
+	}
+	# Moran (also: late_moran_dialect)
+	text = {
+		localization_key = etra_rank_county_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:late_moran_dialect }
+		}
+	}
+	# Moran (also: novus_moran_dialect)
+	text = {
+		localization_key = etra_rank_county_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:novus_moran_dialect }
+		}
+	}
+	# Moran (also: vivum_moran_dialect)
+	text = {
+		localization_key = etra_rank_county_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vivum_moran_dialect }
+		}
+	}
+	# Vulgar Moran
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vulgar_moran_language }
+		}
+	}
+	# Vulgar Moran (also: rovina_dialect)
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rovina_dialect }
+		}
+	}
+	# Vulgar Moran (also: koth_dialect)
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:koth_dialect }
+		}
+	}
+	# Vulgar Moran (also: thanok_dialect)
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:thanok_dialect }
+		}
+	}
+	# Vulgar Moran (also: fluviolander_dialect)
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fluviolander_dialect }
+		}
+	}
+	# Vulgar Moran (also: fioranelle_dialect)
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fioranelle_dialect }
+		}
+	}
+	# Vulgar Moran (also: marcheur_dialect)
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:marcheur_dialect }
+		}
+	}
+	# Vulgar Moran (also: rattolini_dialect)
+	text = {
+		localization_key = etra_rank_empire_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rattolini_dialect }
+		}
+	}
+	# Vulgar Moran
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vulgar_moran_language }
+		}
+	}
+	# Vulgar Moran (also: rovina_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rovina_dialect }
+		}
+	}
+	# Vulgar Moran (also: koth_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:koth_dialect }
+		}
+	}
+	# Vulgar Moran (also: thanok_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:thanok_dialect }
+		}
+	}
+	# Vulgar Moran (also: fluviolander_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fluviolander_dialect }
+		}
+	}
+	# Vulgar Moran (also: fioranelle_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fioranelle_dialect }
+		}
+	}
+	# Vulgar Moran (also: marcheur_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:marcheur_dialect }
+		}
+	}
+	# Vulgar Moran (also: rattolini_dialect)
+	text = {
+		localization_key = etra_rank_kingdom_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rattolini_dialect }
+		}
+	}
+	# Vulgar Moran
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vulgar_moran_language }
+		}
+	}
+	# Vulgar Moran (also: rovina_dialect)
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rovina_dialect }
+		}
+	}
+	# Vulgar Moran (also: koth_dialect)
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:koth_dialect }
+		}
+	}
+	# Vulgar Moran (also: thanok_dialect)
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:thanok_dialect }
+		}
+	}
+	# Vulgar Moran (also: fluviolander_dialect)
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fluviolander_dialect }
+		}
+	}
+	# Vulgar Moran (also: fioranelle_dialect)
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fioranelle_dialect }
+		}
+	}
+	# Vulgar Moran (also: marcheur_dialect)
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:marcheur_dialect }
+		}
+	}
+	# Vulgar Moran (also: rattolini_dialect)
+	text = {
+		localization_key = etra_rank_duchy_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rattolini_dialect }
+		}
+	}
+	# Vulgar Moran
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vulgar_moran_language }
+		}
+	}
+	# Vulgar Moran (also: rovina_dialect)
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rovina_dialect }
+		}
+	}
+	# Vulgar Moran (also: koth_dialect)
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:koth_dialect }
+		}
+	}
+	# Vulgar Moran (also: thanok_dialect)
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:thanok_dialect }
+		}
+	}
+	# Vulgar Moran (also: fluviolander_dialect)
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fluviolander_dialect }
+		}
+	}
+	# Vulgar Moran (also: fioranelle_dialect)
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:fioranelle_dialect }
+		}
+	}
+	# Vulgar Moran (also: marcheur_dialect)
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:marcheur_dialect }
+		}
+	}
+	# Vulgar Moran (also: rattolini_dialect)
+	text = {
+		localization_key = etra_rank_county_vulgar_moran_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:rattolini_dialect }
+		}
+	}
+	# Armonorican
+	text = {
+		localization_key = etra_rank_empire_armonorican_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:armonorican_language }
+		}
+	}
+	# Armonorican
+	text = {
+		localization_key = etra_rank_kingdom_armonorican_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:armonorican_language }
+		}
+	}
+	# Armonorican
+	text = {
+		localization_key = etra_rank_duchy_armonorican_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:armonorican_language }
+		}
+	}
+	# Armonorican
+	text = {
+		localization_key = etra_rank_county_armonorican_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:armonorican_language }
+		}
+	}
+	# Hravevi
+	text = {
+		localization_key = etra_rank_empire_hravevi_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hravevi_language }
+		}
+	}
+	# Hravevi
+	text = {
+		localization_key = etra_rank_kingdom_hravevi_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hravevi_language }
+		}
+	}
+	# Hravevi
+	text = {
+		localization_key = etra_rank_duchy_hravevi_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hravevi_language }
+		}
+	}
+	# Hravevi
+	text = {
+		localization_key = etra_rank_county_hravevi_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hravevi_language }
+		}
+	}
+	# Vothivrian
+	text = {
+		localization_key = etra_rank_empire_vothivrian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vothivrian_language }
+		}
+	}
+	# Vothivrian
+	text = {
+		localization_key = etra_rank_kingdom_vothivrian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vothivrian_language }
+		}
+	}
+	# Vothivrian
+	text = {
+		localization_key = etra_rank_duchy_vothivrian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vothivrian_language }
+		}
+	}
+	# Vothivrian
+	text = {
+		localization_key = etra_rank_county_vothivrian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:vothivrian_language }
+		}
+	}
+	# Jasskadian
+	text = {
+		localization_key = etra_rank_empire_jasskadian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:jasskadian_language }
+		}
+	}
+	# Jasskadian
+	text = {
+		localization_key = etra_rank_kingdom_jasskadian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:jasskadian_language }
+		}
+	}
+	# Jasskadian
+	text = {
+		localization_key = etra_rank_duchy_jasskadian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:jasskadian_language }
+		}
+	}
+	# Jasskadian
+	text = {
+		localization_key = etra_rank_county_jasskadian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:jasskadian_language }
+		}
+	}
+	# Hipparian
+	text = {
+		localization_key = etra_rank_empire_hipparian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hipparian_language }
+		}
+	}
+	# Hipparian
+	text = {
+		localization_key = etra_rank_kingdom_hipparian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hipparian_language }
+		}
+	}
+	# Hipparian
+	text = {
+		localization_key = etra_rank_duchy_hipparian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hipparian_language }
+		}
+	}
+	# Hipparian
+	text = {
+		localization_key = etra_rank_county_hipparian_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:hipparian_language }
+		}
+	}
+	# Typhrean Elven
+	text = {
+		localization_key = etra_rank_empire_typhrean_elven_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:typhrean_elven_language }
+		}
+	}
+	# Typhrean Elven
+	text = {
+		localization_key = etra_rank_kingdom_typhrean_elven_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:typhrean_elven_language }
+		}
+	}
+	# Typhrean Elven
+	text = {
+		localization_key = etra_rank_duchy_typhrean_elven_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:typhrean_elven_language }
+		}
+	}
+	# Typhrean Elven
+	text = {
+		localization_key = etra_rank_county_typhrean_elven_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:typhrean_elven_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_empire_porcish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_kingdom_porcish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_duchy_porcish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_county_porcish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+
 }
