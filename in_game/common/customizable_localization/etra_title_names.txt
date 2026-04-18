@@ -12,49 +12,49 @@ A02 = {
 		localization_key = A02_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A02_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A02_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A02_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A02_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A02_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A02_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -77,49 +77,49 @@ A11 = {
 		localization_key = A11_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A11_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A11_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A11_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A11_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A11_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A11_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -141,49 +141,49 @@ A12 = {
 		localization_key = A12_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A12_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A12_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A12_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A12_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A12_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A12_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -205,49 +205,49 @@ A29 = {
 		localization_key = A29_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A29_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A29_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A29_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A29_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A29_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A29_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -269,49 +269,49 @@ A282 = {
 		localization_key = A282_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A282_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A282_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A282_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A282_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A282_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A282_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -333,49 +333,49 @@ A283 = {
 		localization_key = A283_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A283_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A283_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A283_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A283_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A283_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A283_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -397,49 +397,49 @@ A285 = {
 		localization_key = A285_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A285_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A285_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A285_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A285_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A285_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A285_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -461,49 +461,49 @@ A286 = {
 		localization_key = A286_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A286_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A286_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A286_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A286_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A286_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A286_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -525,49 +525,49 @@ A287 = {
 		localization_key = A287_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A287_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A287_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A287_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A287_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A287_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A287_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -589,49 +589,49 @@ A288 = {
 		localization_key = A288_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A288_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A288_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A288_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A288_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A288_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A288_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -653,49 +653,49 @@ A289 = {
 		localization_key = A289_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A289_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A289_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A289_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A289_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A289_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A289_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -717,49 +717,49 @@ A290 = {
 		localization_key = A290_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A290_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A290_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A290_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A290_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A290_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A290_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -781,49 +781,49 @@ A291 = {
 		localization_key = A291_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A291_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A291_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A291_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A291_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A291_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A291_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -845,49 +845,49 @@ A292 = {
 		localization_key = A292_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A292_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A292_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A292_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A292_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A292_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A292_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -909,49 +909,49 @@ A293 = {
 		localization_key = A293_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A293_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A293_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A293_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A293_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A293_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A293_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -973,49 +973,49 @@ A295 = {
 		localization_key = A295_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A295_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A295_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A295_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A295_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A295_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A295_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1037,49 +1037,49 @@ A296 = {
 		localization_key = A296_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A296_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A296_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A296_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A296_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A296_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A296_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1101,49 +1101,49 @@ A299 = {
 		localization_key = A299_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A299_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A299_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A299_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A299_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A299_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A299_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1165,49 +1165,49 @@ A300 = {
 		localization_key = A300_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A300_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A300_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A300_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A300_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A300_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A300_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1229,49 +1229,49 @@ A301 = {
 		localization_key = A301_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A301_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A301_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A301_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A301_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A301_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A301_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1293,49 +1293,49 @@ A303 = {
 		localization_key = A303_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A303_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A303_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A303_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A303_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A303_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A303_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1357,49 +1357,49 @@ A284 = {
 		localization_key = A284_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A284_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A284_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A284_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A284_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A284_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A284_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1421,49 +1421,49 @@ A294 = {
 		localization_key = A294_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A294_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A294_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A294_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A294_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A294_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A294_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1485,49 +1485,49 @@ A297 = {
 		localization_key = A297_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A297_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A297_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A297_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A297_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A297_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A297_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1549,49 +1549,49 @@ A298 = {
 		localization_key = A298_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A298_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A298_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A298_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A298_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A298_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A298_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1613,49 +1613,49 @@ A302 = {
 		localization_key = A302_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A302_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A302_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A302_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A302_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A302_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A302_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1677,49 +1677,49 @@ A169 = {
 		localization_key = A169_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A169_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A169_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A169_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A169_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A169_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A169_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1741,49 +1741,49 @@ A176 = {
 		localization_key = A176_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A176_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A176_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A176_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A176_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A176_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A176_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1805,49 +1805,49 @@ A242 = {
 		localization_key = A242_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A242_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A242_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A242_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A242_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A242_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A242_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {
@@ -1869,49 +1869,49 @@ A54 = {
 		localization_key = A54_ardrainic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:ardrainic_language }
+			culture.language = language:ardrainic_language
 		}
 	}
 	text = {
 		localization_key = A54_torrent
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:torrent_language }
+			culture.language = language:torrent_language
 		}
 	}
 	text = {
 		localization_key = A54_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:moran_language }
+			culture.language = language:moran_language
 		}
 	}
 	text = {
 		localization_key = A54_vulgar_moran
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:vulgar_moran_language }
+			culture.language = language:vulgar_moran_language
 		}
 	}
 	text = {
 		localization_key = A54_sordrenic
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:sordrenic_language }
+			culture.language = language:sordrenic_language
 		}
 	}
 	text = {
 		localization_key = A54_armonorican
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:armonorican_language }
+			culture.language = language:armonorican_language
 		}
 	}
 	text = {
 		localization_key = A54_hravevi
 		trigger = {
 			has_game_rule = etra_names_fantasy
-			ruler ?= { culture.language = language:hravevi_language }
+			culture.language = language:hravevi_language
 		}
 	}
 	text = {

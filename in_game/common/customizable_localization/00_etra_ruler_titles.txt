@@ -2293,6 +2293,46 @@ country_flavor = {
 			ruler ?= { culture.language = language:typhrean_elven_language }
 		}
 	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_empire_porcish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_kingdom_porcish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_duchy_porcish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_county_porcish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
 
 	# === ORDER — SPECIFIC ===
 
@@ -4805,6 +4845,50 @@ country_flavor = {
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
 			ruler ?= { culture.language = language:typhrean_elven_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_empire_porcish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_kingdom_porcish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_duchy_porcish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_county_porcish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture.language = language:porcish_language }
 		}
 	}
 
@@ -7321,6 +7405,50 @@ country_flavor = {
 			ruler ?= { culture.language = language:typhrean_elven_language }
 		}
 	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_empire_porcish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_kingdom_porcish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_duchy_porcish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_county_porcish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
 
 	# === REPUBLIC — SPECIFIC ===
 
@@ -9605,6 +9733,46 @@ country_flavor = {
 			country_rank_is_county = yes
 			government_type = government_type:republic
 			ruler ?= { culture.language = language:typhrean_elven_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_empire_porcish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:republic
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_kingdom_porcish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:republic
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_duchy_porcish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:republic
+			ruler ?= { culture.language = language:porcish_language }
+		}
+	}
+	# Porcish
+	text = {
+		localization_key = etra_rank_county_porcish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:republic
+			ruler ?= { culture.language = language:porcish_language }
 		}
 	}
 

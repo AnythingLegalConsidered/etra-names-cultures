@@ -827,6 +827,20 @@ l_english:
  etra_rank_county_typhrean_elven_ruler_male: "Knez"
  etra_rank_county_typhrean_elven_ruler_female: "Knezinja"
 
+ # PORCISH
+ etra_rank_empire_porcish: "Empire"
+ etra_rank_empire_porcish_ruler_male: "Emperor"
+ etra_rank_empire_porcish_ruler_female: "Empress"
+ etra_rank_kingdom_porcish: "Kingdom"
+ etra_rank_kingdom_porcish_ruler_male: "King"
+ etra_rank_kingdom_porcish_ruler_female: "Queen"
+ etra_rank_duchy_porcish: "Duchy"
+ etra_rank_duchy_porcish_ruler_male: "Duke"
+ etra_rank_duchy_porcish_ruler_female: "Duchess"
+ etra_rank_county_porcish: "Earldom"
+ etra_rank_county_porcish_ruler_male: "Earl"
+ etra_rank_county_porcish_ruler_female: "Countess"
+
  # --- ORDER RULER TITLES ---
  # ARDRAINIC
  etra_rank_empire_sittadellian_order: "Conestabliet"
@@ -1365,6 +1379,20 @@ l_english:
  etra_rank_county_typhrean_elven_order: "Vitezstvo"
  etra_rank_county_typhrean_elven_order_ruler_male: "Vitez"
  etra_rank_county_typhrean_elven_order_ruler_female: "Vitezka"
+
+ # PORCISH
+ etra_rank_empire_porcish_order: "Grandmastery"
+ etra_rank_empire_porcish_order_ruler_male: "Grandmaster"
+ etra_rank_empire_porcish_order_ruler_female: "Grandmistress"
+ etra_rank_kingdom_porcish_order: "Marshalcy"
+ etra_rank_kingdom_porcish_order_ruler_male: "Marshal"
+ etra_rank_kingdom_porcish_order_ruler_female: "Marshaless"
+ etra_rank_duchy_porcish_order: "Commandery"
+ etra_rank_duchy_porcish_order_ruler_male: "Commander"
+ etra_rank_duchy_porcish_order_ruler_female: "Commandress"
+ etra_rank_county_porcish_order: "Wardenry"
+ etra_rank_county_porcish_order_ruler_male: "Warden"
+ etra_rank_county_porcish_order_ruler_female: "Wardeness"
 
  # --- THEOCRACY RULER TITLES ---
  # ARDRAINIC
@@ -1905,6 +1933,20 @@ l_english:
  etra_rank_county_typhrean_elven_theocracy_ruler_male: "Svestenik"
  etra_rank_county_typhrean_elven_theocracy_ruler_female: "Svestenica"
 
+ # PORCISH
+ etra_rank_empire_porcish_theocracy: "Archpontificate"
+ etra_rank_empire_porcish_theocracy_ruler_male: "Archpontiff"
+ etra_rank_empire_porcish_theocracy_ruler_female: "Archpontifess"
+ etra_rank_kingdom_porcish_theocracy: "Archbishopric"
+ etra_rank_kingdom_porcish_theocracy_ruler_male: "Archbishop"
+ etra_rank_kingdom_porcish_theocracy_ruler_female: "Archbishopess"
+ etra_rank_duchy_porcish_theocracy: "Bishopric"
+ etra_rank_duchy_porcish_theocracy_ruler_male: "Bishop"
+ etra_rank_duchy_porcish_theocracy_ruler_female: "Bishopess"
+ etra_rank_county_porcish_theocracy: "Parish"
+ etra_rank_county_porcish_theocracy_ruler_male: "Priest"
+ etra_rank_county_porcish_theocracy_ruler_female: "Priestess"
+
  # --- REPUBLIC RULER TITLES ---
  # ARDRAINIC
  etra_rank_empire_sittadellian_republic: "Chancelert"
@@ -2443,6 +2485,20 @@ l_english:
  etra_rank_county_typhrean_elven_republic: "Stareshinstvo"
  etra_rank_county_typhrean_elven_republic_ruler_male: "Stareshin"
  etra_rank_county_typhrean_elven_republic_ruler_female: "Stareshina"
+
+ # PORCISH
+ etra_rank_empire_porcish_republic: "Protectorate"
+ etra_rank_empire_porcish_republic_ruler_male: "Lord-Protector"
+ etra_rank_empire_porcish_republic_ruler_female: "Lady-Protector"
+ etra_rank_kingdom_porcish_republic: "Consulship"
+ etra_rank_kingdom_porcish_republic_ruler_male: "Consul"
+ etra_rank_kingdom_porcish_republic_ruler_female: "Consuless"
+ etra_rank_duchy_porcish_republic: "Mayoralty"
+ etra_rank_duchy_porcish_republic_ruler_male: "Mayor"
+ etra_rank_duchy_porcish_republic_ruler_female: "Mayoress"
+ etra_rank_county_porcish_republic: "Shrievalty"
+ etra_rank_county_porcish_republic_ruler_male: "Sheriff"
+ etra_rank_county_porcish_republic_ruler_female: "Sheriffess"
 
  # --- CONSTRUCTION TEMPLATES ---
  etra_construction_empire_sittadellian: "Empereint de $NAME$"
@@ -3499,4 +3555,30 @@ l_english:
  etra_construction_county_typhrean_elven_republic_map: "$NAME$"
  etra_order_typhrean_elven: "$NAME$"
  etra_order_typhrean_elven_map: "$NAME$"
+ etra_construction_empire_porcish: "Empire of $NAME$"
+ etra_construction_empire_porcish_map: "$NAME$"
+ etra_construction_kingdom_porcish: "Kingdom of $NAME$"
+ etra_construction_kingdom_porcish_map: "$NAME$"
+ etra_construction_duchy_porcish: "Duchy of $NAME$"
+ etra_construction_duchy_porcish_map: "$NAME$"
+ etra_construction_county_porcish: "Earldom of $NAME$"
+ etra_construction_county_porcish_map: "$NAME$"
+ etra_construction_empire_porcish_theocracy: "Archpontificate of $NAME$"
+ etra_construction_empire_porcish_theocracy_map: "$NAME$"
+ etra_construction_kingdom_porcish_theocracy: "Archbishopric of $NAME$"
+ etra_construction_kingdom_porcish_theocracy_map: "$NAME$"
+ etra_construction_duchy_porcish_theocracy: "Bishopric of $NAME$"
+ etra_construction_duchy_porcish_theocracy_map: "$NAME$"
+ etra_construction_county_porcish_theocracy: "Parish of $NAME$"
+ etra_construction_county_porcish_theocracy_map: "$NAME$"
+ etra_construction_empire_porcish_republic: "Protectorate of $NAME$"
+ etra_construction_empire_porcish_republic_map: "$NAME$"
+ etra_construction_kingdom_porcish_republic: "Consulship of $NAME$"
+ etra_construction_kingdom_porcish_republic_map: "$NAME$"
+ etra_construction_duchy_porcish_republic: "Mayoralty of $NAME$"
+ etra_construction_duchy_porcish_republic_map: "$NAME$"
+ etra_construction_county_porcish_republic: "Shrievalty of $NAME$"
+ etra_construction_county_porcish_republic_map: "$NAME$"
+ etra_order_porcish: "$NAME$"
+ etra_order_porcish_map: "$NAME$"
 
