@@ -400,7 +400,31 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_order_vothivrian
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_order_vothivrian
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
 			ruler ?= { culture.language = language:vothivrian_language }
+		}
+	}
+	text = {
+		localization_key = etra_order_jasskadian
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:ashenborn_culture }
 		}
 	}
 	text = {
@@ -417,6 +441,14 @@
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
 			ruler ?= { culture.language = language:hipparian_language }
+		}
+	}
+	text = {
+		localization_key = etra_order_typhrean_elven
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:sarusthari_culture }
 		}
 	}
 	text = {
@@ -5736,6 +5768,78 @@
 
 	# --- VOTHIVRIAN ---
 	text = {
+		localization_key = etra_construction_empire_arineran
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_arineran
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_arineran
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_arineran
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_nachrish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_nachrish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_nachrish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_nachrish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_vothivrian
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -5772,6 +5876,78 @@
 		}
 	}
 	text = {
+		localization_key = etra_construction_empire_arineran_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_arineran_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_arineran_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_arineran_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_nachrish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_nachrish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_nachrish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_nachrish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_vothivrian_theocracy
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -5805,6 +5981,78 @@
 			government_type = government_type:theocracy
 			country_rank_is_county = yes
 			ruler ?= { culture.language = language:vothivrian_language }
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_arineran_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_arineran_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_arineran_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_arineran_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:arineran_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_nachrish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_nachrish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_nachrish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:nachrish_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_nachrish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:nachrish_culture }
 		}
 	}
 	text = {
@@ -5846,6 +6094,42 @@
 
 	# --- JASSKADIAN ---
 	text = {
+		localization_key = etra_construction_empire_ashenborn
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_ashenborn
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_ashenborn
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_ashenborn
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_jasskadian
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -5882,6 +6166,42 @@
 		}
 	}
 	text = {
+		localization_key = etra_construction_empire_ashenborn_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_ashenborn_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_ashenborn_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_ashenborn_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_jasskadian_theocracy
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -5915,6 +6235,42 @@
 			government_type = government_type:theocracy
 			country_rank_is_county = yes
 			ruler ?= { culture.language = language:jasskadian_language }
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_ashenborn_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_ashenborn_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_ashenborn_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:ashenborn_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_ashenborn_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:ashenborn_culture }
 		}
 	}
 	text = {
@@ -6066,6 +6422,42 @@
 
 	# --- TYPHREAN_ELVEN ---
 	text = {
+		localization_key = etra_construction_empire_sarusthari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_sarusthari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_sarusthari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_sarusthari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_typhrean_elven
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -6102,6 +6494,42 @@
 		}
 	}
 	text = {
+		localization_key = etra_construction_empire_sarusthari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_sarusthari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_sarusthari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_sarusthari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_typhrean_elven_theocracy
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -6135,6 +6563,42 @@
 			government_type = government_type:theocracy
 			country_rank_is_county = yes
 			ruler ?= { culture.language = language:typhrean_elven_language }
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_sarusthari_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_empire = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_sarusthari_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_kingdom = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_sarusthari_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_duchy = yes
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_sarusthari_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_county = yes
+			ruler ?= { culture = culture:sarusthari_culture }
 		}
 	}
 	text = {
