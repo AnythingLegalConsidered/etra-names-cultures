@@ -8,456 +8,561 @@
 l_english:
  # === HIPPARIAN DIALECT VARIANTS ===
 # --- MALE NAMES ---
- name_tsauninot: "Tsauninot"
- name_tsauninot.valakind_dialect: "Tsauninut"
- name_tsauninot.telanian_dialect: "Tsauninoth"
- name_tsauninot.zilaanian_dialect: "Tsauninokan"
+ name_przemysław: "Przemysław"
+ name_przemysław.valakind_dialect: "Przemysłow"
+ name_przemysław.telanian_dialect: "Przemysłan"
+ name_przemysław.mavisan_dialect: "Przemyslaw"
+ name_przemysław.zilaanian_dialect: "Przemysławy"
 
- name_tsawkon: "Tsawkon"
- name_tsawkon.valakind_dialect: "Tsawkun"
- name_tsawkon.telanian_dialect: "Tsawkhonh"
- name_tsawkon.mavisan_dialect: "Tsawken"
- name_tsawkon.zilaanian_dialect: "Tsawkonzi"
+ name_przemek: "Przemek"
 
- name_tsawamah: "Tsawamah"
- name_tsawamah.valakind_dialect: "Tsawamuh"
- name_tsawamah.telanian_dialect: "Tsawamahh"
- name_tsawamah.mavisan_dialect: "Tsawameh"
- name_tsawamah.zilaanian_dialect: "Tsawamak"
+ name_przemyśl: "Przemyśl"
 
- name_tstakurri: "Tstakurri"
+ name_wojciech: "Wojciech"
 
- name_tstamah: "Tstamah"
- name_tstamah.valakind_dialect: "Tstamuh"
- name_tstamah.telanian_dialect: "Tstamahh"
- name_tstamah.mavisan_dialect: "Tstameh"
- name_tstamah.zilaanian_dialect: "Tstamak"
+ name_wojsław: "Wojsław"
+ name_wojsław.valakind_dialect: "Wojsłow"
+ name_wojsław.telanian_dialect: "Wojsłan"
+ name_wojsław.mavisan_dialect: "Wojslaw"
+ name_wojsław.zilaanian_dialect: "Wojsławy"
 
- name_tstahar: "Tstahar"
- name_tstahar.mavisan_dialect: "Tstaher"
+ name_wojmił: "Wojmił"
+ name_wojmił.valakind_dialect: "Wojmuł"
+ name_wojmił.mavisan_dialect: "Wojmil"
+ name_wojmił.zilaanian_dialect: "Wojmiłec"
 
- name_sationwnhown: "Sationwnhown"
+ name_szczepan: "Szczepan"
 
- name_satkon: "Satkon"
- name_satkon.valakind_dialect: "Satkun"
- name_satkon.telanian_dialect: "Satkhonh"
- name_satkon.mavisan_dialect: "Satken"
- name_satkon.zilaanian_dialect: "Satkonzi"
+ name_szczęsny: "Szczęsny"
+ name_szczęsny.mavisan_dialect: "Szczensny"
 
- name_sathar: "Sathar"
- name_sathar.mavisan_dialect: "Sather"
+ name_szczebrzesz: "Szczebrzesz"
+ name_szczebrzesz.telanian_dialect: "Szczebrzehsz"
 
- name_kchinowah: "Kchinowah"
+ name_mieszko: "Mieszko"
+ name_mieszko.telanian_dialect: "Miehszko"
 
- name_kchwan: "Kchwan"
+ name_mieszek: "Mieszek"
+ name_mieszek.telanian_dialect: "Miehszek"
 
- name_tashar: "Tashar"
- name_tashar.mavisan_dialect: "Tasher"
+ name_mieszkar: "Mieszkar"
+ name_mieszkar.telanian_dialect: "Miehszkar"
 
- name_tashdik: "Tashdik"
+ name_grzegorz: "Grzegorz"
 
- name_tashnu: "Tashnu"
+ name_grzymisław: "Grzymisław"
+ name_grzymisław.valakind_dialect: "Grzymisłow"
+ name_grzymisław.telanian_dialect: "Grzymisłan"
+ name_grzymisław.mavisan_dialect: "Grzymislaw"
+ name_grzymisław.zilaanian_dialect: "Grzymisławy"
 
- name_tahoma: "Tahoma"
+ name_grzewid: "Grzewid"
 
- name_tahokon: "Tahokon"
- name_tahokon.valakind_dialect: "Tahokun"
- name_tahokon.telanian_dialect: "Tahokhonh"
- name_tahokon.mavisan_dialect: "Tahoken"
- name_tahokon.zilaanian_dialect: "Tahokonzi"
+ name_włodzimierz: "Włodzimierz"
+ name_włodzimierz.mavisan_dialect: "Wlodzimierz"
 
- name_tahonot: "Tahonot"
- name_tahonot.valakind_dialect: "Tahonut"
- name_tahonot.telanian_dialect: "Tahonoth"
- name_tahonot.zilaanian_dialect: "Tahonokan"
+ name_włodek: "Włodek"
+ name_włodek.mavisan_dialect: "Wlodek"
 
- name_tinnehinan: "Tinnehinan"
+ name_włodybor: "Włodybor"
+ name_włodybor.valakind_dialect: "Włodybur"
+ name_włodybor.mavisan_dialect: "Wlodybor"
 
- name_tinnokon: "Tinnokon"
- name_tinnokon.valakind_dialect: "Tinnokun"
- name_tinnokon.telanian_dialect: "Tinnokhonh"
- name_tinnokon.mavisan_dialect: "Tinnoken"
- name_tinnokon.zilaanian_dialect: "Tinnokonzi"
+ name_stanisław: "Stanisław"
+ name_stanisław.valakind_dialect: "Stanisłow"
+ name_stanisław.telanian_dialect: "Stanisłan"
+ name_stanisław.mavisan_dialect: "Stanislaw"
+ name_stanisław.zilaanian_dialect: "Stanisławy"
 
- name_tewinnun: "Tewinnun"
+ name_staszek: "Staszek"
+ name_staszek.telanian_dialect: "Stahszek"
 
- name_tewahinno: "Tewahinno"
+ name_stanimir: "Stanimir"
+ name_stanimir.valakind_dialect: "Stanimur"
+ name_stanimir.telanian_dialect: "Stanimyrh"
+ name_stanimir.zilaanian_dialect: "Stanimirz"
 
- name_tewakon: "Tewakon"
- name_tewakon.valakind_dialect: "Tewakun"
- name_tewakon.telanian_dialect: "Tewakhonh"
- name_tewakon.mavisan_dialect: "Tewaken"
- name_tewakon.zilaanian_dialect: "Tewakonzi"
+ name_bolesław: "Bolesław"
+ name_bolesław.valakind_dialect: "Bolesłow"
+ name_bolesław.telanian_dialect: "Bolesłan"
+ name_bolesław.mavisan_dialect: "Boleslaw"
+ name_bolesław.zilaanian_dialect: "Bolesławy"
 
- name_chowabah: "Chowabah"
+ name_bolek: "Bolek"
 
- name_chowakon: "Chowakon"
- name_chowakon.valakind_dialect: "Chowakun"
- name_chowakon.telanian_dialect: "Chowakhonh"
- name_chowakon.mavisan_dialect: "Chowaken"
- name_chowakon.zilaanian_dialect: "Chowakonzi"
+ name_bolemił: "Bolemił"
+ name_bolemił.valakind_dialect: "Bolemuł"
+ name_bolemił.mavisan_dialect: "Bolemil"
+ name_bolemił.zilaanian_dialect: "Bolemiłec"
 
- name_chowamah: "Chowamah"
- name_chowamah.valakind_dialect: "Chowamuh"
- name_chowamah.telanian_dialect: "Chowamahh"
- name_chowamah.mavisan_dialect: "Chowameh"
- name_chowamah.zilaanian_dialect: "Chowamak"
+ name_bronisław: "Bronisław"
+ name_bronisław.valakind_dialect: "Bronisłow"
+ name_bronisław.telanian_dialect: "Bronisłan"
+ name_bronisław.mavisan_dialect: "Bronislaw"
+ name_bronisław.zilaanian_dialect: "Bronisławy"
 
- name_kianhoon: "Kianhoon"
+ name_bronek: "Bronek"
 
- name_kianmah: "Kianmah"
- name_kianmah.valakind_dialect: "Kianmuh"
- name_kianmah.telanian_dialect: "Kianmahh"
- name_kianmah.mavisan_dialect: "Kianmeh"
- name_kianmah.zilaanian_dialect: "Kianmak"
+ name_bronowit: "Bronowit"
 
- name_tiatesun: "Tiatesun"
+ name_jarosław: "Jarosław"
+ name_jarosław.valakind_dialect: "Jarosłow"
+ name_jarosław.telanian_dialect: "Jarosłan"
+ name_jarosław.mavisan_dialect: "Jaroslaw"
+ name_jarosław.zilaanian_dialect: "Jarosławy"
 
- name_tiadik: "Tiadik"
+ name_jarek: "Jarek"
 
- name_soakiantow: "Soakiantow"
+ name_jaromił: "Jaromił"
+ name_jaromił.valakind_dialect: "Jaromuł"
+ name_jaromił.mavisan_dialect: "Jaromil"
+ name_jaromił.zilaanian_dialect: "Jaromiłec"
 
- name_soaku: "Soaku"
+ name_siemowit: "Siemowit"
 
- name_toackooch: "Toackooch"
+ name_siemomysł: "Siemomysł"
+ name_siemomysł.mavisan_dialect: "Siemomysl"
 
- name_toaku: "Toaku"
+ name_siemosław: "Siemosław"
+ name_siemosław.valakind_dialect: "Siemosłow"
+ name_siemosław.telanian_dialect: "Siemosłan"
+ name_siemosław.mavisan_dialect: "Siemoslaw"
+ name_siemosław.zilaanian_dialect: "Siemosławy"
 
- name_mattan: "Mattan"
+ name_bogdan: "Bogdan"
 
- name_matkon: "Matkon"
- name_matkon.valakind_dialect: "Matkun"
- name_matkon.telanian_dialect: "Matkhonh"
- name_matkon.mavisan_dialect: "Matken"
- name_matkon.zilaanian_dialect: "Matkonzi"
+ name_bogumił: "Bogumił"
+ name_bogumił.valakind_dialect: "Bogumuł"
+ name_bogumił.mavisan_dialect: "Bogumil"
+ name_bogumił.zilaanian_dialect: "Bogumiłec"
 
- name_sohone: "Sohone"
+ name_bogusław: "Bogusław"
+ name_bogusław.valakind_dialect: "Bogusłow"
+ name_bogusław.telanian_dialect: "Bogusłan"
+ name_bogusław.mavisan_dialect: "Boguslaw"
+ name_bogusław.zilaanian_dialect: "Bogusławy"
 
- name_sohonu: "Sohonu"
+ name_świętopełk: "Świętopełk"
+ name_świętopełk.mavisan_dialect: "Świentopelk"
 
- name_hiahidock: "Hiahidock"
+ name_świętosław: "Świętosław"
+ name_świętosław.valakind_dialect: "Świętosłow"
+ name_świętosław.telanian_dialect: "Świętosłan"
+ name_świętosław.mavisan_dialect: "Świentoslaw"
+ name_świętosław.zilaanian_dialect: "Świętosławy"
 
- name_hianot: "Hianot"
- name_hianot.valakind_dialect: "Hianut"
- name_hianot.telanian_dialect: "Hianoth"
- name_hianot.zilaanian_dialect: "Hianokan"
+ name_zbigniew: "Zbigniew"
+ name_zbigniew.valakind_dialect: "Zbignyew"
+ name_zbigniew.zilaanian_dialect: "Zbigniewac"
 
- name_ahanu: "Ahanu"
+ name_zbysław: "Zbysław"
+ name_zbysław.valakind_dialect: "Zbysłow"
+ name_zbysław.telanian_dialect: "Zbysłan"
+ name_zbysław.mavisan_dialect: "Zbyslaw"
+ name_zbysław.zilaanian_dialect: "Zbysławy"
 
- name_ahdik: "Ahdik"
+ name_lech: "Lech"
 
- name_ahnot: "Ahnot"
- name_ahnot.valakind_dialect: "Ahnut"
- name_ahnot.telanian_dialect: "Ahnoth"
- name_ahnot.zilaanian_dialect: "Ahnokan"
+ name_lechosław: "Lechosław"
+ name_lechosław.valakind_dialect: "Lechosłow"
+ name_lechosław.telanian_dialect: "Lechosłan"
+ name_lechosław.mavisan_dialect: "Lechoslaw"
+ name_lechosław.zilaanian_dialect: "Lechosławy"
 
- name_akando: "Akando"
+ name_leszek: "Leszek"
+ name_leszek.telanian_dialect: "Lehszek"
 
- name_akmah: "Akmah"
- name_akmah.valakind_dialect: "Akmuh"
- name_akmah.telanian_dialect: "Akmahh"
- name_akmah.mavisan_dialect: "Akmeh"
- name_akmah.zilaanian_dialect: "Akmak"
+ name_piast: "Piast"
 
- name_konasha: "Konasha"
- name_konasha.valakind_dialect: "Konashu"
+ name_tadeusz: "Tadeusz"
+ name_tadeusz.telanian_dialect: "Tadeuh"
 
- name_konokon: "Konokon"
- name_konokon.valakind_dialect: "Konokun"
- name_konokon.telanian_dialect: "Konokhonh"
- name_konokon.mavisan_dialect: "Konoken"
- name_konokon.zilaanian_dialect: "Konokonzi"
+ name_mateusz: "Mateusz"
+ name_mateusz.telanian_dialect: "Mateuh"
 
- name_mikasi: "Mikasi"
+ name_bartłomiej: "Bartłomiej"
+ name_bartłomiej.mavisan_dialect: "Bartlomiej"
 
- name_mikasta: "Mikasta"
+ name_władysław: "Władysław"
+ name_władysław.valakind_dialect: "Władysłow"
+ name_władysław.telanian_dialect: "Władysłan"
+ name_władysław.mavisan_dialect: "Wladyslaw"
+ name_władysław.zilaanian_dialect: "Władysławy"
 
- name_payat: "Payat"
+ name_władek: "Władek"
+ name_władek.mavisan_dialect: "Wladek"
 
- name_paynot: "Paynot"
- name_paynot.valakind_dialect: "Paynut"
- name_paynot.telanian_dialect: "Paynoth"
- name_paynot.zilaanian_dialect: "Paynokan"
+ name_władybor: "Władybor"
+ name_władybor.valakind_dialect: "Władybur"
+ name_władybor.mavisan_dialect: "Wladybor"
 
- name_quanah: "Quanah"
+ name_czesław: "Czesław"
+ name_czesław.valakind_dialect: "Czesłow"
+ name_czesław.telanian_dialect: "Czesłan"
+ name_czesław.mavisan_dialect: "Czeslaw"
+ name_czesław.zilaanian_dialect: "Czesławy"
 
- name_quanmah: "Quanmah"
- name_quanmah.valakind_dialect: "Quanmuh"
- name_quanmah.telanian_dialect: "Quanmahh"
- name_quanmah.mavisan_dialect: "Quanmeh"
- name_quanmah.zilaanian_dialect: "Quanmak"
+ name_czesek: "Czesek"
 
- name_sequoyah: "Sequoyah"
+ name_cześmił: "Cześmił"
+ name_cześmił.valakind_dialect: "Cześmuł"
+ name_cześmił.mavisan_dialect: "Cześmil"
+ name_cześmił.zilaanian_dialect: "Cześmiłec"
 
- name_seqnot: "Seqnot"
- name_seqnot.valakind_dialect: "Seqnut"
- name_seqnot.telanian_dialect: "Seqnoth"
- name_seqnot.zilaanian_dialect: "Seqnokan"
+ name_wacław: "Wacław"
+ name_wacław.mavisan_dialect: "Waclaw"
 
- name_awan: "Awan"
+ name_wacek: "Wacek"
 
- name_baishan: "Baishan"
+ name_wackar: "Wackar"
 
- name_bemidji: "Bemidji"
+ name_kazimir: "Kazimir"
+ name_kazimir.valakind_dialect: "Kazimur"
+ name_kazimir.telanian_dialect: "Kazimyrh"
+ name_kazimir.zilaanian_dialect: "Kazimirz"
 
- name_chesmu: "Chesmu"
+ name_kazek: "Kazek"
 
- name_chitto: "Chitto"
+ name_gniewomir: "Gniewomir"
+ name_gniewomir.valakind_dialect: "Gniewomur"
+ name_gniewomir.telanian_dialect: "Gniewomyrh"
+ name_gniewomir.zilaanian_dialect: "Gniewomirz"
 
- name_dakota: "Dakota"
+ name_gniewek: "Gniewek"
 
- name_delsin: "Delsin"
+ name_dobrosław: "Dobrosław"
+ name_dobrosław.valakind_dialect: "Dobrosłow"
+ name_dobrosław.telanian_dialect: "Dobrosłan"
+ name_dobrosław.mavisan_dialect: "Dobroslaw"
+ name_dobrosław.zilaanian_dialect: "Dobrosławy"
 
- name_demothi: "Demothi"
+ name_dobrogost: "Dobrogost"
 
- name_dyami: "Dyami"
+ name_dobiesław: "Dobiesław"
+ name_dobiesław.valakind_dialect: "Dobiesłow"
+ name_dobiesław.telanian_dialect: "Dobiesłan"
+ name_dobiesław.mavisan_dialect: "Dobieslaw"
+ name_dobiesław.zilaanian_dialect: "Dobiesławy"
 
- name_elsu: "Elsu"
+ name_radosław: "Radosław"
+ name_radosław.valakind_dialect: "Radosłow"
+ name_radosław.telanian_dialect: "Radosłan"
+ name_radosław.mavisan_dialect: "Radoslaw"
+ name_radosław.zilaanian_dialect: "Radosławy"
 
- name_etu: "Etu"
+ name_radek: "Radek"
 
- name_guyapi: "Guyapi"
+ name_miłosław: "Miłosław"
+ name_miłosław.valakind_dialect: "Miłosłow"
+ name_miłosław.telanian_dialect: "Miłosłan"
+ name_miłosław.mavisan_dialect: "Miloslaw"
+ name_miłosław.zilaanian_dialect: "Miłosławy"
 
- name_hahnee: "Hahnee"
+ name_miłosz: "Miłosz"
+ name_miłosz.telanian_dialect: "Miłohsz"
+ name_miłosz.mavisan_dialect: "Milosz"
 
- name_halian: "Halian"
+ name_ludomił: "Ludomił"
+ name_ludomił.valakind_dialect: "Ludomuł"
+ name_ludomił.mavisan_dialect: "Ludomil"
+ name_ludomił.zilaanian_dialect: "Ludomiłec"
 
- name_honon: "Honon"
+ name_ludosław: "Ludosław"
+ name_ludosław.valakind_dialect: "Ludosłow"
+ name_ludosław.telanian_dialect: "Ludosłan"
+ name_ludosław.mavisan_dialect: "Ludoslaw"
+ name_ludosław.zilaanian_dialect: "Ludosławy"
 
- name_inteus: "Inteus"
+ name_zygmunt: "Zygmunt"
 
- name_kaga: "Kaga"
+ name_zygfryd: "Zygfryd"
 
- name_kohon: "Kohon"
+ name_henryk: "Henryk"
 
- name_lonan: "Lonan"
+ name_paweł: "Paweł"
+ name_paweł.mavisan_dialect: "Pawel"
 
- name_lusio: "Lusio"
+ name_paulin: "Paulin"
 
- name_maska: "Maska"
+ name_andrzej: "Andrzej"
 
- name_mojag: "Mojag"
+ name_maciej: "Maciej"
 
- name_nashoba: "Nashoba"
+ name_tomasz: "Tomasz"
+ name_tomasz.telanian_dialect: "Tomahsz"
 
- name_ouray: "Ouray"
+ name_tomek: "Tomek"
 
- name_quill: "Quill"
+ name_juliusz: "Juliusz"
+ name_juliusz.telanian_dialect: "Juliuh"
 
- name_sahale: "Sahale"
+ name_ignacy: "Ignacy"
 
- name_senaka: "Senaka"
+ name_stefan: "Stefan"
 
- name_songan: "Songan"
+ name_roman: "Roman"
 
- name_squanto: "Squanto"
+ name_damian: "Damian"
 
- name_takoda: "Takoda"
+ name_jacek: "Jacek"
 
- name_talli: "Talli"
+ name_marcin: "Marcin"
 
- name_aach: "Aach"
+ name_mariusz: "Mariusz"
+ name_mariusz.telanian_dialect: "Mariuh"
 
- name_dah: "Dah"
+ name_jan: "Jan"
 
- name_fun: "Fun"
+ name_janusz: "Janusz"
+ name_janusz.telanian_dialect: "Januh"
 
- name_out: "Out"
+ name_marek: "Marek"
 
- name_ishi: "Ishi"
+ name_aleksander: "Aleksander"
 
- name_pilan: "Pilan"
+ name_gedymin: "Gedymin"
 
- name_koana: "Koana"
- name_koana.mavisan_dialect: "Koena"
- name_koana.zilaanian_dialect: "Koanka"
+ name_jagiełło: "Jagiełło"
+ name_jagiełło.mavisan_dialect: "Jagiello"
 
- name_istee: "Istee"
+ name_krakus: "Krakus"
+
+ name_popiel: "Popiel"
 
 # --- FEMALE NAMES ---
- name_tstakurriwax: "Tstakurriwax"
+ name_bronisława: "Bronisława"
+ name_bronisława.valakind_dialect: "Bronisłowa"
+ name_bronisława.telanian_dialect: "Bronisłana"
+ name_bronisława.mavisan_dialect: "Bronislava"
+ name_bronisława.zilaanian_dialect: "Bronisławyna"
 
- name_tstawax: "Tstawax"
+ name_stanisława: "Stanisława"
+ name_stanisława.valakind_dialect: "Stanisłowa"
+ name_stanisława.telanian_dialect: "Stanisłana"
+ name_stanisława.mavisan_dialect: "Stanislava"
+ name_stanisława.zilaanian_dialect: "Stanisławyna"
 
- name_tstapittaria: "Tstapittaria"
+ name_jarosława: "Jarosława"
+ name_jarosława.valakind_dialect: "Jarosłowa"
+ name_jarosława.telanian_dialect: "Jarosłana"
+ name_jarosława.mavisan_dialect: "Jaroslava"
+ name_jarosława.zilaanian_dialect: "Jarosławyna"
 
- name_tstaruxtu: "Tstaruxtu"
+ name_przemysła: "Przemysła"
+ name_przemysła.mavisan_dialect: "Przemysla"
 
- name_tstaraska: "Tstaraska"
+ name_zbigniewa: "Zbigniewa"
 
- name_tskusaski: "Tskusaski"
+ name_radogniewa: "Radogniewa"
 
- name_tsawaski: "Tsawaski"
+ name_zosia: "Zosia"
 
- name_tsawwax: "Tsawwax"
+ name_kasia: "Kasia"
 
- name_kotowitsa: "Kotowitsa"
+ name_marysia: "Marysia"
 
- name_ahamina: "Ahamina"
- name_ahamina.valakind_dialect: "Ahamunu"
+ name_jadwisia: "Jadwisia"
 
- name_kohana: "Kohana"
- name_kohana.valakind_dialect: "Kohanu"
- name_kohana.telanian_dialect: "Kohahana"
- name_kohana.mavisan_dialect: "Kohena"
- name_kohana.zilaanian_dialect: "Kohanka"
+ name_bogumiła: "Bogumiła"
+ name_bogumiła.valakind_dialect: "Bogumuła"
+ name_bogumiła.mavisan_dialect: "Bogumila"
 
- name_kohanna: "Kohanna"
+ name_boguna: "Boguna"
 
- name_koassa: "Koassa"
- name_koassa.mavisan_dialect: "Koessa"
+ name_ludmiła: "Ludmiła"
+ name_ludmiła.valakind_dialect: "Ludmuła"
+ name_ludmiła.mavisan_dialect: "Ludmila"
 
- name_konassa: "Konassa"
- name_konassa.mavisan_dialect: "Konessa"
+ name_ludosława: "Ludosława"
+ name_ludosława.valakind_dialect: "Ludosłowa"
+ name_ludosława.telanian_dialect: "Ludosłana"
+ name_ludosława.mavisan_dialect: "Ludoslava"
+ name_ludosława.zilaanian_dialect: "Ludosławyna"
 
- name_honana: "Honana"
- name_honana.valakind_dialect: "Honanu"
- name_honana.telanian_dialect: "Honahana"
- name_honana.mavisan_dialect: "Honena"
- name_honana.zilaanian_dialect: "Honanka"
+ name_dobroniega: "Dobroniega"
 
- name_honissa: "Honissa"
+ name_dobrochna: "Dobrochna"
+ name_dobrochna.zilaanian_dialect: "Dobrochnyca"
 
- name_mikina: "Mikina"
- name_mikina.valakind_dialect: "Mikunu"
+ name_miłosława: "Miłosława"
+ name_miłosława.valakind_dialect: "Miłosłowa"
+ name_miłosława.telanian_dialect: "Miłosłana"
+ name_miłosława.mavisan_dialect: "Miloslava"
+ name_miłosława.zilaanian_dialect: "Miłosławyna"
 
- name_mikassa: "Mikassa"
- name_mikassa.mavisan_dialect: "Mikessa"
+ name_miłochna: "Miłochna"
+ name_miłochna.mavisan_dialect: "Milochna"
+ name_miłochna.zilaanian_dialect: "Miłochnyca"
 
- name_meliska: "Meliska"
+ name_kazimira: "Kazimira"
+ name_kazimira.valakind_dialect: "Kazimura"
+ name_kazimira.telanian_dialect: "Kazimyrha"
+ name_kazimira.zilaanian_dialect: "Kazimirzana"
 
- name_tahika: "Tahika"
- name_tahika.telanian_dialect: "Tahhika"
- name_tahika.mavisan_dialect: "Taheka"
- name_tahika.zilaanian_dialect: "Tahikka"
+ name_dalimira: "Dalimira"
+ name_dalimira.valakind_dialect: "Dalimura"
+ name_dalimira.telanian_dialect: "Dalimyrha"
+ name_dalimira.zilaanian_dialect: "Dalimirzana"
 
- name_akika: "Akika"
- name_akika.telanian_dialect: "Akhika"
- name_akika.mavisan_dialect: "Akeka"
- name_akika.zilaanian_dialect: "Akikka"
+ name_radosława: "Radosława"
+ name_radosława.valakind_dialect: "Radosłowa"
+ name_radosława.telanian_dialect: "Radosłana"
+ name_radosława.mavisan_dialect: "Radoslava"
+ name_radosława.zilaanian_dialect: "Radosławyna"
 
- name_sohonelea: "Sohonelea"
+ name_radmira: "Radmira"
+ name_radmira.valakind_dialect: "Radmura"
+ name_radmira.telanian_dialect: "Radmyrha"
+ name_radmira.zilaanian_dialect: "Radmirzana"
 
- name_ahnandia: "Ahnandia"
+ name_halina: "Halina"
+ name_halina.valakind_dialect: "Halyna"
 
- name_akule: "Akule"
+ name_helena: "Helena"
 
- name_alchise: "Alchise"
+ name_hanna: "Hanna"
 
- name_aseske: "Aseske"
+ name_hanka: "Hanka"
 
- name_awanni: "Awanni"
+ name_anna: "Anna"
 
- name_beshe: "Beshe"
+ name_jolanta: "Jolanta"
 
- name_bly: "Bly"
+ name_jolanka: "Jolanka"
 
- name_chachu: "Chachu"
+ name_dorota: "Dorota"
 
- name_eyata: "Eyata"
+ name_brygida: "Brygida"
 
- name_gooday: "Gooday"
+ name_maria: "Maria"
 
- name_gosheven: "Gosheven"
+ name_marzena: "Marzena"
 
- name_helaku: "Helaku"
+ name_wanda: "Wanda"
 
- name_hesutu: "Hesutu"
+ name_jadwiga: "Jadwiga"
 
- name_hototo: "Hototo"
+ name_jagoda: "Jagoda"
 
- name_hunlona: "Hunlona"
+ name_barbara: "Barbara"
 
- name_imali: "Imali"
+ name_basia: "Basia"
 
- name_kaahtenay: "Kaahtenay"
+ name_grażyna: "Grażyna"
 
- name_kilthdigai: "Kilthdigai"
+ name_małgorzata: "Małgorzata"
+ name_małgorzata.mavisan_dialect: "Malgorzata"
 
- name_lallo: "Lallo"
+ name_małgosia: "Małgosia"
+ name_małgosia.mavisan_dialect: "Malgosia"
 
- name_lenno: "Lenno"
+ name_gośka: "Gośka"
 
- name_mehnenohka: "Mehnenohka"
+ name_katarzyna: "Katarzyna"
 
- name_nashoska: "Nashoska"
+ name_bożena: "Bożena"
 
- name_payawitsa: "Payawitsa"
+ name_teresa: "Teresa"
 
- name_senaya: "Senaya"
+ name_jolka: "Jolka"
 
- name_ahalya: "Ahalya"
+ name_danka: "Danka"
 
- name_chowama: "Chowama"
+ name_kryśka: "Kryśka"
 
- name_konashka: "Konashka"
+ name_krasochna: "Krasochna"
+ name_krasochna.zilaanian_dialect: "Krasochnyca"
 
- name_tahora: "Tahora"
- name_tahora.valakind_dialect: "Tahuru"
- name_tahora.telanian_dialect: "Tahohora"
- name_tahora.zilaanian_dialect: "Tahorka"
+ name_stasia: "Stasia"
 
- name_akuya: "Akuya"
+ name_marunia: "Marunia"
 
- name_konolo: "Konolo"
+ name_julunia: "Julunia"
 
- name_matite: "Matite"
+ name_mariana: "Mariana"
+ name_mariana.valakind_dialect: "Mariąna"
 
- name_sohora: "Sohora"
- name_sohora.valakind_dialect: "Sohuru"
- name_sohora.telanian_dialect: "Sohohora"
- name_sohora.zilaanian_dialect: "Sohorka"
+ name_juliana: "Juliana"
+ name_juliana.valakind_dialect: "Juliąna"
 
- name_pilana: "Pilana"
- name_pilana.valakind_dialect: "Pilanu"
- name_pilana.telanian_dialect: "Pilahana"
- name_pilana.mavisan_dialect: "Pilena"
- name_pilana.zilaanian_dialect: "Pilanka"
+ name_halyna: "Halyna"
 
- name_ima: "Ima"
+ name_bożyna: "Bożyna"
 
- name_sela: "Sela"
+ name_krasyna: "Krasyna"
 
- name_nita: "Nita"
+ name_bogna: "Bogna"
 
- name_kaiana: "Kaiana"
- name_kaiana.valakind_dialect: "Kaianu"
- name_kaiana.telanian_dialect: "Kaiahana"
- name_kaiana.mavisan_dialect: "Kaiena"
- name_kaiana.zilaanian_dialect: "Kaianka"
+ name_gniewa: "Gniewa"
 
- name_winona: "Winona"
+ name_malka: "Malka"
 
- name_ama: "Ama"
+ name_emilia: "Emilia"
 
- name_tana: "Tana"
- name_tana.valakind_dialect: "Tanu"
- name_tana.telanian_dialect: "Tahana"
- name_tana.mavisan_dialect: "Tena"
- name_tana.zilaanian_dialect: "Tanka"
+ name_emilka: "Emilka"
 
- name_hackehadadolnihe: "Hackehadadolnihe"
+ name_zofia: "Zofia"
 
- name_estchinaeintonyah: "Estchinaeintonyah"
+ name_agnieszka: "Agnieszka"
+ name_agnieszka.telanian_dialect: "Agniehszka"
 
- name_t_hauninoth: "T_hauninoth"
- name_tihnnowihn: "Tihnnowihn"
- name_ahahnu: "Ahahnu"
- name_tahashar: "Tahashar"
- name_t_stakurrihax: "T_stakurrihax"
- name_kohahnna: "Kohahnna"
- name_mihkina: "Mihkina"
- name_zilak: "Zilak"
- name_zilkonzi: "Zilkonzi"
- name_zilmak: "Zilmak"
- name_zilnokan: "Zilnokan"
- name_zilhar: "Zilhar"
- name_zilwan: "Zilwan"
- name_zilana: "Zilana"
- name_zilwax: "Zilwax"
- name_zilika: "Zilika"
- name_zilassa: "Zilassa"
- name_zilmira: "Zilmira"
+ name_aga: "Aga"
+
+ name_ewa: "Ewa"
+
+ name_elżbieta: "Elżbieta"
+
+ name_ela: "Ela"
+
+ name_magdalena: "Magdalena"
+
+ name_magda: "Magda"
+
+ name_stefania: "Stefania"
+
+ name_rzepicha: "Rzepicha"
+
+ name_dąbrówka: "Dąbrówka"
+ name_dąbrówka.mavisan_dialect: "Danbrówka"
+
+ name_kinga: "Kinga"
+
+ name_jaga: "Jaga"
+
+ name_celina: "Celina"
+ name_celina.valakind_dialect: "Celyna"
+
+ name_irena: "Irena"
+
+ name_renata: "Renata"
+
+ name_nina: "Nina"
+ name_nina.valakind_dialect: "Nyna"
+
+ name_zula: "Zula"
+
+ name_staniłan: "Staniłan"
+ name_bolesłan: "Bolesłan"
+ name_hszczepan: "Hszczepan"
+ name_wojciehh: "Wojciehh"
+ name_jarosłan: "Jarosłan"
+ name_grzegorh: "Grzegorh"
+ name_stanisłana: "Stanisłana"
+ name_bronisłana: "Bronisłana"
+ name_mahrysia: "Mahrysia"
+ name_hszczepana: "Hszczepana"
+ name_ziemomysł: "Ziemomysł"
+ name_krakuszan: "Krakuszan"
+ name_popielmir: "Popielmir"
+ name_piastun: "Piastun"
+ name_lechowit: "Lechowit"
+ name_rzepichmir: "Rzepichmir"
+ name_wandarz: "Wandarz"
+ name_rzepichyna: "Rzepichyna"
+ name_wandyca: "Wandyca"
+ name_dąbrówyca: "Dąbrówyca"
+ name_krakusła: "Krakusła"
+ name_jagodyna: "Jagodyna"
 
 # --- DIALECT DISPLAY NAMES ---
  hipparian_language: "Hipparian"

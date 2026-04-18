@@ -5,66 +5,65 @@
 
 REPLACE:hipparian_language = {
 
-	color = map_shoshoni
+	color = map_poland
 
 	male_names = {
 
 		# === CUSTOM FANTASY MALE NAMES ===
-		# Signature numic
-		name_tsauninot name_tsawkon name_tsawamah name_tstakurri name_tstamah name_tstahar name_sationwnhown name_satkon name_sathar name_kchinowah
-		name_kchwan
-		# Classiques
-		name_tashar name_tashdik name_tashnu name_tahoma name_tahokon name_tahonot name_tinnehinan name_tinnokon name_tewinnun name_tewahinno
-		name_tewakon name_chowabah name_chowakon name_chowamah name_kianhoon name_kianmah name_tiatesun name_tiadik name_soakiantow name_soaku
-		name_toackooch name_toaku name_mattan name_matkon name_sohone name_sohonu name_hiahidock name_hianot
-		# Plains
-		name_ahanu name_ahdik name_ahnot name_akando name_akmah name_konasha name_konokon name_mikasi name_mikasta name_payat
-		name_paynot name_quanah name_quanmah name_sequoyah name_seqnot
-		# Wildcards
-		name_awan name_baishan name_bemidji name_chesmu name_chitto name_dakota name_delsin name_demothi name_dyami name_elsu
-		name_etu name_guyapi name_hahnee name_halian name_honon name_inteus name_kaga name_kohon name_lonan name_lusio
-		name_maska name_mojag name_nashoba name_ouray name_quill name_sahale name_senaka name_songan name_squanto name_takoda
-		name_talli
-		# Courts
-		name_aach name_dah name_fun name_out name_ishi name_pilan name_koana name_istee
+		# Signature polish
+		name_przemysław name_przemek name_przemyśl name_wojciech name_wojsław name_wojmił name_szczepan name_szczęsny name_szczebrzesz name_mieszko
+		name_mieszek name_mieszkar name_grzegorz name_grzymisław name_grzewid name_włodzimierz name_włodek name_włodybor
+		# Classiques Piastowien
+		name_stanisław name_staszek name_stanimir name_bolesław name_bolek name_bolemił name_bronisław name_bronek name_bronowit name_jarosław
+		name_jarek name_jaromił name_siemowit name_siemomysł name_siemosław name_bogdan name_bogumił name_bogusław name_świętopełk name_świętosław
+		name_zbigniew name_zbysław name_lech name_lechosław name_leszek name_piast
+		# Wildcards polish
+		name_tadeusz name_mateusz name_bartłomiej name_władysław name_władek name_władybor name_czesław name_czesek name_cześmił name_wacław
+		name_wacek name_wackar name_kazimir name_kazek name_gniewomir name_gniewek name_dobrosław name_dobrogost name_dobiesław name_radosław
+		name_radek name_miłosław name_miłosz name_ludomił name_ludosław
+		# Historiques
+		name_zygmunt name_zygfryd name_henryk name_paweł name_paulin name_andrzej name_maciej name_tomasz name_tomek name_juliusz
+		name_ignacy name_stefan name_roman name_damian name_jacek name_marcin name_mariusz name_jan name_janusz name_marek
+		name_aleksander name_gedymin name_jagiełło name_krakus name_popiel
 	}
 
 	female_names = {
 
 		# === CUSTOM FANTASY FEMALE NAMES ===
-		# Signature numic
-		name_tstakurriwax name_tstawax name_tstapittaria name_tstaruxtu name_tstaraska name_tskusaski name_tsawaski name_tsawwax
-		# Classiques feminines
-		name_kotowitsa name_ahamina name_kohana name_kohanna name_koassa name_konassa name_honana name_honissa name_mikina name_mikassa
-		name_meliska name_tahika name_akika name_sohonelea
-		# Plains feminines
-		name_ahnandia name_akule name_alchise name_aseske name_awanni name_beshe name_bly name_chachu name_eyata name_gooday
-		name_gosheven name_helaku name_hesutu name_hototo name_hunlona name_imali name_kaahtenay name_kilthdigai name_lallo name_lenno
-		name_mehnenohka name_nashoska name_payawitsa name_senaya
+		# Signature polish
+		name_bronisława name_stanisława name_jarosława name_przemysła name_zbigniewa name_radogniewa name_zosia name_kasia name_marysia name_jadwisia
+		# Classiques Piastowien
+		name_bogumiła name_boguna name_ludmiła name_ludosława name_dobroniega name_dobrochna name_miłosława name_miłochna name_kazimira name_dalimira
+		name_radosława name_radmira name_halina name_helena name_hanna name_hanka name_anna name_jolanta name_jolanka name_dorota
+		name_brygida name_maria name_marzena name_wanda name_jadwiga name_jagoda name_barbara name_basia name_grażyna name_małgorzata
+		name_małgosia name_gośka name_katarzyna name_bożena name_teresa
 		# Wildcards
-		name_ahalya name_chowama name_konashka name_tahora name_akuya name_konolo name_matite name_sohora name_pilana
-		# Courts
-		name_ima name_sela name_nita name_kaiana name_winona name_ama name_tana
-		# Longs
-		name_hackehadadolnihe name_estchinaeintonyah
+		name_jolka name_danka name_kryśka name_krasochna name_stasia name_marunia name_julunia name_mariana name_juliana name_halyna
+		name_bożyna name_krasyna name_bogna name_gniewa name_malka
+		# Historiques
+		name_emilia name_emilka name_zofia name_agnieszka name_aga name_ewa name_elżbieta name_ela name_magdalena name_magda
+		name_stefania
+		# Legendaires
+		name_rzepicha name_dąbrówka name_kinga name_jaga name_celina name_irena name_renata name_nina name_zula
 	}
 
 	dynasty_names = {
-		Adai Cahinnio Doustioni Eyeish Hainai
-		Hasinai Kadohadacho Kichai Nabedache Nabiti
-		Nacogdoche Nacono Nadaco Nanatsoho Nasoni
-		Natchitoches Nechaui Neche Ouachia Tula
-		Yatasi Kchawa Tsauniwan Tahomika Satkonaha
-		Tstaraska
+		Radziwiłł Potocki Czartoryski Lubomirski Zamoyski
+		Sobieski Ostrowski Kamieński Dąbrowski Leszczyński
+		Poniatowski Sapieha Wiśniowiecki Koniecpolski Sieniawski
+		Mniszech Firlej Ossoliński Rzewuski Branicki
+		Pac Piast Jagiellon Przemyślid Siemomysł
+		Wiślanin Polanów Mazowszan
 	}
 
 	lowborn = {
-		Honocha Matsoka Tahilo Kchimara Awanka Mikta Chowmah Ahkan
-		Tahomat Kona Tashkon Ayasha Soanka Tsawka Kikaya Konahama
-		Pascha Konoha Nasonik Kichaw Nabitka Hasinta Pilankan Kianba
-		Ahmaska Sequokon Chestan Tsawara Ouaymak Takomin
+		Kowal Młynarz Strzelec Rybak Pasterz Tkacz Piekarz Garncarz
+		Szewc Łowczy Woźnica Sukiennik Dąb Wilk Sokół Jastrząb
+		Niedźwiedź Łoś Orzeł Bobr Ryś Wisła Odrzyc Bór
+		Polak Łęg Tatrzan Gorzan Mazur Ślązak
 	}
 
+	location_prefix = "location_prefix_polish"
 
 	dialects = {
 		hipparian_language = {
@@ -73,19 +72,19 @@ REPLACE:hipparian_language = {
 		valakind_dialect = {}
 		telanian_dialect = {
 			male_names = {
-				name_t_hauninoth name_tihnnowihn name_ahahnu name_tahashar
+				name_staniłan name_bolesłan name_hszczepan name_wojciehh name_jarosłan name_grzegorh
 			}
 			female_names = {
-				name_t_stakurrihax name_kohahnna name_mihkina
+				name_stanisłana name_bronisłana name_mahrysia name_hszczepana
 			}
 		}
 		mavisan_dialect = {}
 		zilaanian_dialect = {
 			male_names = {
-				name_zilak name_zilkonzi name_zilmak name_zilnokan name_zilhar name_zilwan
+				name_ziemomysł name_krakuszan name_popielmir name_piastun name_lechowit name_rzepichmir name_wandarz
 			}
 			female_names = {
-				name_zilana name_zilwax name_zilika name_zilassa name_zilmira
+				name_rzepichyna name_wandyca name_dąbrówyca name_krakusła name_jagodyna
 			}
 		}
 	}

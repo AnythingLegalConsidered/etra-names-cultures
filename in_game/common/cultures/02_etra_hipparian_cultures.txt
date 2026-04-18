@@ -4,10 +4,20 @@
 
 # === HIPPARIAN CULTURES ===
 
+REPLACE:hipparian_culture = {
+	language = hipparian_language
+	color = map_poland
+	tags = { polish_gfx west_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
+	culture_groups = {
+		human_group
+		great_swardish_group
+	}
+}
+
 REPLACE:valakind_culture = {
 	language = valakind_dialect
 	color = map_bulgarian
-	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+	tags = { polish_gfx west_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
 	culture_groups = {
 		human_group
 		great_swardish_group
@@ -17,7 +27,7 @@ REPLACE:valakind_culture = {
 REPLACE:telanian_culture = {
 	language = telanian_dialect
 	color = map_oroqen
-	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+	tags = { polish_gfx west_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
 	culture_groups = {
 		human_group
 		great_swardish_group
@@ -27,7 +37,7 @@ REPLACE:telanian_culture = {
 REPLACE:mavisan_culture = {
 	language = mavisan_dialect
 	color = map_botos
-	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+	tags = { polish_gfx west_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
 	culture_groups = {
 		human_group
 		great_swardish_group
@@ -37,7 +47,7 @@ REPLACE:mavisan_culture = {
 REPLACE:zilaanian_culture = {
 	language = zilaanian_dialect
 	color = map_olyuben
-	tags = { native_american_tag north_american_gfx american_gfx central_plains_coa_gfx }
+	tags = { polish_gfx west_slavic_gfx slavic_gfx eastern_european_gfx european_gfx }
 	culture_groups = {
 		human_group
 	}
