@@ -464,6 +464,14 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_order_porcish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
 			culture.language = language:porcish_language
 		}
 	}
@@ -6648,6 +6656,42 @@
 
 	# --- PORCISH ---
 	text = {
+		localization_key = etra_construction_empire_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_empire = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_kingdom = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_duchy = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_county = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_porcish
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -6684,6 +6728,42 @@
 		}
 	}
 	text = {
+		localization_key = etra_construction_empire_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_empire = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_kingdom = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_duchy = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_county = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_porcish_theocracy
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -6717,6 +6797,42 @@
 			government_type = government_type:theocracy
 			country_rank_is_county = yes
 			culture.language = language:porcish_language
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_empire = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_kingdom = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_duchy = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:republic
+			country_rank_is_county = yes
+			culture = culture:hoggish_culture
 		}
 	}
 	text = {

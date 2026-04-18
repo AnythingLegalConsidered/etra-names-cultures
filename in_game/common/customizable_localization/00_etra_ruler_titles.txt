@@ -1290,6 +1290,46 @@ country_flavor = {
 			ruler ?= { culture = culture:sarusthari_culture }
 		}
 	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_empire_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_kingdom_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_duchy_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_county_hoggish
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
 
 	# === MONARCHY — FALLBACK ===
 
@@ -3742,6 +3782,50 @@ country_flavor = {
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
 			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_empire_hoggish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_kingdom_hoggish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_duchy_hoggish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_county_hoggish_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:hoggish_culture }
 		}
 	}
 
@@ -6302,6 +6386,50 @@ country_flavor = {
 			ruler ?= { culture = culture:sarusthari_culture }
 		}
 	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_empire_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_kingdom_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_duchy_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_county_hoggish_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
 
 	# === THEOCRACY — FALLBACK ===
 
@@ -8730,6 +8858,46 @@ country_flavor = {
 			country_rank_is_county = yes
 			government_type = government_type:republic
 			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_empire_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:republic
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_kingdom_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:republic
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_duchy_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:republic
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_county_hoggish_republic
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:republic
+			ruler ?= { culture = culture:hoggish_culture }
 		}
 	}
 
