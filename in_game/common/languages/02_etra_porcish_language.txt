@@ -63,10 +63,14 @@ REPLACE:porcish_language = {
 		}
 		hoggish_dialect = {
 			male_names = {
-				name_pannager name_mastkeeper name_hogreeve name_styward name_boarmoot name_snoutred name_tuskmoot name_hoghwald name_swynnoth
+				name_pannager name_mastkeeper name_hogreeve name_styward name_boarmoot name_snoutred name_tuskmoot name_hoghwald name_swynnoth name_gánwulf
+				name_gánric name_gánbeorn name_scuccaric name_scuccabeorn name_scuccastan name_dreorwulf name_dreorric name_nithwulf name_nithbeorn name_morthred
+				name_morthwulf name_wyrmric name_wyrmbeorn name_bealured name_bealuwine name_firenstan name_firenbeorn name_orcric name_scinnric name_thyrsbeorn
 			}
 			female_names = {
-				name_mastmoder name_sowreeve name_hoghmaiden name_boarmaid name_pannagyth name_swynhilde
+				name_mastmoder name_sowreeve name_hoghmaiden name_boarmaid name_pannagyth name_swynhilde name_gángifu name_gánswith name_scuccagifu name_scuccaswith
+				name_scuccaflaed name_dreorgifu name_dreorburh name_nithflaed name_nithgifu name_morthgifu name_wyrmswith name_bealugifu name_bealuflaed name_mareflaed
+				name_maregifu name_firenburh name_scinngifu
 			}
 		}
 	}

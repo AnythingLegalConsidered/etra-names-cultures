@@ -9944,6 +9944,49 @@ country_flavor = {
 		}
 	}
 
+	# === TRIBE — SPECIFIC ===
+
+	# Hoggish
+	text = {
+		localization_key = etra_rank_empire_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_kingdom_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_duchy_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+	# Hoggish
+	text = {
+		localization_key = etra_rank_county_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:hoggish_culture }
+		}
+	}
+
 	# === TRIBE — FALLBACK ===
 
 	# Ardrainien

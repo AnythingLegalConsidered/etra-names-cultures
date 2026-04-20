@@ -7772,6 +7772,42 @@
 		}
 	}
 	text = {
+		localization_key = etra_construction_empire_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_empire = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_kingdom = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_duchy = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_hoggish_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_county = yes
+			culture = culture:hoggish_culture
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_porcish_tribe
 		trigger = {
 			has_game_rule = etra_names_fantasy
