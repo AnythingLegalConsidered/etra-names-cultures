@@ -8,585 +8,658 @@
 l_english:
  # === JASSKADIAN DIALECT VARIANTS ===
 # --- MALE NAMES ---
- name_turlough: "Turlough"
- name_turlough.highlander_salusian_dialect: "Turlouch"
- name_turlough.ashenborn_dialect: "Turloech"
-
- name_turlfaidh: "Turlfaidh"
- name_turlfaidh.highlander_salusian_dialect: "Turlfaich"
- name_turlfaidh.ashenborn_dialect: "Turlfaith"
-
- name_turlan: "Turlan"
- name_turlan.highlander_salusian_dialect: "Turlean"
- name_turlan.ashenborn_dialect: "Turlaen"
-
- name_gormach: "Gormach"
-
- name_gormghal: "Gormghal"
-
- name_fionnen: "Fionnen"
- name_fionnen.highlander_salusian_dialect: "Fionnean"
- name_fionnen.ashenborn_dialect: "Fionnaen"
-
- name_fionnard: "Fionnard"
-
- name_fionnmac: "Fionnmac"
- name_fionnmac.ashenborn_dialect: "Fionnmaec"
-
- name_niamhall: "Niamhall"
- name_niamhall.ashenborn_dialect: "Niamhaoll"
-
- name_aedan: "Aedan"
- name_aedan.highlander_salusian_dialect: "Aedean"
- name_aedan.ashenborn_dialect: "Aedaen"
-
- name_aedmac: "Aedmac"
- name_aedmac.ashenborn_dialect: "Aedmaec"
-
- name_conall: "Conall"
- name_conall.ashenborn_dialect: "Conaoll"
-
- name_conor: "Conor"
-
- name_cormac: "Cormac"
- name_cormac.ashenborn_dialect: "Cormaec"
-
- name_cormfaidh: "Cormfaidh"
- name_cormfaidh.highlander_salusian_dialect: "Cormfaich"
- name_cormfaidh.ashenborn_dialect: "Cormfaith"
-
- name_diarmaid: "Diarmaid"
-
- name_diarmach: "Diarmach"
-
- name_cathal: "Cathal"
-
- name_cathough: "Cathough"
- name_cathough.highlander_salusian_dialect: "Cathouch"
- name_cathough.ashenborn_dialect: "Cathoech"
-
- name_cathghal: "Cathghal"
-
- name_domhnall: "Domhnall"
- name_domhnall.ashenborn_dialect: "Domhnaoll"
-
- name_domhnan: "Domhnan"
- name_domhnan.highlander_salusian_dialect: "Domhnean"
- name_domhnan.ashenborn_dialect: "Domhnaen"
-
- name_eoghan: "Eoghan"
- name_eoghan.highlander_salusian_dialect: "Eoghean"
- name_eoghan.ashenborn_dialect: "Eoghaen"
-
- name_dermod: "Dermod"
-
- name_dermach: "Dermach"
-
- name_maelaidh: "Maelaidh"
- name_maelaidh.highlander_salusian_dialect: "Maelaich"
- name_maelaidh.ashenborn_dialect: "Maelaith"
-
- name_ruadhmac: "Ruadhmac"
- name_ruadhmac.ashenborn_dialect: "Ruadhmaec"
-
- name_ruadhfaidh: "Ruadhfaidh"
- name_ruadhfaidh.highlander_salusian_dialect: "Ruadhfaich"
- name_ruadhfaidh.ashenborn_dialect: "Ruadhfaith"
-
- name_dairin: "Dairin"
- name_dairin.highlander_salusian_dialect: "Dairein"
-
- name_cian: "Cian"
- name_cian.highlander_salusian_dialect: "Ciean"
- name_cian.ashenborn_dialect: "Ciaen"
-
- name_tadgan: "Tadgan"
- name_tadgan.highlander_salusian_dialect: "Tadgean"
- name_tadgan.ashenborn_dialect: "Tadgaen"
-
- name_alastair: "Alastair"
-
- name_alasmac: "Alasmac"
- name_alasmac.ashenborn_dialect: "Alasmaec"
-
- name_lachlan: "Lachlan"
- name_lachlan.highlander_salusian_dialect: "Lachlean"
- name_lachlan.ashenborn_dialect: "Lachlaen"
-
- name_lachnan: "Lachnan"
- name_lachnan.highlander_salusian_dialect: "Lachnean"
- name_lachnan.ashenborn_dialect: "Lachnaen"
-
- name_duncan: "Duncan"
- name_duncan.highlander_salusian_dialect: "Duncean"
- name_duncan.ashenborn_dialect: "Duncaen"
-
- name_morraidh: "Morraidh"
- name_morraidh.highlander_salusian_dialect: "Morraich"
- name_morraidh.ashenborn_dialect: "Morraith"
-
- name_gallir: "Gallir"
-
- name_ardain: "Ardain"
- name_ardain.highlander_salusian_dialect: "Ardaein"
-
- name_aonghas: "Aonghas"
-
- name_bronnen: "Bronnen"
- name_bronnen.highlander_salusian_dialect: "Bronnean"
- name_bronnen.ashenborn_dialect: "Bronnaen"
-
- name_cearnach: "Cearnach"
-
- name_cearnachain: "Cearnachain"
- name_cearnachain.highlander_salusian_dialect: "Cearnachaein"
-
- name_uair: "Uair"
-
- name_loich: "Loich"
-
- name_toran: "Toran"
- name_toran.highlander_salusian_dialect: "Torean"
- name_toran.ashenborn_dialect: "Toraen"
-
- name_fiacc: "Fiacc"
-
- name_oisin: "Oisin"
- name_oisin.highlander_salusian_dialect: "Oisein"
-
- name_goll: "Goll"
-
- name_bres: "Bres"
-
- name_lug: "Lug"
-
- name_dagan: "Dagan"
- name_dagan.highlander_salusian_dialect: "Dagean"
- name_dagan.ashenborn_dialect: "Dagaen"
-
- name_conan: "Conan"
- name_conan.highlander_salusian_dialect: "Conean"
- name_conan.ashenborn_dialect: "Conaen"
-
- name_ulf: "Ulf"
-
- name_aisling: "Aisling"
-
- name_dubhan: "Dubhan"
- name_dubhan.highlander_salusian_dialect: "Dubhean"
- name_dubhan.ashenborn_dialect: "Dubhaen"
-
- name_dubmac: "Dubmac"
- name_dubmac.ashenborn_dialect: "Dubmaec"
-
- name_breathnach: "Breathnach"
-
- name_breathen: "Breathen"
- name_breathen.highlander_salusian_dialect: "Breathean"
- name_breathen.ashenborn_dialect: "Breathaen"
-
- name_sithen: "Sithen"
- name_sithen.highlander_salusian_dialect: "Sithean"
- name_sithen.ashenborn_dialect: "Sithaen"
-
- name_ruairi: "Ruairi"
-
- name_fergal: "Fergal"
-
- name_fergan: "Fergan"
- name_fergan.highlander_salusian_dialect: "Fergean"
- name_fergan.ashenborn_dialect: "Fergaen"
-
- name_finbar: "Finbar"
-
- name_finghin: "Finghin"
- name_finghin.highlander_salusian_dialect: "Finghein"
-
- name_keadaen: "Keadaen"
- name_keadaen.highlander_salusian_dialect: "Keadaean"
- name_keadaen.ashenborn_dialect: "Keadaaen"
-
- name_lorcan: "Lorcan"
- name_lorcan.highlander_salusian_dialect: "Lorcean"
- name_lorcan.ashenborn_dialect: "Lorcaen"
-
- name_braen: "Braen"
- name_braen.highlander_salusian_dialect: "Braean"
- name_braen.ashenborn_dialect: "Braaen"
-
- name_daragh: "Daragh"
-
- name_eoin: "Eoin"
- name_eoin.highlander_salusian_dialect: "Eoein"
-
- name_feidhlim: "Feidhlim"
-
- name_fergus: "Fergus"
-
- name_naoise: "Naoise"
-
- name_sorley: "Sorley"
-
- name_tadhg: "Tadhg"
-
- name_aidan: "Aidan"
- name_aidan.highlander_salusian_dialect: "Aidean"
- name_aidan.ashenborn_dialect: "Aidaen"
-
- name_colm: "Colm"
-
- name_cormghal: "Cormghal"
-
- name_domhnghal: "Domhnghal"
-
- name_eoghmac: "Eoghmac"
- name_eoghmac.ashenborn_dialect: "Eoghmaec"
-
- name_ruadhach: "Ruadhach"
-
- name_maelmachain: "Maelmachain"
- name_maelmachain.highlander_salusian_dialect: "Maelmachaein"
-
- name_fionnmachain: "Fionnmachain"
- name_fionnmachain.highlander_salusian_dialect: "Fionnmachaein"
-
- name_carragh: "Carragh"
-
- name_murchadh: "Murchadh"
-
- name_padhraig: "Padhraig"
-
- name_maolruadh: "Maolruadh"
-
- name_brannaidh: "Brannaidh"
- name_brannaidh.highlander_salusian_dialect: "Brannaich"
- name_brannaidh.ashenborn_dialect: "Brannaith"
-
- name_suibhne: "Suibhne"
-
- name_anrai: "Anrai"
-
- name_fearghal: "Fearghal"
-
- name_fintan: "Fintan"
- name_fintan.highlander_salusian_dialect: "Fintean"
- name_fintan.ashenborn_dialect: "Fintaen"
-
- name_fithel: "Fithel"
+ name_bhrennaitis: "Bhrennaitis"
+ name_bhrennaitis.highlander_salusian_dialect: "Bhrennaithis"
+ name_bhrennaitis.ashenborn_dialect: "Bhrennaities"
+
+ name_ghedrikas: "Ghedrikas"
+ name_ghedrikas.highlander_salusian_dialect: "Ghedrikar"
+ name_ghedrikas.ashenborn_dialect: "Ghedrikaes"
+
+ name_mhuirvilas: "Mhuirvilas"
+ name_mhuirvilas.highlander_salusian_dialect: "Mhuirvilhar"
+ name_mhuirvilas.ashenborn_dialect: "Mhuirvilaes"
+
+ name_fhiondras: "Fhiondras"
+ name_fhiondras.highlander_salusian_dialect: "Fhiondrakh"
+ name_fhiondras.ashenborn_dialect: "Fhiondraes"
+
+ name_dhainos: "Dhainos"
+ name_dhainos.highlander_salusian_dialect: "Dhainokh"
+ name_dhainos.ashenborn_dialect: "Dhainoes"
+
+ name_brenuach: "Brenuach"
+ name_brenuach.highlander_salusian_dialect: "Brenuakh"
+ name_brenuach.ashenborn_dialect: "Brenuaesh"
+
+ name_catunaidh: "Catunaidh"
+ name_catunaidh.highlander_salusian_dialect: "Catunaich"
+ name_catunaidh.ashenborn_dialect: "Catunaiesh"
+
+ name_velmantadh: "Velmantadh"
+ name_velmantadh.highlander_salusian_dialect: "Velmantach"
+ name_velmantadh.ashenborn_dialect: "Velmantaesh"
+
+ name_cathunas: "Cathunas"
+ name_cathunas.highlander_salusian_dialect: "Cathunakh"
+ name_cathunas.ashenborn_dialect: "Cathunaes"
+
+ name_tasghunas: "Tasghunas"
+ name_tasghunas.highlander_salusian_dialect: "Tasghunakh"
+ name_tasghunas.ashenborn_dialect: "Tasghunaes"
+
+ name_algmhilas: "Algmhilas"
+ name_algmhilas.highlander_salusian_dialect: "Algmhilakh"
+ name_algmhilas.ashenborn_dialect: "Algmhilaes"
+
+ name_semoghas: "Semoghas"
+ name_semoghas.highlander_salusian_dialect: "Semoghakh"
+ name_semoghas.ashenborn_dialect: "Semoghaes"
+
+ name_aoinaitis: "Aoinaitis"
+ name_aoinaitis.highlander_salusian_dialect: "Aoinaithis"
+ name_aoinaitis.ashenborn_dialect: "Aoinaities"
+
+ name_gedhaitis: "Gedhaitis"
+ name_gedhaitis.highlander_salusian_dialect: "Gedhaithis"
+ name_gedhaitis.ashenborn_dialect: "Gedhaities"
+
+ name_alghvilas: "Alghvilas"
+ name_alghvilas.highlander_salusian_dialect: "Alghvilhar"
+ name_alghvilas.ashenborn_dialect: "Alghvilaes"
+
+ name_vythmantas: "Vythmantas"
+ name_vythmantas.highlander_salusian_dialect: "Vythmanthar"
+ name_vythmantas.ashenborn_dialect: "Vythmantaes"
+
+ name_kestadh: "Kestadh"
+ name_kestadh.highlander_salusian_dialect: "Kestach"
+ name_kestadh.ashenborn_dialect: "Kestaesh"
+
+ name_saurghas: "Saurghas"
+ name_saurghas.highlander_salusian_dialect: "Saurghakh"
+ name_saurghas.ashenborn_dialect: "Saurghaes"
+
+ name_daineadh: "Daineadh"
+ name_daineadh.highlander_salusian_dialect: "Daineach"
+ name_daineadh.ashenborn_dialect: "Daineaesh"
+
+ name_daughras: "Daughras"
+ name_daughras.highlander_salusian_dialect: "Daughrakh"
+ name_daughras.ashenborn_dialect: "Daughraes"
+
+ name_mirdaidh: "Mirdaidh"
+ name_mirdaidh.highlander_salusian_dialect: "Mirdaich"
+ name_mirdaidh.ashenborn_dialect: "Mirdaiesh"
+
+ name_butaudhas: "Butaudhas"
+ name_butaudhas.highlander_salusian_dialect: "Butaudhakh"
+ name_butaudhas.ashenborn_dialect: "Butaudhaes"
+
+ name_rimghadas: "Rimghadas"
+ name_rimghadas.highlander_salusian_dialect: "Rimghadakh"
+ name_rimghadas.ashenborn_dialect: "Rimghadaes"
+
+ name_namhuntas: "Namhuntas"
+ name_namhuntas.highlander_salusian_dialect: "Namhuntakh"
+ name_namhuntas.ashenborn_dialect: "Namhuntaes"
+
+ name_tauvilaidh: "Tauvilaidh"
+ name_tauvilaidh.highlander_salusian_dialect: "Tauvilaich"
+ name_tauvilaidh.ashenborn_dialect: "Tauvilaiesh"
+
+ name_perkuach: "Perkuach"
+ name_perkuach.highlander_salusian_dialect: "Perkuakh"
+ name_perkuach.ashenborn_dialect: "Perkuaesh"
+
+ name_laimuach: "Laimuach"
+ name_laimuach.highlander_salusian_dialect: "Laimuakh"
+ name_laimuach.ashenborn_dialect: "Laimuaesh"
+
+ name_vytadh: "Vytadh"
+ name_vytadh.highlander_salusian_dialect: "Vytach"
+ name_vytadh.ashenborn_dialect: "Vytaesh"
+
+ name_ghedvilas: "Ghedvilas"
+ name_ghedvilas.highlander_salusian_dialect: "Ghedvilhar"
+ name_ghedvilas.ashenborn_dialect: "Ghedvilaes"
+
+ name_algouach: "Algouach"
+ name_algouach.highlander_salusian_dialect: "Algouakh"
+ name_algouach.ashenborn_dialect: "Algouaesh"
+
+ name_daugadh: "Daugadh"
+ name_daugadh.highlander_salusian_dialect: "Daugach"
+ name_daugadh.ashenborn_dialect: "Daugaesh"
+
+ name_kesthvilas: "Kesthvilas"
+ name_kesthvilas.highlander_salusian_dialect: "Kesthvilhar"
+ name_kesthvilas.ashenborn_dialect: "Kesthvilaes"
+
+ name_gedhunaidh: "Gedhunaidh"
+ name_gedhunaidh.highlander_salusian_dialect: "Gedhunaich"
+ name_gedhunaidh.ashenborn_dialect: "Gedhunaiesh"
+
+ name_ghedaunas: "Ghedaunas"
+ name_ghedaunas.highlander_salusian_dialect: "Ghedaunakh"
+ name_ghedaunas.ashenborn_dialect: "Ghedaunaes"
+
+ name_catughas: "Catughas"
+ name_catughas.highlander_salusian_dialect: "Catughakh"
+ name_catughas.ashenborn_dialect: "Catughaes"
+
+ name_verchaitis: "Verchaitis"
+ name_verchaitis.highlander_salusian_dialect: "Verchaithis"
+ name_verchaitis.ashenborn_dialect: "Verchaities"
+
+ name_camuladh: "Camuladh"
+ name_camuladh.highlander_salusian_dialect: "Camulach"
+ name_camuladh.ashenborn_dialect: "Camulaesh"
+
+ name_ambileadh: "Ambileadh"
+ name_ambileadh.highlander_salusian_dialect: "Ambileach"
+ name_ambileadh.ashenborn_dialect: "Ambileaesh"
+
+ name_cernuach: "Cernuach"
+ name_cernuach.highlander_salusian_dialect: "Cernuakh"
+ name_cernuach.ashenborn_dialect: "Cernuaesh"
+
+ name_teutoghas: "Teutoghas"
+ name_teutoghas.highlander_salusian_dialect: "Teutoghakh"
+ name_teutoghas.ashenborn_dialect: "Teutoghaes"
+
+ name_lugadh: "Lugadh"
+ name_lugadh.highlander_salusian_dialect: "Lugach"
+ name_lugadh.ashenborn_dialect: "Lugaesh"
+
+ name_belenuach: "Belenuach"
+ name_belenuach.highlander_salusian_dialect: "Belenuakh"
+ name_belenuach.ashenborn_dialect: "Belenuaesh"
+
+ name_taranuach: "Taranuach"
+ name_taranuach.highlander_salusian_dialect: "Taranuakh"
+ name_taranuach.ashenborn_dialect: "Taranuaesh"
+
+ name_dubneadh: "Dubneadh"
+ name_dubneadh.highlander_salusian_dialect: "Dubneach"
+ name_dubneadh.ashenborn_dialect: "Dubneaesh"
+
+ name_cunomhras: "Cunomhras"
+ name_cunomhras.highlander_salusian_dialect: "Cunomhrakh"
+ name_cunomhras.ashenborn_dialect: "Cunomhraes"
+
+ name_teutonaidh: "Teutonaidh"
+ name_teutonaidh.highlander_salusian_dialect: "Teutonaich"
+ name_teutonaidh.ashenborn_dialect: "Teutonaiesh"
+
+ name_vercobhras: "Vercobhras"
+ name_vercobhras.highlander_salusian_dialect: "Vercobhrakh"
+ name_vercobhras.ashenborn_dialect: "Vercobhraes"
+
+ name_nervaidh: "Nervaidh"
+ name_nervaidh.highlander_salusian_dialect: "Nervaich"
+ name_nervaidh.ashenborn_dialect: "Nervaiesh"
+
+ name_segomhras: "Segomhras"
+ name_segomhras.highlander_salusian_dialect: "Segomhrakh"
+ name_segomhras.ashenborn_dialect: "Segomhraes"
+
+ name_morrighnas: "Morrighnas"
+ name_morrighnas.highlander_salusian_dialect: "Morrighnakh"
+ name_morrighnas.ashenborn_dialect: "Morrighnaes"
+
+ name_siobhras: "Siobhras"
+ name_siobhras.highlander_salusian_dialect: "Siobhrakh"
+ name_siobhras.ashenborn_dialect: "Siobhraes"
+
+ name_niamhras: "Niamhras"
+ name_niamhras.highlander_salusian_dialect: "Niamhrakh"
+ name_niamhras.ashenborn_dialect: "Niamhraes"
+
+ name_aoinras: "Aoinras"
+ name_aoinras.highlander_salusian_dialect: "Aoinrakh"
+ name_aoinras.ashenborn_dialect: "Aoinraes"
+
+ name_fhionnras: "Fhionnras"
+ name_fhionnras.highlander_salusian_dialect: "Fhionnrakh"
+ name_fhionnras.ashenborn_dialect: "Fhionnraes"
+
+ name_dhairunas: "Dhairunas"
+ name_dhairunas.highlander_salusian_dialect: "Dhairunakh"
+ name_dhairunas.ashenborn_dialect: "Dhairunaes"
+
+ name_druidhnos: "Druidhnos"
+ name_druidhnos.highlander_salusian_dialect: "Druidhnokh"
+ name_druidhnos.ashenborn_dialect: "Druidhnoes"
+
+ name_dubhras: "Dubhras"
+ name_dubhras.highlander_salusian_dialect: "Dubhrakh"
+ name_dubhras.ashenborn_dialect: "Dubhraes"
+
+ name_lonbhras: "Lonbhras"
+ name_lonbhras.highlander_salusian_dialect: "Lonbhrakh"
+ name_lonbhras.ashenborn_dialect: "Lonbhraes"
+
+ name_mhorrikas: "Mhorrikas"
+ name_mhorrikas.highlander_salusian_dialect: "Mhorrikar"
+ name_mhorrikas.ashenborn_dialect: "Mhorrikaes"
+
+ name_bhendoras: "Bhendoras"
+ name_bhendoras.highlander_salusian_dialect: "Bhendorakh"
+ name_bhendoras.ashenborn_dialect: "Bhendoraes"
+
+ name_fhenmantas: "Fhenmantas"
+ name_fhenmantas.highlander_salusian_dialect: "Fhenmanthar"
+ name_fhenmantas.ashenborn_dialect: "Fhenmantaes"
+
+ name_mindhnaitis: "Mindhnaitis"
+ name_mindhnaitis.highlander_salusian_dialect: "Mindhnaithis"
+ name_mindhnaitis.ashenborn_dialect: "Mindhnaities"
+
+ name_vythnodras: "Vythnodras"
+ name_vythnodras.highlander_salusian_dialect: "Vythnodrakh"
+ name_vythnodras.ashenborn_dialect: "Vythnodraes"
+
+ name_alghunas: "Alghunas"
+ name_alghunas.highlander_salusian_dialect: "Alghunakh"
+ name_alghunas.ashenborn_dialect: "Alghunaes"
+
+ name_tasghmantas: "Tasghmantas"
+ name_tasghmantas.highlander_salusian_dialect: "Tasghmanthar"
+ name_tasghmantas.ashenborn_dialect: "Tasghmantaes"
+
+ name_cathuros: "Cathuros"
+ name_cathuros.highlander_salusian_dialect: "Cathurokh"
+ name_cathuros.ashenborn_dialect: "Cathuroes"
+
+ name_bhairunas: "Bhairunas"
+ name_bhairunas.highlander_salusian_dialect: "Bhairunakh"
+ name_bhairunas.ashenborn_dialect: "Bhairunaes"
+
+ name_gheldras: "Gheldras"
+ name_gheldras.highlander_salusian_dialect: "Gheldrakh"
+ name_gheldras.ashenborn_dialect: "Gheldraes"
+
+ name_mhornas: "Mhornas"
+ name_mhornas.highlander_salusian_dialect: "Mhornakh"
+ name_mhornas.ashenborn_dialect: "Mhornaes"
+
+ name_fhenras: "Fhenras"
+ name_fhenras.highlander_salusian_dialect: "Fhenrakh"
+ name_fhenras.ashenborn_dialect: "Fhenraes"
+
+ name_dhaurnas: "Dhaurnas"
+ name_dhaurnas.highlander_salusian_dialect: "Dhaurnakh"
+ name_dhaurnas.ashenborn_dialect: "Dhaurnaes"
+
+ name_aoidras: "Aoidras"
+ name_aoidras.highlander_salusian_dialect: "Aoidrakh"
+ name_aoidras.ashenborn_dialect: "Aoidraes"
+
+ name_caoivilas: "Caoivilas"
+ name_caoivilas.highlander_salusian_dialect: "Caoivilhar"
+ name_caoivilas.ashenborn_dialect: "Caoivilaes"
+
+ name_eoinras: "Eoinras"
+ name_eoinras.highlander_salusian_dialect: "Eoinrakh"
+ name_eoinras.ashenborn_dialect: "Eoinraes"
+
+ name_brennaidh: "Brennaidh"
+ name_brennaidh.highlander_salusian_dialect: "Brennaich"
+ name_brennaidh.ashenborn_dialect: "Brennaiesh"
+
+ name_vinduach: "Vinduach"
+ name_vinduach.highlander_salusian_dialect: "Vinduakh"
+ name_vinduach.ashenborn_dialect: "Vinduaesh"
+
+ name_taschvilas: "Taschvilas"
+ name_taschvilas.highlander_salusian_dialect: "Taschvilhar"
+ name_taschvilas.ashenborn_dialect: "Taschvilaes"
+
+ name_ambiuach: "Ambiuach"
+ name_ambiuach.highlander_salusian_dialect: "Ambiuakh"
+ name_ambiuach.ashenborn_dialect: "Ambiuaesh"
+
+ name_eponadh: "Eponadh"
+ name_eponadh.highlander_salusian_dialect: "Eponach"
+ name_eponadh.ashenborn_dialect: "Eponaesh"
+
+ name_semuach: "Semuach"
+ name_semuach.highlander_salusian_dialect: "Semuakh"
+ name_semuach.ashenborn_dialect: "Semuaesh"
+
+ name_mhirdaunas: "Mhirdaunas"
+ name_mhirdaunas.highlander_salusian_dialect: "Mhirdaunakh"
+ name_mhirdaunas.ashenborn_dialect: "Mhirdaunaes"
+
+ name_butautadh: "Butautadh"
+ name_butautadh.highlander_salusian_dialect: "Butautach"
+ name_butautadh.ashenborn_dialect: "Butautaesh"
+
+ name_anchunas: "Anchunas"
+ name_anchunas.highlander_salusian_dialect: "Anchunakh"
+ name_anchunas.ashenborn_dialect: "Anchunaes"
 
 # --- FEMALE NAMES ---
- name_gormghlaith: "Gormghlaith"
+ name_gheduna: "Gheduna"
+ name_gheduna.highlander_salusian_dialect: "Ghedunda"
+ name_gheduna.ashenborn_dialect: "Ghedauna"
 
- name_gormfhionn: "Gormfhionn"
+ name_mhorgila: "Mhorgila"
+ name_mhorgila.highlander_salusian_dialect: "Mhorgilda"
+ name_mhorgila.ashenborn_dialect: "Mhorgaela"
 
- name_aedghlaith: "Aedghlaith"
+ name_fhionnila: "Fhionnila"
+ name_fhionnila.highlander_salusian_dialect: "Fhionnilda"
+ name_fhionnila.ashenborn_dialect: "Fhionnaela"
 
- name_aisfhionn: "Aisfhionn"
+ name_dhainora: "Dhainora"
+ name_dhainora.highlander_salusian_dialect: "Dhainorra"
+ name_dhainora.ashenborn_dialect: "Dhainaera"
 
- name_murfhionn: "Murfhionn"
+ name_aoineina: "Aoineina"
+ name_aoineina.highlander_salusian_dialect: "Aoineinda"
+ name_aoineina.ashenborn_dialect: "Aoinaeina"
 
- name_niamhghlaith: "Niamhghlaith"
+ name_brenwyn: "Brenwyn"
 
- name_niamhse: "Niamhse"
+ name_caithuna: "Caithuna"
+ name_caithuna.highlander_salusian_dialect: "Caithunda"
+ name_caithuna.ashenborn_dialect: "Caithauna"
 
- name_niamhae: "Niamhae"
- name_niamhae.highlander_salusian_dialect: "Niamheah"
+ name_vindhona: "Vindhona"
+ name_vindhona.highlander_salusian_dialect: "Vindhonda"
+ name_vindhona.ashenborn_dialect: "Vindhaena"
 
- name_fionnghlaith: "Fionnghlaith"
+ name_vindhora: "Vindhora"
+ name_vindhora.highlander_salusian_dialect: "Vindhorra"
+ name_vindhora.ashenborn_dialect: "Vindhaera"
 
- name_turlghlaith: "Turlghlaith"
+ name_mindhora: "Mindhora"
+ name_mindhora.highlander_salusian_dialect: "Mindhorra"
+ name_mindhora.ashenborn_dialect: "Mindhaera"
 
- name_caitlin: "Caitlin"
- name_caitlin.highlander_salusian_dialect: "Caitlean"
+ name_gedhila: "Gedhila"
+ name_gedhila.highlander_salusian_dialect: "Gedhilda"
+ name_gedhila.ashenborn_dialect: "Gedhaela"
 
- name_cathlin: "Cathlin"
- name_cathlin.highlander_salusian_dialect: "Cathlean"
+ name_aldhona: "Aldhona"
+ name_aldhona.highlander_salusian_dialect: "Aldhonda"
+ name_aldhona.ashenborn_dialect: "Aldhaena"
 
- name_aoife: "Aoife"
+ name_tasghila: "Tasghila"
+ name_tasghila.highlander_salusian_dialect: "Tasghilda"
+ name_tasghila.ashenborn_dialect: "Tasghaela"
 
- name_saoirse: "Saoirse"
+ name_daghnora: "Daghnora"
+ name_daghnora.highlander_salusian_dialect: "Daghnorra"
+ name_daghnora.ashenborn_dialect: "Daghnaera"
 
- name_siobhan: "Siobhan"
+ name_saughila: "Saughila"
+ name_saughila.highlander_salusian_dialect: "Saughilda"
+ name_saughila.ashenborn_dialect: "Saughaela"
 
- name_finnuala: "Finnuala"
+ name_namhila: "Namhila"
+ name_namhila.highlander_salusian_dialect: "Namhilda"
+ name_namhila.ashenborn_dialect: "Namhaela"
 
- name_slaney: "Slaney"
+ name_verchila: "Verchila"
+ name_verchila.highlander_salusian_dialect: "Verchilda"
+ name_verchila.ashenborn_dialect: "Verchaela"
 
- name_slainse: "Slainse"
+ name_kesthina: "Kesthina"
+ name_kesthina.highlander_salusian_dialect: "Kesthinda"
+ name_kesthina.ashenborn_dialect: "Kesthaena"
 
- name_derval: "Derval"
+ name_ghedona: "Ghedona"
+ name_ghedona.highlander_salusian_dialect: "Ghedonda"
+ name_ghedona.ashenborn_dialect: "Ghedaena"
 
- name_dervilia: "Dervilia"
+ name_ghenila: "Ghenila"
+ name_ghenila.highlander_salusian_dialect: "Ghenilda"
+ name_ghenila.ashenborn_dialect: "Ghenaela"
 
- name_muirne: "Muirne"
+ name_bhenora: "Bhenora"
+ name_bhenora.highlander_salusian_dialect: "Bhenorra"
+ name_bhenora.ashenborn_dialect: "Bhenaera"
 
- name_muirgheal: "Muirgheal"
+ name_bhendora: "Bhendora"
+ name_bhendora.highlander_salusian_dialect: "Bhendorra"
+ name_bhendora.ashenborn_dialect: "Bhendaera"
 
- name_gormlaith: "Gormlaith"
+ name_mhindora: "Mhindora"
+ name_mhindora.highlander_salusian_dialect: "Mhindorra"
+ name_mhindora.ashenborn_dialect: "Mhindaera"
 
- name_grainne: "Grainne"
- name_grainne.highlander_salusian_dialect: "Graieann"
- name_grainne.ashenborn_dialect: "Graioenne"
+ name_catuwyn: "Catuwyn"
 
- name_aidwen: "Aidwen"
+ name_cathina: "Cathina"
+ name_cathina.highlander_salusian_dialect: "Cathinda"
+ name_cathina.ashenborn_dialect: "Cathaena"
 
- name_cerwen: "Cerwen"
+ name_sauthila: "Sauthila"
+ name_sauthila.highlander_salusian_dialect: "Sauthilda"
+ name_sauthila.ashenborn_dialect: "Sauthaela"
 
- name_sithe: "Sithe"
+ name_teutogha: "Teutogha"
 
- name_dolnesse: "Dolnesse"
+ name_morrighna: "Morrighna"
 
- name_morrigan: "Morrigan"
+ name_cunomha: "Cunomha"
 
- name_morresse: "Morresse"
+ name_semogha: "Semogha"
 
- name_breannan: "Breannan"
+ name_gharouna: "Gharouna"
+ name_gharouna.highlander_salusian_dialect: "Gharounda"
+ name_gharouna.ashenborn_dialect: "Gharaouna"
 
- name_ashira: "Ashira"
- name_ashira.highlander_salusian_dialect: "Asheara"
- name_ashira.ashenborn_dialect: "Ashoira"
+ name_bhrenouna: "Bhrenouna"
+ name_bhrenouna.highlander_salusian_dialect: "Bhrenounda"
+ name_bhrenouna.ashenborn_dialect: "Bhrenaouna"
 
- name_sithfhionn: "Sithfhionn"
+ name_mhuirona: "Mhuirona"
+ name_mhuirona.highlander_salusian_dialect: "Mhuironda"
+ name_mhuirona.ashenborn_dialect: "Mhuiraena"
 
- name_catriona: "Catriona"
- name_catriona.ashenborn_dialect: "Catrioeno"
+ name_siobhila: "Siobhila"
+ name_siobhila.highlander_salusian_dialect: "Siobhilda"
+ name_siobhila.ashenborn_dialect: "Siobhaela"
 
- name_ailidh: "Ailidh"
+ name_siobhra: "Siobhra"
 
- name_eilidh: "Eilidh"
+ name_niamhona: "Niamhona"
+ name_niamhona.highlander_salusian_dialect: "Niamhonda"
+ name_niamhona.ashenborn_dialect: "Niamhaena"
 
- name_morag: "Morag"
+ name_niamhira: "Niamhira"
+ name_niamhira.highlander_salusian_dialect: "Niamhirra"
+ name_niamhira.ashenborn_dialect: "Niamhaeria"
 
- name_ishbel: "Ishbel"
+ name_oibhila: "Oibhila"
+ name_oibhila.highlander_salusian_dialect: "Oibhilda"
+ name_oibhila.ashenborn_dialect: "Oibhaela"
 
- name_iseabail: "Iseabail"
+ name_velmawyn: "Velmawyn"
 
- name_sileas: "Sileas"
+ name_aoidila: "Aoidila"
+ name_aoidila.highlander_salusian_dialect: "Aoidilda"
+ name_aoidila.ashenborn_dialect: "Aoidaela"
 
- name_derbhile: "Derbhile"
+ name_caoivila: "Caoivila"
+ name_caoivila.highlander_salusian_dialect: "Caoivilda"
+ name_caoivila.ashenborn_dialect: "Caoivaela"
 
- name_deirbhile: "Deirbhile"
+ name_caoiona: "Caoiona"
+ name_caoiona.highlander_salusian_dialect: "Caoionda"
+ name_caoiona.ashenborn_dialect: "Caoiaena"
 
- name_nessa: "Nessa"
+ name_eoinila: "Eoinila"
+ name_eoinila.highlander_salusian_dialect: "Eoinilda"
+ name_eoinila.ashenborn_dialect: "Eoinaela"
 
- name_emer: "Emer"
+ name_vythora: "Vythora"
+ name_vythora.highlander_salusian_dialect: "Vythorra"
+ name_vythora.ashenborn_dialect: "Vythaera"
 
- name_fand: "Fand"
+ name_vithnora: "Vithnora"
+ name_vithnora.highlander_salusian_dialect: "Vithnorra"
+ name_vithnora.ashenborn_dialect: "Vithnaera"
 
- name_banbha: "Banbha"
+ name_mhorila: "Mhorila"
+ name_mhorila.highlander_salusian_dialect: "Mhorilda"
+ name_mhorila.ashenborn_dialect: "Mhoraela"
 
- name_eriu: "Eriu"
+ name_mhenila: "Mhenila"
+ name_mhenila.highlander_salusian_dialect: "Mhenilda"
+ name_mhenila.ashenborn_dialect: "Mhenaela"
 
- name_oona: "Oona"
- name_oona.ashenborn_dialect: "Ooeno"
+ name_fhenona: "Fhenona"
+ name_fhenona.highlander_salusian_dialect: "Fhenonda"
+ name_fhenona.ashenborn_dialect: "Fhenaena"
 
- name_una: "Una"
+ name_fhendra: "Fhendra"
 
- name_cliona: "Cliona"
- name_cliona.ashenborn_dialect: "Clioeno"
+ name_dhairona: "Dhairona"
+ name_dhairona.highlander_salusian_dialect: "Dhaironda"
+ name_dhairona.ashenborn_dialect: "Dhairaena"
 
- name_iseult: "Iseult"
+ name_dhainila: "Dhainila"
+ name_dhainila.highlander_salusian_dialect: "Dhainilda"
+ name_dhainila.ashenborn_dialect: "Dhainaela"
 
- name_aisse: "Aisse"
+ name_ghenona: "Ghenona"
+ name_ghenona.highlander_salusian_dialect: "Ghenonda"
+ name_ghenona.ashenborn_dialect: "Ghenaena"
 
- name_cormasa: "Cormasa"
- name_cormasa.ashenborn_dialect: "Cormaesa"
+ name_bhairila: "Bhairila"
+ name_bhairila.highlander_salusian_dialect: "Bhairilda"
+ name_bhairila.ashenborn_dialect: "Bhairaela"
 
- name_ruadhse: "Ruadhse"
+ name_gharina: "Gharina"
+ name_gharina.highlander_salusian_dialect: "Gharinda"
+ name_gharina.ashenborn_dialect: "Gharaena"
 
- name_siva: "Siva"
+ name_gheldora: "Gheldora"
+ name_gheldora.highlander_salusian_dialect: "Gheldorra"
+ name_gheldora.ashenborn_dialect: "Gheldaera"
 
- name_laresse: "Laresse"
+ name_aoinila: "Aoinila"
+ name_aoinila.highlander_salusian_dialect: "Aoinilda"
+ name_aoinila.ashenborn_dialect: "Aoinaela"
 
- name_brenasa: "Brenasa"
- name_brenasa.ashenborn_dialect: "Brenaesa"
+ name_caoilda: "Caoilda"
 
- name_caride: "Caride"
+ name_dainwyn: "Dainwyn"
 
- name_siona: "Siona"
- name_siona.ashenborn_dialect: "Sioeno"
+ name_gedwyn: "Gedwyn"
 
- name_lonreth: "Lonreth"
+ name_mindwyn: "Mindwyn"
 
- name_finreth: "Finreth"
+ name_cernwyn: "Cernwyn"
 
- name_dairira: "Dairira"
- name_dairira.highlander_salusian_dialect: "Daireara"
- name_dairira.ashenborn_dialect: "Dairoira"
+ name_bhrenora: "Bhrenora"
+ name_bhrenora.highlander_salusian_dialect: "Bhrenorra"
+ name_bhrenora.ashenborn_dialect: "Bhrenaera"
 
- name_mavira: "Mavira"
- name_mavira.highlander_salusian_dialect: "Maveara"
- name_mavira.ashenborn_dialect: "Mavoira"
+ name_mhornila: "Mhornila"
+ name_mhornila.highlander_salusian_dialect: "Mhornilda"
+ name_mhornila.ashenborn_dialect: "Mhornaela"
 
- name_finghin: "Finghin"
+ name_fhenila: "Fhenila"
+ name_fhenila.highlander_salusian_dialect: "Fhenilda"
+ name_fhenila.ashenborn_dialect: "Fhenaela"
 
- name_neve: "Neve"
-
- name_sive: "Sive"
-
- name_ava: "Ava"
-
- name_brid: "Brid"
-
- name_cara: "Cara"
-
- name_orla: "Orla"
-
- name_sorcha: "Sorcha"
-
- name_aine: "Aine"
-
- name_clodagh: "Clodagh"
+ name_ghenwyn: "Ghenwyn"
 
 # --- DYNASTY NAMES ---
- O_Connell: "O Connell"
+ Ghedminaitis: "Ghedminaitis"
 
- O_Neill: "O Neill"
+ Alghirdaitis: "Alghirdaitis"
 
- O_Donnell: "O Donnell"
+ Mindaughas: "Mindaughas"
 
- O_Brien: "O Brien"
+ Vythautas: "Vythautas"
 
- O_Rourke: "O Rourke"
+ Kesthutas: "Kesthutas"
 
- O_Sullivan: "O Sullivan"
+ Butauthas: "Butauthas"
 
- O_Flaherty: "O Flaherty"
+ Bhutrimas: "Bhutrimas"
 
- O_Cormach: "O Cormach"
+ Rimghvydas: "Rimghvydas"
 
- O_Turlough: "O Turlough"
+ Ghelminaitis: "Ghelminaitis"
 
- O_Fionn: "O Fionn"
+ Tauvilaidh: "Tauvilaidh"
 
- O_Ruadh: "O Ruadh"
+ Bhriganti: "Bhriganti"
 
- Mac_Carthy: "Mac Carthy"
+ Ghenones: "Ghenones"
 
- Mac_Murrough: "Mac Murrough"
+ Mhenapii: "Mhenapii"
 
- Mac_Fionnghal: "Mac Fionnghal"
+ Fhriones: "Fhriones"
 
- Mac_Aedghal: "Mac Aedghal"
+ Dhurotriges: "Dhurotriges"
 
- Mac_Niamhen: "Mac Niamhen"
+ Cathulli: "Cathulli"
 
- Mac_Domhnaill: "Mac Domhnaill"
+ Vythriges: "Vythriges"
 
- Mac_Gregor: "Mac Gregor"
+ Tasghuni: "Tasghuni"
 
- Mac_Leod: "Mac Leod"
+ Tuath_Bhren: "Tuath Bhren"
 
- Mac_Kenzie: "Mac Kenzie"
+ Tuath_Ghed: "Tuath Ghed"
 
- Mac_Beth: "Mac Beth"
+ Tuath_Mhor: "Tuath Mhor"
 
- Mac_Dougal: "Mac Dougal"
+ Dal_Bhrennos: "Dal Bhrennos"
 
- Mac_Alastair: "Mac Alastair"
+ Dal_Ghedros: "Dal Ghedros"
 
- Mac_Lachlan: "Mac Lachlan"
+ Dal_Vythonos: "Dal Vythonos"
 
- Mac_Duncan: "Mac Duncan"
+ Touta_Mhuir: "Touta Mhuir"
 
- Teach_Brigid: "Teach Brigid"
+ Touta_Bhard: "Touta Bhard"
 
- Dal_Riata: "Dal Riata"
+ Touta_Niamh: "Touta Niamh"
 
- Clan_Fionn: "Clan Fionn"
+ Dal_Velmhos: "Dal Velmhos"
 
-# --- LOWBORN NAMES ---
- O_Gabha: "O Gabha"
-
- O_Smid: "O Smid"
-
- O_Cordhui: "O Cordhui"
-
- Mac_Brehon: "Mac Brehon"
-
- Mac_Tire: "Mac Tire"
-
- Mac_Naughton: "Mac Naughton"
-
- Boyle: "Boyle"
-
- Byrne: "Byrne"
-
- Daly: "Daly"
-
- Duff: "Duff"
-
- Duffy: "Duffy"
-
- Dunne: "Dunne"
-
- Foley: "Foley"
-
- Gallagher: "Gallagher"
-
- Healy: "Healy"
-
- Hogan: "Hogan"
-
- Kearney: "Kearney"
-
- Lynch: "Lynch"
-
- Maher: "Maher"
-
- Malley: "Malley"
-
- Murphy: "Murphy"
-
- Nolan: "Nolan"
-
- Glenmac: "Glenmac"
-
- Lochard: "Lochard"
-
- Strathen: "Strathen"
-
- Benrigh: "Benrigh"
-
- Invershee: "Invershee"
-
- Kiltir: "Kiltir"
-
- Fionnach: "Fionnach"
-
- Dubhach: "Dubhach"
-
- Ruadhach: "Ruadhach"
-
- Bogach: "Bogach"
-
- name_macrigh: "MacRigh"
- name_maclaren: "MacLaren"
- name_macaonghais: "MacAonghais"
- name_macdiarmaid: "MacDiarmaid"
- name_mactire: "MacTire"
- name_lachainn: "Lachainn"
- name_coinneach: "Coinneach"
- name_ailis: "Ailis"
- name_maili: "Maili"
- name_beathag: "Beathag"
- name_seonag: "Seonag"
- name_raghnaid: "Raghnaid"
- name_dolnath: "Dolnath"
- name_sithaen: "Sithaen"
- name_morrighaen: "Morrighaen"
- name_breathnas: "Breathnas"
- name_ashkaer: "Ashkaer"
- name_duborn: "Duborn"
- name_sithmor: "Sithmor"
- name_aislaen: "Aislaen"
- name_dolna: "Dolna"
- name_sithena: "Sithena"
- name_morrigha: "Morrigha"
- name_breathnae: "Breathnae"
- name_ashgol: "Ashgol"
- name_dolnae: "Dolnae"
- name_sithmara: "Sithmara"
+ name_brennghauras: "Brennghauras"
+ name_catuvelldhras: "Catuvelldhras"
+ name_dubnorghas: "Dubnorghas"
+ name_camuloghras: "Camuloghras"
+ name_dhurotrighas: "Dhurotrighas"
+ name_mindaughnaitis: "Mindaughnaitis"
+ name_algirdghnaitis: "Algirdghnaitis"
+ name_vytautvilhar: "Vytautvilhar"
+ name_cernuarakh: "Cernuarakh"
+ name_teutocharr: "Teutocharr"
+ name_bhrenndghauras: "Bhrenndghauras"
+ name_vercingdrakh: "Vercingdrakh"
+ name_morrighnalda: "Morrighnalda"
+ name_epondalda: "Epondalda"
+ name_sirnghonda: "Sirnghonda"
+ name_brenghalda: "Brenghalda"
+ name_dhaurindalda: "Dhaurindalda"
+ name_velnias: "Velnias"
+ name_velniaitis: "Velniaitis"
+ name_giltinaesh: "Giltinaesh"
+ name_morrighnaes: "Morrighnaes"
+ name_donnaes: "Donnaes"
+ name_samhairos: "Samhairos"
+ name_annwnoes: "Annwnoes"
+ name_caithghnaes: "Caithghnaes"
+ name_dolnaesh: "Dolnaesh"
+ name_giltinaena: "Giltinaena"
+ name_morrighnaena: "Morrighnaena"
+ name_donnaena: "Donnaena"
+ name_samhaena: "Samhaena"
+ name_annwnaena: "Annwnaena"
+ name_velnaesha: "Velnaesha"
 
 # --- DIALECT DISPLAY NAMES ---
  jasskadian_language: "Jasskadian"

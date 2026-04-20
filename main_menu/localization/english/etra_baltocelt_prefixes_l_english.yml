@@ -1,0 +1,15 @@
+﻿# Etra: Names & Cultures — Balto-Celtic patronym/location prefixes
+# Custom loc keys for jasskadian_language (neo balto-celtic hybrid).
+# Referenced from dev/names/jasskadian/config.yaml (patronym_prefix_*, location_prefix,
+# descendant_prefix_*). Replaces the default gaelic prefixes for identity consistency
+# with the balto-celtic pool and ruler titles (Vor-Rikh, Dryhd, Ambaktos, Vergobretos).
+
+l_english:
+ location_prefix_baltocelt: "aeth "
+ patronym_prefix_baltocelt_son: "maegh "
+ patronym_prefix_baltocelt_son_vowel: "megh "
+ patronym_prefix_baltocelt_daughter: "nighe "
+ patronym_prefix_baltocelt_daughter_vowel: "nigh "
+ descendant_prefix_baltocelt: "Oibh "
+ descendant_prefix_baltocelt_male: "Oibh "
+ descendant_prefix_baltocelt_female: "Nibh "

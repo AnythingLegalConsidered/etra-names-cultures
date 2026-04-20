@@ -8,585 +8,532 @@
 l_english:
  # === TYPHREAN_ELVEN DIALECT VARIANTS ===
 # --- MALE NAMES ---
- name_nemanja: "Nemanja"
-
- name_nemanic: "Nemanic"
- name_nemanic.wood_elven_dialect: "Nemanyic"
- name_nemanic.dark_elven_dialect: "Nemanich"
- name_nemanic.steppe_elven_dialect: "Nemaniyan"
-
- name_nemovic: "Nemovic"
- name_nemovic.wood_elven_dialect: "Nemoyvic"
- name_nemovic.dark_elven_dialect: "Nemovich"
- name_nemovic.steppe_elven_dialect: "Nemoyan"
-
- name_vukan: "Vukan"
- name_vukan.wood_elven_dialect: "Vukyan"
- name_vukan.steppe_elven_dialect: "Vukakhan"
-
- name_vukomir: "Vukomir"
- name_vukomir.dark_elven_dialect: "Vukomur"
- name_vukomir.steppe_elven_dialect: "Vukomkhir"
-
- name_vukoje: "Vukoje"
- name_vukoje.steppe_elven_dialect: "Vukoyet"
-
- name_drjslav: "Drjslav"
- name_drjslav.wood_elven_dialect: "Drjyslav"
- name_drjslav.dark_elven_dialect: "Drjshlav"
-
- name_drjan: "Drjan"
- name_drjan.wood_elven_dialect: "Drjyan"
- name_drjan.steppe_elven_dialect: "Drjakhan"
-
- name_drjko: "Drjko"
-
- name_zvonimir: "Zvonimir"
- name_zvonimir.dark_elven_dialect: "Zvonimur"
- name_zvonimir.steppe_elven_dialect: "Zvonimkhir"
-
- name_zvonko: "Zvonko"
-
- name_zvonic: "Zvonic"
- name_zvonic.wood_elven_dialect: "Zvonyic"
- name_zvonic.dark_elven_dialect: "Zvonich"
- name_zvonic.steppe_elven_dialect: "Zvoniyan"
-
- name_zvonan: "Zvonan"
- name_zvonan.wood_elven_dialect: "Zvonyan"
- name_zvonan.steppe_elven_dialect: "Zvonakhan"
-
- name_borislav: "Borislav"
- name_borislav.wood_elven_dialect: "Boriyslav"
- name_borislav.dark_elven_dialect: "Borishlav"
-
- name_bogdan: "Bogdan"
- name_bogdan.wood_elven_dialect: "Bogdyan"
- name_bogdan.steppe_elven_dialect: "Bogdakhan"
-
- name_bogoje: "Bogoje"
- name_bogoje.steppe_elven_dialect: "Bogoyet"
-
- name_miloje: "Miloje"
- name_miloje.steppe_elven_dialect: "Miloyet"
-
- name_milic: "Milic"
- name_milic.wood_elven_dialect: "Milyic"
- name_milic.dark_elven_dialect: "Milich"
- name_milic.steppe_elven_dialect: "Miliyan"
-
- name_milovan: "Milovan"
- name_milovan.wood_elven_dialect: "Milovyan"
- name_milovan.steppe_elven_dialect: "Milovakhan"
-
- name_milos: "Milos"
-
- name_miroslav: "Miroslav"
- name_miroslav.wood_elven_dialect: "Miroyslav"
- name_miroslav.dark_elven_dialect: "Miroshlav"
-
- name_mirko: "Mirko"
-
- name_miroje: "Miroje"
- name_miroje.steppe_elven_dialect: "Miroyet"
-
- name_slavoje: "Slavoje"
- name_slavoje.steppe_elven_dialect: "Slavoyet"
-
- name_slavomir: "Slavomir"
- name_slavomir.dark_elven_dialect: "Slavomur"
- name_slavomir.steppe_elven_dialect: "Slavomkhir"
-
- name_vladimir: "Vladimir"
- name_vladimir.dark_elven_dialect: "Vladimur"
- name_vladimir.steppe_elven_dialect: "Vladimkhir"
-
- name_vladoje: "Vladoje"
- name_vladoje.steppe_elven_dialect: "Vladoyet"
-
- name_predrag: "Predrag"
-
- name_pedrag: "Pedrag"
-
- name_dragomir: "Dragomir"
- name_dragomir.dark_elven_dialect: "Dragomur"
- name_dragomir.steppe_elven_dialect: "Dragomkhir"
-
- name_dragoje: "Dragoje"
- name_dragoje.steppe_elven_dialect: "Dragoyet"
-
- name_radoje: "Radoje"
- name_radoje.steppe_elven_dialect: "Radoyet"
-
- name_radovic: "Radovic"
- name_radovic.wood_elven_dialect: "Radoyvic"
- name_radovic.dark_elven_dialect: "Radovich"
- name_radovic.steppe_elven_dialect: "Radoyan"
-
- name_dobromir: "Dobromir"
- name_dobromir.dark_elven_dialect: "Dobromur"
- name_dobromir.steppe_elven_dialect: "Dobromkhir"
-
- name_bogomir: "Bogomir"
- name_bogomir.dark_elven_dialect: "Bogomur"
- name_bogomir.steppe_elven_dialect: "Bogomkhir"
-
- name_gragorije: "Gragorije"
-
- name_kresimir: "Kresimir"
- name_kresimir.dark_elven_dialect: "Kresimur"
- name_kresimir.steppe_elven_dialect: "Kresimkhir"
-
- name_trpimir: "Trpimir"
- name_trpimir.dark_elven_dialect: "Trpimur"
- name_trpimir.steppe_elven_dialect: "Trpimkhir"
-
- name_mislav: "Mislav"
- name_mislav.wood_elven_dialect: "Miyslav"
- name_mislav.dark_elven_dialect: "Mishlav"
-
- name_tomislav: "Tomislav"
- name_tomislav.wood_elven_dialect: "Tomiyslav"
- name_tomislav.dark_elven_dialect: "Tomishlav"
-
- name_dubravko: "Dubravko"
-
- name_vjekoslav: "Vjekoslav"
- name_vjekoslav.wood_elven_dialect: "Vjekoyslav"
- name_vjekoslav.dark_elven_dialect: "Vjekoshlav"
-
- name_vukasin: "Vukasin"
-
- name_voislav: "Voislav"
- name_voislav.wood_elven_dialect: "Voiyslav"
- name_voislav.dark_elven_dialect: "Voishlav"
-
- name_mladen: "Mladen"
-
- name_ostoja: "Ostoja"
-
- name_danesh: "Danesh"
-
- name_tvrtko: "Tvrtko"
-
- name_aelorin: "Aelorin"
-
- name_aelic: "Aelic"
- name_aelic.wood_elven_dialect: "Aelyic"
- name_aelic.dark_elven_dialect: "Aelich"
- name_aelic.steppe_elven_dialect: "Aeliyan"
-
- name_aelarin: "Aelarin"
-
- name_aelir: "Aelir"
-
- name_sylvian: "Sylvian"
- name_sylvian.wood_elven_dialect: "Sylviyan"
- name_sylvian.steppe_elven_dialect: "Sylviakhan"
-
- name_silvir: "Silvir"
-
- name_silvoje: "Silvoje"
- name_silvoje.steppe_elven_dialect: "Silvoyet"
-
- name_vaelin: "Vaelin"
-
- name_vaeloth: "Vaeloth"
-
- name_mirovan: "Mirovan"
- name_mirovan.wood_elven_dialect: "Mirovyan"
- name_mirovan.steppe_elven_dialect: "Mirovakhan"
-
- name_aelvic: "Aelvic"
- name_aelvic.wood_elven_dialect: "Aelvyic"
- name_aelvic.dark_elven_dialect: "Aelvich"
- name_aelvic.steppe_elven_dialect: "Aelviyan"
-
- name_dubhorn: "Dubhorn"
-
- name_dubhic: "Dubhic"
- name_dubhic.wood_elven_dialect: "Dubhyic"
- name_dubhic.dark_elven_dialect: "Dubhich"
- name_dubhic.steppe_elven_dialect: "Dubhiyan"
-
- name_senkir: "Senkir"
-
- name_senakh: "Senakh"
-
- name_krasorn: "Krasorn"
-
- name_krasovic: "Krasovic"
- name_krasovic.wood_elven_dialect: "Krasoyvic"
- name_krasovic.dark_elven_dialect: "Krasovich"
- name_krasovic.steppe_elven_dialect: "Krasoyan"
-
- name_krasir: "Krasir"
-
- name_timurin: "Timurin"
-
- name_timuric: "Timuric"
- name_timuric.wood_elven_dialect: "Timuryic"
- name_timuric.dark_elven_dialect: "Timurich"
- name_timuric.steppe_elven_dialect: "Timuriyan"
-
- name_khazrai: "Khazrai"
-
- name_khazovic: "Khazovic"
- name_khazovic.wood_elven_dialect: "Khazoyvic"
- name_khazovic.dark_elven_dialect: "Khazovich"
- name_khazovic.steppe_elven_dialect: "Khazoyan"
-
- name_oroshan: "Oroshan"
- name_oroshan.wood_elven_dialect: "Oroshyan"
- name_oroshan.steppe_elven_dialect: "Oroshakhan"
-
- name_oroshin: "Oroshin"
-
- name_oroshic: "Oroshic"
- name_oroshic.wood_elven_dialect: "Oroshyic"
- name_oroshic.dark_elven_dialect: "Oroshich"
- name_oroshic.steppe_elven_dialect: "Oroshiyan"
-
- name_kathari: "Kathari"
-
- name_katharic: "Katharic"
- name_katharic.wood_elven_dialect: "Katharyic"
- name_katharic.dark_elven_dialect: "Katharich"
- name_katharic.steppe_elven_dialect: "Kathariyan"
-
- name_dusan: "Dusan"
- name_dusan.wood_elven_dialect: "Dusyan"
- name_dusan.steppe_elven_dialect: "Dukhakhan"
-
- name_uros: "Uros"
-
- name_asen: "Asen"
-
- name_lazar: "Lazar"
-
- name_lazaric: "Lazaric"
- name_lazaric.wood_elven_dialect: "Lazaryic"
- name_lazaric.dark_elven_dialect: "Lazarich"
- name_lazaric.steppe_elven_dialect: "Lazariyan"
-
- name_obilen: "Obilen"
-
- name_obilic: "Obilic"
- name_obilic.wood_elven_dialect: "Obilyic"
- name_obilic.dark_elven_dialect: "Obilich"
- name_obilic.steppe_elven_dialect: "Obiliyan"
-
- name_stefan: "Stefan"
- name_stefan.wood_elven_dialect: "Stefyan"
- name_stefan.steppe_elven_dialect: "Stefakhan"
-
- name_stefanic: "Stefanic"
- name_stefanic.wood_elven_dialect: "Stefanyic"
- name_stefanic.dark_elven_dialect: "Stefanich"
- name_stefanic.steppe_elven_dialect: "Stefaniyan"
-
- name_stefanen: "Stefanen"
-
- name_vuk: "Vuk"
-
- name_bratko: "Bratko"
-
- name_rak: "Rak"
-
- name_goj: "Goj"
-
- name_bor: "Bor"
-
- name_vlah: "Vlah"
-
- name_nenad: "Nenad"
-
- name_slobodan: "Slobodan"
- name_slobodan.wood_elven_dialect: "Slobodyan"
- name_slobodan.steppe_elven_dialect: "Slobodakhan"
-
- name_milutin: "Milutin"
-
- name_vitomir: "Vitomir"
- name_vitomir.dark_elven_dialect: "Vitomur"
- name_vitomir.steppe_elven_dialect: "Vitomkhir"
-
- name_vitozar: "Vitozar"
-
- name_ninoslav: "Ninoslav"
- name_ninoslav.wood_elven_dialect: "Ninoyslav"
- name_ninoslav.dark_elven_dialect: "Ninoshlav"
-
- name_dragoslav: "Dragoslav"
- name_dragoslav.wood_elven_dialect: "Dragoyslav"
- name_dragoslav.dark_elven_dialect: "Dragoshlav"
-
- name_branimir: "Branimir"
- name_branimir.dark_elven_dialect: "Branimur"
- name_branimir.steppe_elven_dialect: "Branimkhir"
+ name_tyraion: "Tyraion"
+ name_tyraion.wood_elven_dialect: "Tyraljon"
+ name_tyraion.dark_elven_dialect: "Tyraxxos"
+ name_tyraion.steppe_elven_dialect: "Tyraqan"
+
+ name_tyrvaion: "Tyrvaion"
+ name_tyrvaion.wood_elven_dialect: "Tyrvaljon"
+ name_tyrvaion.dark_elven_dialect: "Tyrvyxos"
+ name_tyrvaion.steppe_elven_dialect: "Tyrvaqan"
+
+ name_aelkaion: "Aelkaion"
+ name_aelkaion.wood_elven_dialect: "Aelkaljon"
+ name_aelkaion.dark_elven_dialect: "Aelxaxxos"
+ name_aelkaion.steppe_elven_dialect: "Aelkaqan"
+
+ name_aelmaion: "Aelmaion"
+ name_aelmaion.wood_elven_dialect: "Aelmaljon"
+ name_aelmaion.dark_elven_dialect: "Aelmaxxos"
+ name_aelmaion.steppe_elven_dialect: "Aelmaqan"
+
+ name_morios: "Morios"
+
+ name_morinthir: "Morinthir"
+
+ name_thalorion: "Thalorion"
+ name_thalorion.wood_elven_dialect: "Thaloljon"
+ name_thalorion.dark_elven_dialect: "Thalorxos"
+ name_thalorion.steppe_elven_dialect: "Thalorqan"
+
+ name_thalvaion: "Thalvaion"
+ name_thalvaion.wood_elven_dialect: "Thalvaljon"
+ name_thalvaion.dark_elven_dialect: "Thalvyxos"
+ name_thalvaion.steppe_elven_dialect: "Thalvaqan"
+
+ name_seliaios: "Seliaios"
+ name_seliaios.wood_elven_dialect: "Selialjos"
+ name_seliaios.dark_elven_dialect: "Seliasyx"
+ name_seliaios.steppe_elven_dialect: "Selishar"
+
+ name_selinaion: "Selinaion"
+ name_selinaion.wood_elven_dialect: "Selinaljon"
+ name_selinaion.dark_elven_dialect: "Selinaxxos"
+ name_selinaion.steppe_elven_dialect: "Selinaqan"
+
+ name_varethion: "Varethion"
+ name_varethion.wood_elven_dialect: "Varethljon"
+ name_varethion.dark_elven_dialect: "Varethyx"
+ name_varethion.steppe_elven_dialect: "Varethqan"
+
+ name_varemaion: "Varemaion"
+ name_varemaion.wood_elven_dialect: "Varemaljon"
+ name_varemaion.dark_elven_dialect: "Varemaxxos"
+ name_varemaion.steppe_elven_dialect: "Varemaqan"
+
+ name_aitheron: "Aitheron"
+
+ name_aithrion: "Aithrion"
+ name_aithrion.dark_elven_dialect: "Aithryx"
+ name_aithrion.steppe_elven_dialect: "Aithrqan"
+
+ name_kheirion: "Kheirion"
+ name_kheirion.dark_elven_dialect: "Kheiryx"
+ name_kheirion.steppe_elven_dialect: "Kheirqan"
+
+ name_kheiraion: "Kheiraion"
+ name_kheiraion.wood_elven_dialect: "Kheiraljon"
+ name_kheiraion.dark_elven_dialect: "Kheiraxxos"
+ name_kheiraion.steppe_elven_dialect: "Kheiraqan"
+
+ name_alkaion: "Alkaion"
+ name_alkaion.wood_elven_dialect: "Alkaljon"
+ name_alkaion.dark_elven_dialect: "Alxaxxos"
+ name_alkaion.steppe_elven_dialect: "Alkaqan"
+
+ name_alykairos: "Alykairos"
+ name_alykairos.dark_elven_dialect: "Alyxairos"
+
+ name_pyrrhion: "Pyrrhion"
+ name_pyrrhion.dark_elven_dialect: "Pyrrhyx"
+ name_pyrrhion.steppe_elven_dialect: "Pyrrhqan"
+
+ name_pyrrhaios: "Pyrrhaios"
+ name_pyrrhaios.wood_elven_dialect: "Pyrrhaljos"
+ name_pyrrhaios.dark_elven_dialect: "Pyrrhasyx"
+ name_pyrrhaios.steppe_elven_dialect: "Pyrrhshar"
+
+ name_menesthion: "Menesthion"
+ name_menesthion.wood_elven_dialect: "Menesthljon"
+ name_menesthion.dark_elven_dialect: "Menesthyx"
+ name_menesthion.steppe_elven_dialect: "Menesthqan"
+
+ name_kallinor: "Kallinor"
+
+ name_laerthion: "Laerthion"
+ name_laerthion.wood_elven_dialect: "Laerthljon"
+ name_laerthion.dark_elven_dialect: "Laerthyx"
+ name_laerthion.steppe_elven_dialect: "Laerthqan"
+
+ name_laerthir: "Laerthir"
+
+ name_orthirion: "Orthirion"
+ name_orthirion.dark_elven_dialect: "Orthiryx"
+ name_orthirion.steppe_elven_dialect: "Orthirqan"
+
+ name_halcyrion: "Halcyrion"
+ name_halcyrion.dark_elven_dialect: "Halcyryx"
+ name_halcyrion.steppe_elven_dialect: "Halcyrqan"
+
+ name_hieron: "Hieron"
+
+ name_hiereon: "Hiereon"
+ name_hiereon.dark_elven_dialect: "Hiereyx"
+ name_hiereon.steppe_elven_dialect: "Hiereqan"
+
+ name_elyaion: "Elyaion"
+ name_elyaion.wood_elven_dialect: "Elyaljon"
+ name_elyaion.dark_elven_dialect: "Elyaxxos"
+ name_elyaion.steppe_elven_dialect: "Elyaqan"
+
+ name_elyrion: "Elyrion"
+ name_elyrion.dark_elven_dialect: "Elyryx"
+ name_elyrion.steppe_elven_dialect: "Elyrqan"
+
+ name_nereon: "Nereon"
+ name_nereon.dark_elven_dialect: "Nereyx"
+ name_nereon.steppe_elven_dialect: "Nereqan"
+
+ name_chrysion: "Chrysion"
+ name_chrysion.dark_elven_dialect: "Chrysyx"
+ name_chrysion.steppe_elven_dialect: "Chrysqan"
+
+ name_chrysaios: "Chrysaios"
+ name_chrysaios.wood_elven_dialect: "Chrysaljos"
+ name_chrysaios.dark_elven_dialect: "Chrysasyx"
+ name_chrysaios.steppe_elven_dialect: "Chrysshar"
+
+ name_leukaion: "Leukaion"
+ name_leukaion.wood_elven_dialect: "Leukaljon"
+ name_leukaion.dark_elven_dialect: "Leuxaxxos"
+ name_leukaion.steppe_elven_dialect: "Leukaqan"
+
+ name_orthion: "Orthion"
+ name_orthion.wood_elven_dialect: "Orthljon"
+ name_orthion.dark_elven_dialect: "Orthyx"
+ name_orthion.steppe_elven_dialect: "Orthqan"
+
+ name_kalythir: "Kalythir"
+
+ name_phaeron: "Phaeron"
+
+ name_phaetheon: "Phaetheon"
+ name_phaetheon.dark_elven_dialect: "Phaetheyx"
+ name_phaetheon.steppe_elven_dialect: "Phaetheqan"
 
 # --- FEMALE NAMES ---
- name_milica: "Milica"
- name_milica.wood_elven_dialect: "Milyica"
- name_milica.dark_elven_dialect: "Milicha"
- name_milica.steppe_elven_dialect: "Miliyana"
+ name_tyraneia: "Tyraneia"
+ name_tyraneia.wood_elven_dialect: "Tyranelja"
+ name_tyraneia.dark_elven_dialect: "Tyraneyxa"
+ name_tyraneia.steppe_elven_dialect: "Tyraneqa"
 
- name_milicova: "Milicova"
+ name_tyralia: "Tyralia"
+ name_tyralia.dark_elven_dialect: "Tyralyx"
 
- name_bojica: "Bojica"
- name_bojica.wood_elven_dialect: "Bojyica"
- name_bojica.dark_elven_dialect: "Bojicha"
- name_bojica.steppe_elven_dialect: "Bojiyana"
+ name_aelkaia: "Aelkaia"
+ name_aelkaia.wood_elven_dialect: "Aelkalja"
+ name_aelkaia.dark_elven_dialect: "Aelxeyxa"
+ name_aelkaia.steppe_elven_dialect: "Aelkaqa"
 
- name_nemanovica: "Nemanovica"
- name_nemanovica.wood_elven_dialect: "Nemanovyica"
- name_nemanovica.dark_elven_dialect: "Nemanovicha"
- name_nemanovica.steppe_elven_dialect: "Nemanoviyana"
+ name_aelmaia: "Aelmaia"
+ name_aelmaia.wood_elven_dialect: "Aelmalja"
+ name_aelmaia.dark_elven_dialect: "Aelmeyxa"
+ name_aelmaia.steppe_elven_dialect: "Aelmaqa"
+
+ name_morinaia: "Morinaia"
+ name_morinaia.wood_elven_dialect: "Morinalja"
+ name_morinaia.dark_elven_dialect: "Morineyxa"
+ name_morinaia.steppe_elven_dialect: "Morinaqa"
 
- name_vukicana: "Vukicana"
- name_vukicana.wood_elven_dialect: "Vukicyana"
- name_vukicana.dark_elven_dialect: "Vukicona"
- name_vukicana.steppe_elven_dialect: "Vukicakhana"
+ name_morinethia: "Morinethia"
 
- name_drjica: "Drjica"
- name_drjica.wood_elven_dialect: "Drjyica"
- name_drjica.dark_elven_dialect: "Drjicha"
- name_drjica.steppe_elven_dialect: "Drjiyana"
+ name_thaloreia: "Thaloreia"
+ name_thaloreia.wood_elven_dialect: "Thalorelja"
+ name_thaloreia.dark_elven_dialect: "Thaloreyxa"
+ name_thaloreia.steppe_elven_dialect: "Thaloreqa"
 
- name_zvonica: "Zvonica"
- name_zvonica.wood_elven_dialect: "Zvonyica"
- name_zvonica.dark_elven_dialect: "Zvonicha"
- name_zvonica.steppe_elven_dialect: "Zvoniyana"
+ name_thalvania: "Thalvania"
 
- name_biljana: "Biljana"
- name_biljana.wood_elven_dialect: "Biljyana"
- name_biljana.dark_elven_dialect: "Biljona"
- name_biljana.steppe_elven_dialect: "Biljakhana"
+ name_seliara: "Seliara"
 
- name_bojana: "Bojana"
- name_bojana.wood_elven_dialect: "Bojyana"
- name_bojana.dark_elven_dialect: "Bojona"
- name_bojana.steppe_elven_dialect: "Bojakhana"
-
- name_borislava: "Borislava"
-
- name_branislava: "Branislava"
-
- name_branimira: "Branimira"
-
- name_bogdana: "Bogdana"
- name_bogdana.wood_elven_dialect: "Bogdyana"
- name_bogdana.dark_elven_dialect: "Bogdona"
- name_bogdana.steppe_elven_dialect: "Bogdakhana"
-
- name_dragana: "Dragana"
- name_dragana.wood_elven_dialect: "Dragyana"
- name_dragana.dark_elven_dialect: "Dragona"
- name_dragana.steppe_elven_dialect: "Dragakhana"
-
- name_dragica: "Dragica"
- name_dragica.wood_elven_dialect: "Dragyica"
- name_dragica.dark_elven_dialect: "Dragicha"
- name_dragica.steppe_elven_dialect: "Dragiyana"
-
- name_dragoslava: "Dragoslava"
-
- name_desislava: "Desislava"
-
- name_dejana: "Dejana"
- name_dejana.wood_elven_dialect: "Dejyana"
- name_dejana.dark_elven_dialect: "Dejona"
- name_dejana.steppe_elven_dialect: "Dejakhana"
-
- name_dubravka: "Dubravka"
-
- name_dusana: "Dusana"
- name_dusana.wood_elven_dialect: "Dusyana"
- name_dusana.dark_elven_dialect: "Dusona"
- name_dusana.steppe_elven_dialect: "Dukhakhana"
-
- name_gordana: "Gordana"
- name_gordana.wood_elven_dialect: "Gordyana"
- name_gordana.dark_elven_dialect: "Gordona"
- name_gordana.steppe_elven_dialect: "Gordakhana"
-
- name_milena: "Milena"
-
- name_miroela: "Miroela"
- name_miroela.wood_elven_dialect: "Miroyela"
- name_miroela.dark_elven_dialect: "Mirousha"
-
- name_miroslava: "Miroslava"
-
- name_mirna: "Mirna"
-
- name_mihaela: "Mihaela"
- name_mihaela.wood_elven_dialect: "Mihayela"
- name_mihaela.dark_elven_dialect: "Mihausha"
-
- name_radica: "Radica"
- name_radica.wood_elven_dialect: "Radyica"
- name_radica.dark_elven_dialect: "Radicha"
- name_radica.steppe_elven_dialect: "Radiyana"
-
- name_rada: "Rada"
-
- name_stanislava: "Stanislava"
-
- name_svetlana: "Svetlana"
- name_svetlana.wood_elven_dialect: "Svetlyana"
- name_svetlana.dark_elven_dialect: "Svetlona"
- name_svetlana.steppe_elven_dialect: "Svetlakhana"
-
- name_snezhana: "Snezhana"
- name_snezhana.wood_elven_dialect: "Snezhyana"
- name_snezhana.dark_elven_dialect: "Snezhona"
- name_snezhana.steppe_elven_dialect: "Snezhakhana"
-
- name_tatiana: "Tatiana"
- name_tatiana.wood_elven_dialect: "Tatiyana"
- name_tatiana.dark_elven_dialect: "Tationa"
- name_tatiana.steppe_elven_dialect: "Tatiakhana"
-
- name_theodora: "Theodora"
-
- name_tihomira: "Tihomira"
-
- name_vedrana: "Vedrana"
- name_vedrana.wood_elven_dialect: "Vedryana"
- name_vedrana.dark_elven_dialect: "Vedrona"
- name_vedrana.steppe_elven_dialect: "Vedrakhana"
-
- name_voislava: "Voislava"
-
- name_vjekoslava: "Vjekoslava"
-
- name_visnja: "Visnja"
-
- name_zvonimira: "Zvonimira"
-
- name_lovorka: "Lovorka"
-
- name_nedeljka: "Nedeljka"
-
- name_sophia: "Sophia"
-
- name_svetka: "Svetka"
-
- name_aeliel: "Aeliel"
- name_aeliel.wood_elven_dialect: "Aelyiel"
- name_aeliel.steppe_elven_dialect: "Aeliyel"
-
- name_aelica: "Aelica"
- name_aelica.wood_elven_dialect: "Aelyica"
- name_aelica.dark_elven_dialect: "Aelicha"
- name_aelica.steppe_elven_dialect: "Aeliyana"
-
- name_aelrene: "Aelrene"
-
- name_aelwen: "Aelwen"
-
- name_silwen: "Silwen"
-
- name_silviel: "Silviel"
- name_silviel.wood_elven_dialect: "Silvyiel"
- name_silviel.steppe_elven_dialect: "Silviyel"
-
- name_silvena: "Silvena"
-
- name_vaelica: "Vaelica"
- name_vaelica.wood_elven_dialect: "Vaelyica"
- name_vaelica.dark_elven_dialect: "Vaelicha"
- name_vaelica.steppe_elven_dialect: "Vaeliyana"
-
- name_vaellia: "Vaellia"
-
- name_miriel: "Miriel"
- name_miriel.wood_elven_dialect: "Miryiel"
- name_miriel.steppe_elven_dialect: "Miriyel"
-
- name_miroica: "Miroica"
- name_miroica.wood_elven_dialect: "Miroyica"
- name_miroica.dark_elven_dialect: "Miroicha"
- name_miroica.steppe_elven_dialect: "Miroiyana"
-
- name_branena: "Branena"
-
- name_senkra: "Senkra"
-
- name_senicha: "Senicha"
-
- name_duboth: "Duboth"
-
- name_krasyssa: "Krasyssa"
-
- name_krasicha: "Krasicha"
-
- name_senensha: "Senensha"
-
- name_tymaya: "Tymaya"
-
- name_tymicha: "Tymicha"
-
- name_khazaya: "Khazaya"
-
- name_khazicana: "Khazicana"
- name_khazicana.wood_elven_dialect: "Khazicyana"
- name_khazicana.dark_elven_dialect: "Khazicona"
- name_khazicana.steppe_elven_dialect: "Khazicakhana"
-
- name_oroshi: "Oroshi"
-
- name_orokhina: "Orokhina"
-
- name_katharina: "Katharina"
-
- name_keratza: "Keratza"
-
- name_vojislava: "Vojislava"
-
- name_yolande: "Yolande"
-
- name_dragova: "Dragova"
-
- name_dusanisa: "Dusanisa"
- name_dusanisa.steppe_elven_dialect: "Dukhanisa"
-
- name_stefanisa: "Stefanisa"
-
- name_zlata: "Zlata"
-
- name_sneza: "Sneza"
-
- name_mara: "Mara"
-
- name_nada: "Nada"
-
- name_vuka: "Vuka"
-
- name_zora: "Zora"
-
- name_senkrin: "Senkrin"
- name_dubnoth: "Dubnoth"
- name_krashorn: "Krashorn"
- name_sennich: "Sennich"
- name_senmurich: "Senmurich"
- name_senkrasha: "Senkrasha"
- name_dubona: "Dubona"
- name_krashara: "Krashara"
- name_senmuricha: "Senmuricha"
- name_shadowicha: "Shadowicha"
- name_tymkhan: "Tymkhan"
- name_orokhai: "Orokhai"
- name_khazkhan: "Khazkhan"
- name_kathkhan: "Kathkhan"
- name_saruskhan: "Saruskhan"
- name_ormukhan: "Ormukhan"
- name_khazraya: "Khazraya"
- name_tymraya: "Tymraya"
- name_oroshkhana: "Oroshkhana"
- name_kathmaya: "Kathmaya"
- name_sarushaya: "Sarushaya"
+ name_selinaia: "Selinaia"
+ name_selinaia.wood_elven_dialect: "Selinalja"
+ name_selinaia.dark_elven_dialect: "Selineyxa"
+ name_selinaia.steppe_elven_dialect: "Selinaqa"
+
+ name_varethia: "Varethia"
+
+ name_varemaia: "Varemaia"
+ name_varemaia.wood_elven_dialect: "Varemalja"
+ name_varemaia.dark_elven_dialect: "Varemeyxa"
+ name_varemaia.steppe_elven_dialect: "Varemaqa"
+
+ name_aitheia: "Aitheia"
+ name_aitheia.wood_elven_dialect: "Aithelja"
+ name_aitheia.dark_elven_dialect: "Aitheyxa"
+ name_aitheia.steppe_elven_dialect: "Aitheqa"
+
+ name_kheireia: "Kheireia"
+ name_kheireia.wood_elven_dialect: "Kheirelja"
+ name_kheireia.dark_elven_dialect: "Kheireyxa"
+ name_kheireia.steppe_elven_dialect: "Kheireqa"
+
+ name_adneia: "Adneia"
+ name_adneia.wood_elven_dialect: "Adnelja"
+ name_adneia.dark_elven_dialect: "Adneyxa"
+ name_adneia.steppe_elven_dialect: "Adneqa"
+
+ name_kalliea: "Kalliea"
+
+ name_kallinaia: "Kallinaia"
+ name_kallinaia.wood_elven_dialect: "Kallinalja"
+ name_kallinaia.dark_elven_dialect: "Kallineyxa"
+ name_kallinaia.steppe_elven_dialect: "Kallinaqa"
+
+ name_laerthia: "Laerthia"
+
+ name_athenea: "Athenea"
+
+ name_phermaia: "Phermaia"
+ name_phermaia.wood_elven_dialect: "Phermalja"
+ name_phermaia.dark_elven_dialect: "Phermeyxa"
+ name_phermaia.steppe_elven_dialect: "Phermaqa"
+
+ name_elysia: "Elysia"
+
+ name_iona: "Iona"
+
+ name_nereia: "Nereia"
+ name_nereia.wood_elven_dialect: "Nerelja"
+ name_nereia.dark_elven_dialect: "Nereyxa"
+ name_nereia.steppe_elven_dialect: "Nereqa"
+
+ name_halcya: "Halcya"
+
+ name_hieraia: "Hieraia"
+ name_hieraia.wood_elven_dialect: "Hieralja"
+ name_hieraia.dark_elven_dialect: "Hiereyxa"
+ name_hieraia.steppe_elven_dialect: "Hieraqa"
+
+ name_chryseia: "Chryseia"
+ name_chryseia.wood_elven_dialect: "Chryselja"
+ name_chryseia.dark_elven_dialect: "Chryseyxa"
+ name_chryseia.steppe_elven_dialect: "Chryseqa"
+
+ name_chrysaia: "Chrysaia"
+ name_chrysaia.wood_elven_dialect: "Chrysalja"
+ name_chrysaia.dark_elven_dialect: "Chryseyxa"
+ name_chrysaia.steppe_elven_dialect: "Chrysaqa"
+
+ name_leukaia: "Leukaia"
+ name_leukaia.wood_elven_dialect: "Leukalja"
+ name_leukaia.dark_elven_dialect: "Leuxeyxa"
+ name_leukaia.steppe_elven_dialect: "Leukaqa"
+
+ name_leukothia: "Leukothia"
+ name_leukothia.wood_elven_dialect: "Leukoljia"
+ name_leukothia.dark_elven_dialect: "Leukoxxia"
+ name_leukothia.steppe_elven_dialect: "Leukothra"
+
+ name_pyrrhaia: "Pyrrhaia"
+ name_pyrrhaia.wood_elven_dialect: "Pyrrhalja"
+ name_pyrrhaia.dark_elven_dialect: "Pyrrheyxa"
+ name_pyrrhaia.steppe_elven_dialect: "Pyrrhaqa"
+
+ name_menesthia: "Menesthia"
+
+ name_orthea: "Orthea"
+
+ name_phaeria: "Phaeria"
+
+ name_aelyra: "Aelyra"
+
+ name_wanaktios: "Wanaktios"
+ name_telestion: "Telestion"
+ name_koretion: "Koretion"
+ name_damokor: "Damokor"
+ name_atreion: "Atreion"
+ name_atrelion: "Atrelion"
+ name_nestoron: "Nestoron"
+ name_peleios: "Peleios"
+ name_priamion: "Priamion"
+ name_hektoron: "Hektoron"
+ name_hektaion: "Hektaion"
+ name_idomaion: "Idomaion"
+ name_akhaion: "Akhaion"
+ name_protesion: "Protesion"
+ name_aiaion: "Aiaion"
+ name_wanassa: "Wanassa"
+ name_telestia: "Telestia"
+ name_koretia: "Koretia"
+ name_damora: "Damora"
+ name_atreia: "Atreia"
+ name_peneia: "Peneia"
+ name_nestoria: "Nestoria"
+ name_peleia: "Peleia"
+ name_priama: "Priama"
+ name_hektoria: "Hektoria"
+ name_hektea: "Hektea"
+ name_andromia: "Andromia"
+ name_kassandria: "Kassandria"
+ name_briseia: "Briseia"
+ name_helenea: "Helenea"
+ name_amyntha: "Amyntha"
+ name_amynljar: "Amynljar"
+ name_perdiljas: "Perdiljas"
+ name_perdikjen: "Perdikjen"
+ name_rheszon: "Rheszon"
+ name_rheselj: "Rheselj"
+ name_zypoytan: "Zypoytan"
+ name_zypoljas: "Zypoljas"
+ name_kersibhaun: "Kersibhaun"
+ name_dentheljar: "Dentheljar"
+ name_bessolyn: "Bessolyn"
+ name_spartokeljon: "Spartokeljon"
+ name_kotylja: "Kotylja"
+ name_dresheljan: "Dresheljan"
+ name_amyljen: "Amyljen"
+ name_perdyljek: "Perdyljek"
+ name_rheshljon: "Rheshljon"
+ name_zypolljan: "Zypolljan"
+ name_kerseljan: "Kerseljan"
+ name_dentholjen: "Dentholjen"
+ name_bessyljan: "Bessyljan"
+ name_kotyljen: "Kotyljen"
+ name_tribalanth: "Tribalanth"
+ name_mithroljen: "Mithroljen"
+ name_spartoljen: "Spartoljen"
+ name_dresholjan: "Dresholjan"
+ name_sarmaljen: "Sarmaljen"
+ name_rhodolja: "Rhodolja"
+ name_besshija: "Besshija"
+ name_bessyana: "Bessyana"
+ name_amynja: "Amynja"
+ name_perdilja: "Perdilja"
+ name_rheszona: "Rheszona"
+ name_zypolja: "Zypolja"
+ name_kersilja: "Kersilja"
+ name_dentha: "Dentha"
+ name_sparteshka: "Sparteshka"
+ name_kotyshka: "Kotyshka"
+ name_mithrana: "Mithrana"
+ name_tribalja: "Tribalja"
+ name_bessyelja: "Bessyelja"
+ name_zypoljka: "Zypoljka"
+ name_kotyljeva: "Kotyljeva"
+ name_perdyljka: "Perdyljka"
+ name_rhoszlika: "Rhoszlika"
+ name_kersolja: "Kersolja"
+ name_mithralja: "Mithralja"
+ name_tribalka: "Tribalka"
+ name_sparteljka: "Sparteljka"
+ name_dentholja: "Dentholja"
+ name_rhodoljia: "Rhodoljia"
+ name_bessyljana: "Bessyljana"
+ name_assarayn: "Assarayn"
+ name_asashrann: "Asashrann"
+ name_holairynx: "Holairynx"
+ name_holaithri: "Holaithri"
+ name_evissthon: "Evissthon"
+ name_evisthynn: "Evisthynn"
+ name_dapurtyx: "Dapurtyx"
+ name_dapuryxos: "Dapuryxos"
+ name_kunyssai: "Kunyssai"
+ name_kunnixos: "Kunnixos"
+ name_marazzeth: "Marazzeth"
+ name_napphyxos: "Napphyxos"
+ name_sivaithon: "Sivaithon"
+ name_xassaron: "Xassaron"
+ name_qassathor: "Qassathor"
+ name_zyrrhinyx: "Zyrrhinyx"
+ name_xassathri: "Xassathri"
+ name_zevaithon: "Zevaithon"
+ name_xolairyx: "Xolairyx"
+ name_maqarryth: "Maqarryth"
+ name_xunnassos: "Xunnassos"
+ name_qaraznyx: "Qaraznyx"
+ name_zephynxos: "Zephynxos"
+ name_assorenn: "Assorenn"
+ name_yllarisk: "Yllarisk"
+ name_ethresmorr: "Ethresmorr"
+ name_ossyleth: "Ossyleth"
+ name_irramphess: "Irramphess"
+ name_arachnorax: "Arachnorax"
+ name_nyxeroth: "Nyxeroth"
+ name_morosyxos: "Morosyxos"
+ name_hekataxos: "Hekataxos"
+ name_styxarion: "Styxarion"
+ name_phobyxos: "Phobyxos"
+ name_asseyxa: "Asseyxa"
+ name_arunthia: "Arunthia"
+ name_holairya: "Holairya"
+ name_holaessa: "Holaessa"
+ name_evistheia: "Evistheia"
+ name_evisthyxa: "Evisthyxa"
+ name_dapurthia: "Dapurthia"
+ name_dapuryxa: "Dapuryxa"
+ name_kunyssia: "Kunyssia"
+ name_kunnixa: "Kunnixa"
+ name_marazessa: "Marazessa"
+ name_marazyxa: "Marazyxa"
+ name_qaraznyxa: "Qaraznyxa"
+ name_zephyssia: "Zephyssia"
+ name_xunnaessa: "Xunnaessa"
+ name_zarynthia: "Zarynthia"
+ name_zyrrhyxa: "Zyrrhyxa"
+ name_qunnyxa: "Qunnyxa"
+ name_zolairya: "Zolairya"
+ name_arrenessa: "Arrenessa"
+ name_sillythria: "Sillythria"
+ name_ethressia: "Ethressia"
+ name_ossylethia: "Ossylethia"
+ name_yrrhanessa: "Yrrhanessa"
+ name_arachnia: "Arachnia"
+ name_nyxaena: "Nyxaena"
+ name_morosaia: "Morosaia"
+ name_hekataia: "Hekataia"
+ name_styxyxa: "Styxyxa"
+ name_phobyssa: "Phobyssa"
+ name_tudhalian: "Tudhalian"
+ name_tudhaliel: "Tudhaliel"
+ name_arnuwan: "Arnuwan"
+ name_arnendir: "Arnendir"
+ name_suppelian: "Suppelian"
+ name_muwathir: "Muwathir"
+ name_muwattaz: "Muwattaz"
+ name_muwakkan: "Muwakkan"
+ name_sparghytis: "Sparghytis"
+ name_spargin: "Spargin"
+ name_skolakhzai: "Skolakhzai"
+ name_aryashar: "Aryashar"
+ name_khshathrion: "Khshathrion"
+ name_dahyumar: "Dahyumar"
+ name_pharzoy: "Pharzoy"
+ name_aspargoi: "Aspargoi"
+ name_bagaqan: "Bagaqan"
+ name_tegintyr: "Tegintyr"
+ name_ormuqan: "Ormuqan"
+ name_saryqan: "Saryqan"
+ name_qatharion: "Qatharion"
+ name_qathvaion: "Qathvaion"
+ name_sarushaar: "Sarushaar"
+ name_khaybagan: "Khaybagan"
+ name_nesamuwa: "Nesamuwa"
+ name_labarnash: "Labarnash"
+ name_muwawalqa: "Muwawalqa"
+ name_kantuzzel: "Kantuzzel"
+ name_ammuwazir: "Ammuwazir"
+ name_hattuqan: "Hattuqan"
+ name_suppatalla: "Suppatalla"
+ name_arzawathir: "Arzawathir"
+ name_idanthyrsa: "Idanthyrsa"
+ name_madyvesh: "Madyvesh"
+ name_lipoxar: "Lipoxar"
+ name_kolaxshar: "Kolaxshar"
+ name_oktamqan: "Oktamqan"
+ name_spargaphen: "Spargaphen"
+ name_pharzanoi: "Pharzanoi"
+ name_khshayaqan: "Khshayaqan"
+ name_amyrgaran: "Amyrgaran"
+ name_yabghuqan: "Yabghuqan"
+ name_tegishtyr: "Tegishtyr"
+ name_bumaqan: "Bumaqan"
+ name_igliqan: "Igliqan"
+ name_tarbaqan: "Tarbaqan"
+ name_erkinqan: "Erkinqan"
+ name_ophiaros: "Ophiaros"
+ name_drakorion: "Drakorion"
+ name_echidnaros: "Echidnaros"
+ name_typhonaios: "Typhonaios"
+ name_saurophas: "Saurophas"
+ name_lamiaros: "Lamiaros"
+ name_tudhalina: "Tudhalina"
+ name_tudhalia: "Tudhalia"
+ name_arnuwa: "Arnuwa"
+ name_muwathala: "Muwathala"
+ name_muwattaza: "Muwattaza"
+ name_suppelina: "Suppelina"
+ name_sparghya: "Sparghya"
+ name_sparpia: "Sparpia"
+ name_aryaxsha: "Aryaxsha"
+ name_skolakya: "Skolakya"
+ name_khshathria: "Khshathria"
+ name_dahyumira: "Dahyumira"
+ name_pharzia: "Pharzia"
+ name_asparia: "Asparia"
+ name_bagashka: "Bagashka"
+ name_teginra: "Teginra"
+ name_saryqana: "Saryqana"
+ name_saruskha: "Saruskha"
+ name_qatharia: "Qatharia"
+ name_qatharya: "Qatharya"
+ name_ormaqana: "Ormaqana"
+ name_sarushya: "Sarushya"
+ name_puduhepa: "Puduhepa"
+ name_hattushyna: "Hattushyna"
+ name_nikkalmara: "Nikkalmara"
+ name_tawanna: "Tawanna"
+ name_asmunikal: "Asmunikal"
+ name_opoiana: "Opoiana"
+ name_tomyrana: "Tomyrana"
+ name_serimira: "Serimira"
+ name_amagiana: "Amagiana"
+ name_sarmathya: "Sarmathya"
+ name_pharzana: "Pharzana"
+ name_khshayana: "Khshayana"
+ name_zarinamira: "Zarinamira"
+ name_teginmira: "Teginmira"
+ name_altqana: "Altqana"
+ name_yabghana: "Yabghana"
+ name_bumaqana: "Bumaqana"
+ name_erkinqana: "Erkinqana"
+ name_ophiana: "Ophiana"
+ name_drakorea: "Drakorea"
+ name_echidnia: "Echidnia"
+ name_typhonia: "Typhonia"
+ name_saurophia: "Saurophia"
+ name_lamiana: "Lamiana"
 
 # --- DIALECT DISPLAY NAMES ---
  typhrean_elven_language: "Typhrean Elven"

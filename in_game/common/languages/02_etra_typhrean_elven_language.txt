@@ -10,96 +10,128 @@ REPLACE:typhrean_elven_language = {
 	male_names = {
 
 		# === CUSTOM FANTASY MALE NAMES ===
-		# Signature slave
-		name_nemanja name_nemanic name_nemovic name_vukan name_vukomir name_vukoje name_drjslav name_drjan name_drjko name_zvonimir
-		name_zvonko name_zvonic name_zvonan
-		# Classiques
-		name_borislav name_bogdan name_bogoje name_miloje name_milic name_milovan name_milos name_miroslav name_mirko name_miroje
-		name_slavoje name_slavomir name_vladimir name_vladoje name_predrag name_pedrag name_dragomir name_dragoje name_radoje name_radovic
-		name_dobromir name_bogomir name_gragorije
-		# Croate-Bosnien
-		name_kresimir name_trpimir name_mislav name_tomislav name_dubravko name_vjekoslav name_vukasin name_voislav name_mladen name_ostoja
-		name_danesh name_tvrtko
-		# Elfiques
-		name_aelorin name_aelic name_aelarin name_aelir name_sylvian name_silvir name_silvoje name_vaelin name_vaeloth name_mirovan
-		name_aelvic
-		# Dark-leaning
-		name_dubhorn name_dubhic name_senkir name_senakh name_krasorn name_krasovic name_krasir
-		# Steppe-leaning
-		name_timurin name_timuric name_khazrai name_khazovic name_oroshan name_oroshin name_oroshic name_kathari name_katharic
-		# Wildcards
-		name_dusan name_uros name_asen name_lazar name_lazaric name_obilen name_obilic name_stefan name_stefanic name_stefanen
-		# Courts
-		name_vuk name_bratko name_rak name_goj name_bor name_vlah
-		# Expansion
-		name_nenad name_slobodan name_milutin name_vitomir name_vitozar name_ninoslav name_dragoslav name_branimir
+		# Proto-Typheraii shared roots
+		name_tyraion name_tyrvaion name_aelkaion name_aelmaion name_morios name_morinthir name_thalorion name_thalvaion name_seliaios name_selinaion
+		name_varethion name_varemaion name_aitheron name_aithrion name_kheirion name_kheiraion
+		# Hyrivari noble
+		name_alkaion name_alykairos name_pyrrhion name_pyrrhaios name_menesthion name_kallinor name_laerthion name_laerthir name_orthirion name_halcyrion
+		name_hieron name_hiereon name_elyaion name_elyrion name_nereon name_chrysion name_chrysaios name_leukaion name_orthion name_kalythir
+		name_phaeron name_phaetheon
 	}
 
 	female_names = {
 
 		# === CUSTOM FANTASY FEMALE NAMES ===
-		# Signature slave
-		name_milica name_milicova name_bojica name_nemanovica name_vukicana name_drjica name_zvonica
-		# Classiques
-		name_biljana name_bojana name_borislava name_branislava name_branimira name_bogdana name_dragana name_dragica name_dragoslava name_desislava
-		name_dejana name_dubravka name_dusana name_gordana name_milena name_miroela name_miroslava name_mirna name_mihaela name_radica
-		name_rada name_stanislava name_svetlana name_snezhana name_tatiana name_theodora name_tihomira name_vedrana name_voislava name_vjekoslava
-		# Croate-Bosnien
-		name_visnja name_zvonimira name_lovorka name_nedeljka name_sophia name_svetka
-		# Elfiques
-		name_aeliel name_aelica name_aelrene name_aelwen name_silwen name_silviel name_silvena name_vaelica name_vaellia name_miriel
-		name_miroica name_branena
-		# Dark-leaning
-		name_senkra name_senicha name_duboth name_krasyssa name_krasicha name_senensha
-		# Steppe-leaning
-		name_tymaya name_tymicha name_khazaya name_khazicana name_oroshi name_orokhina name_katharina
-		# Wildcards
-		name_keratza name_vojislava name_yolande name_dragova name_dusanisa name_stefanisa
-		# Courts
-		name_zlata name_sneza name_mara name_nada name_vuka name_zora
+		# Proto-Typheraii shared roots
+		name_tyraneia name_tyralia name_aelkaia name_aelmaia name_morinaia name_morinethia name_thaloreia name_thalvania name_seliara name_selinaia
+		name_varethia name_varemaia name_aitheia name_kheireia
+		# Hyrivari noble
+		name_adneia name_kalliea name_kallinaia name_laerthia name_athenea name_phermaia name_elysia name_iona name_nereia name_halcya
+		name_hieraia name_chryseia name_chrysaia name_leukaia name_leukothia name_pyrrhaia name_menesthia name_orthea name_phaeria name_aelyra
 	}
 
 	dynasty_names = {
-		Nemanjic Vlastimirovic Obrenovic Obilic Lazarevic
-		Vojislavljevic Brankovic Balsic Vukovic Branovic
-		Mrnjavcevic Trpimirovic Subic Hrvatinic Kosaca
-		Vukcic Babonic Frankopan Svacic Zrinski
-		Kotromanic Kulinic Radivojevic Vojsalic Vlatkovic
-		Zlatonosovic Aelorivic Silvinovic Vaeldicovic Oroshica
-		Katharicovic
+		Aelkorthoi Tyrvaides Morinthoi Thalvaides Selinthoi
+		Varethides Kallinides Pyrrhaides
 	}
 
 	lowborn = {
-		Jovanovic Petrovic Markovic Jankovic Nikolic Grubana Horvat Pavlovic
-		Filipovic Perkovic Ademovic Cekic Gadzo Kremic Lisic Pilipovic
-		Lukic Maric Popovic Granov Kovacevic Gruba Aelovic Silvic
-		Mirovic Dubovic Senovic Orovic Katharovic Zvonovic
+		Aelken Tyron Morinos Thallos Selinor Varethos Kheiros Aithros
 	}
 
-	patronym_suffix_son = "patronym_suffix_south_slavic_son"
-	patronym_suffix_daughter = "patronym_suffix_russian_daughter"
-	location_prefix = "location_prefix_south_slavic"
+	ship_names = {
+		Argonaion Pelasgos Thalassa Okeanos Aion Aithros Hippokampos Triton
+		Nereis Scylla Glaukos Proteus Knossios Phaestaios Pylaion Mykenaios
+		Tirynthos Thebaios Kleostrate Nikephore Aristarkh Eudaimon Sophron Kalliros
+	}
+
+	patronym_suffix_son = "patronym_suffix_typheraii_son"
+	patronym_suffix_daughter = "patronym_suffix_typheraii_daughter"
+	location_prefix = "location_prefix_typheraii"
+	location_prefix_vowel = "location_prefix_typheraii_vowel"
 
 	dialects = {
 		typhrean_elven_language = {
 			default = yes
 		}
-		high_elven_dialect = {}
-		wood_elven_dialect = {}
-		dark_elven_dialect = {
+		high_elven_dialect = {
 			male_names = {
-				name_senkrin name_dubnoth name_krashorn name_sennich name_senmurich
+				name_wanaktios name_telestion name_koretion name_damokor name_atreion name_atrelion name_nestoron name_peleios name_priamion name_hektoron
+				name_hektaion name_idomaion name_akhaion name_protesion name_aiaion
 			}
 			female_names = {
-				name_senkrasha name_dubona name_krashara name_senmuricha name_shadowicha
+				name_wanassa name_telestia name_koretia name_damora name_atreia name_peneia name_nestoria name_peleia name_priama name_hektoria
+				name_hektea name_andromia name_kassandria name_briseia name_helenea
+			}
+			dynasty_names = {
+				Atreides Telestides Koretides Wanaktides Nestorides
+				Priamides Pelopides
+			}
+			lowborn = {
+				Telestos Koretos Wanaktos Atreos Nestoros Hektos Peleos
+			}
+		}
+		wood_elven_dialect = {
+			male_names = {
+				name_amyntha name_amynljar name_perdiljas name_perdikjen name_rheszon name_rheselj name_zypoytan name_zypoljas name_kersibhaun name_dentheljar
+				name_bessolyn name_spartokeljon name_kotylja name_dresheljan name_amyljen name_perdyljek name_rheshljon name_zypolljan name_kerseljan name_dentholjen
+				name_bessyljan name_kotyljen name_tribalanth name_mithroljen name_spartoljen name_dresholjan name_sarmaljen name_rhodolja
+			}
+			female_names = {
+				name_besshija name_bessyana name_amynja name_perdilja name_rheszona name_zypolja name_kersilja name_dentha name_sparteshka name_kotyshka
+				name_mithrana name_tribalja name_bessyelja name_zypoljka name_kotyljeva name_perdyljka name_rhoszlika name_kersolja name_mithralja name_tribalka
+				name_sparteljka name_dentholja name_rhodoljia name_bessyljana
+			}
+			dynasty_names = {
+				Amyntljar Perdiljan Kersibljan Zypoljan Spartoljan
+				Rheszonja Bessoryn
+			}
+			lowborn = {
+				Amyntin Perdiljin Rheslijan Zypoljin Bessorin Kersiljan Kotylin
+			}
+		}
+		dark_elven_dialect = {
+			male_names = {
+				name_assarayn name_asashrann name_holairynx name_holaithri name_evissthon name_evisthynn name_dapurtyx name_dapuryxos name_kunyssai name_kunnixos
+				name_marazzeth name_napphyxos name_sivaithon name_xassaron name_qassathor name_zyrrhinyx name_xassathri name_zevaithon name_xolairyx name_maqarryth
+				name_xunnassos name_qaraznyx name_zephynxos name_assorenn name_yllarisk name_ethresmorr name_ossyleth name_irramphess name_arachnorax name_nyxeroth
+				name_morosyxos name_hekataxos name_styxarion name_phobyxos
+			}
+			female_names = {
+				name_asseyxa name_arunthia name_holairya name_holaessa name_evistheia name_evisthyxa name_dapurthia name_dapuryxa name_kunyssia name_kunnixa
+				name_marazessa name_marazyxa name_qaraznyxa name_zephyssia name_xunnaessa name_zarynthia name_zyrrhyxa name_qunnyxa name_zolairya name_arrenessa
+				name_sillythria name_ethressia name_ossylethia name_yrrhanessa name_arachnia name_nyxaena name_morosaia name_hekataia name_styxyxa name_phobyssa
+			}
+			dynasty_names = {
+				Holaithynx Evisthoxos Kunyssathra Marazyxos Assareynthi
+				Dapuryxos Sivaithyxa
+			}
+			lowborn = {
+				Assarinx Holairyn Evistynx Kunyssin Marazinx Dapuryn Sivaiin
 			}
 		}
 		steppe_elven_dialect = {
 			male_names = {
-				name_tymkhan name_orokhai name_khazkhan name_kathkhan name_saruskhan name_ormukhan
+				name_tudhalian name_tudhaliel name_arnuwan name_arnendir name_suppelian name_muwathir name_muwattaz name_muwakkan name_sparghytis name_spargin
+				name_skolakhzai name_aryashar name_khshathrion name_dahyumar name_pharzoy name_aspargoi name_bagaqan name_tegintyr name_ormuqan name_saryqan
+				name_qatharion name_qathvaion name_sarushaar name_khaybagan name_nesamuwa name_labarnash name_muwawalqa name_kantuzzel name_ammuwazir name_hattuqan
+				name_suppatalla name_arzawathir name_idanthyrsa name_madyvesh name_lipoxar name_kolaxshar name_oktamqan name_spargaphen name_pharzanoi name_khshayaqan
+				name_amyrgaran name_yabghuqan name_tegishtyr name_bumaqan name_igliqan name_tarbaqan name_erkinqan name_ophiaros name_drakorion name_echidnaros
+				name_typhonaios name_saurophas name_lamiaros
 			}
 			female_names = {
-				name_khazraya name_tymraya name_oroshkhana name_kathmaya name_sarushaya
+				name_tudhalina name_tudhalia name_arnuwa name_muwathala name_muwattaza name_suppelina name_sparghya name_sparpia name_aryaxsha name_skolakya
+				name_khshathria name_dahyumira name_pharzia name_asparia name_bagashka name_teginra name_saryqana name_saruskha name_qatharia name_qatharya
+				name_ormaqana name_sarushya name_puduhepa name_hattushyna name_nikkalmara name_tawanna name_asmunikal name_opoiana name_tomyrana name_serimira
+				name_amagiana name_sarmathya name_pharzana name_khshayana name_zarinamira name_teginmira name_altqana name_yabghana name_bumaqana name_erkinqana
+				name_ophiana name_drakorea name_echidnia name_typhonia name_saurophia name_lamiana
+			}
+			dynasty_names = {
+				Qatharides Saryqanid Tudhalianthi Spargapides Khshathrides
+				Pharzoides Muwathalinthi Bagaqanid
+			}
+			lowborn = {
+				Qatharin Saryqen Tudhalin Spargen Pharzin Muwathin Aryashin Bagaqin
 			}
 		}
 	}

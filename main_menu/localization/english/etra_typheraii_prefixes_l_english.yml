@@ -1,0 +1,14 @@
+﻿# Etra: Names & Cultures — Typheraii patronym / location prefixes
+# Custom loc keys for typhrean_elven_language (Aegean-Anatolien Antique fantasy).
+# Replaces the default south_slavic prefixes for identity consistency with the
+# proto-Greek / Mycenaean noble pool and ruler titles (Anaktor, Pelasgon, Eqetos).
+#
+# Patronymic pattern : Greek -ides (son of) / -ias (daughter of)
+# Examples : Alkaion -> son Alkaionides / daughter Alkaionias
+# Location : "ek " (from/of) — Greek genitive preposition
+
+l_english:
+ location_prefix_typheraii: "ek "
+ location_prefix_typheraii_vowel: "ex "        # before vowel-initial location
+ patronym_suffix_typheraii_son: "ides"         # classical Greek patronymic (Peleides, Heraclides)
+ patronym_suffix_typheraii_daughter: "ias"     # feminine patronymic (Chryseis -> Chryseias-style)

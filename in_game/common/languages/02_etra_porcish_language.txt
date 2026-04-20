@@ -21,7 +21,7 @@ REPLACE:porcish_language = {
 		name_beornric name_beornstan name_beornred name_heahred name_heahstan name_baldred name_baldric name_cynric name_cynweard name_raedstan
 		name_raedwine name_herewine name_heregar
 		# Organiques historiques (courts/memorables)
-		name_edgar name_edwy name_alfred name_offa name_penda name_ine name_cwichelm name_egbert name_wulfred name_godhelm
+		name_edgar name_edwy name_alfred name_offa name_penda name_ine name_cwichelm name_egbert name_eadwulf name_godhelm
 		name_winstan name_osgar
 	}
 
@@ -29,11 +29,11 @@ REPLACE:porcish_language = {
 
 		# === CUSTOM FANTASY FEMALE NAMES ===
 		# Signature porcine (Hogh-/Swyn-/Tusk-/Bor-/Grun-)
-		name_hoghgifu name_hoghswith name_hoghflaed name_swynflaed name_swynburh name_swynwyn name_tuskgifu name_tuskflaed name_boreswith name_borflaed
+		name_hoghgifu name_hoghswith name_hoghflaed name_swynflaed name_swynburh name_swynthryth name_tuskgifu name_tuskflaed name_boreswith name_borflaed
 		name_grunthryth name_grungifu
 		# Anglo-Saxon classiques
-		name_eadburh name_eadgifu name_eadswith name_aelfwyn name_aelfgifu name_aelfthryth name_ethelwyn name_ethelgifu name_ethelburh name_leofflaed
-		name_leofgifu name_leofwyn name_cuthflaed name_cuthswith name_oswyn name_osgifu
+		name_eadburh name_eadgifu name_eadswith name_aelfgyth name_aelfgifu name_aelfthryth name_ethelswith name_ethelgifu name_ethelburh name_leofflaed
+		name_leofgifu name_leofgyth name_cuthflaed name_cuthswith name_osthryth name_osgifu
 		# Organiques historiques (courts/memorables)
 		name_edith name_heahswith name_eadyth name_ealdgyth name_frideswith name_aethelflaed name_mildgifu name_beornswith name_wineflaed name_cyngifu
 		name_cynswith name_osflaed

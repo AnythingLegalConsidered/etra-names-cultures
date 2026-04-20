@@ -456,6 +456,22 @@
 		trigger = {
 			has_game_rule = etra_names_fantasy
 			has_reform = government_reform:military_order_reform
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_order_typhrean_elven
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
+		localization_key = etra_order_typhrean_elven
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			has_reform = government_reform:military_order_reform
 			culture.language = language:typhrean_elven_language
 		}
 	}
@@ -7338,6 +7354,78 @@
 		}
 	}
 	text = {
+		localization_key = etra_construction_empire_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_empire = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_kingdom = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_duchy = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_county = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_empire = yes
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_kingdom = yes
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_duchy = yes
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:monarchy
+			country_rank_is_county = yes
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
 		localization_key = etra_construction_empire_typhrean_elven
 		trigger = {
 			has_game_rule = etra_names_fantasy
@@ -7407,6 +7495,78 @@
 			government_type = government_type:theocracy
 			country_rank_is_county = yes
 			culture = culture:sarusthari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_empire = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_kingdom = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_duchy = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_county = yes
+			culture = culture:aldorai_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_empire = yes
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_kingdom = yes
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_duchy = yes
+			culture = culture:darothari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:theocracy
+			country_rank_is_county = yes
+			culture = culture:darothari_culture
 		}
 	}
 	text = {
@@ -7515,6 +7675,42 @@
 			government_type = government_type:republic
 			country_rank_is_county = yes
 			culture.language = language:typhrean_elven_language
+		}
+	}
+	text = {
+		localization_key = etra_construction_empire_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_empire = yes
+			culture = culture:sarusthari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_kingdom_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_kingdom = yes
+			culture = culture:sarusthari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_duchy_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_duchy = yes
+			culture = culture:sarusthari_culture
+		}
+	}
+	text = {
+		localization_key = etra_construction_county_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			government_type = government_type:tribe
+			country_rank_is_county = yes
+			culture = culture:sarusthari_culture
 		}
 	}
 	text = {

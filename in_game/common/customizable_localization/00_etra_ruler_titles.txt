@@ -1290,6 +1290,86 @@ country_flavor = {
 			ruler ?= { culture = culture:sarusthari_culture }
 		}
 	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_empire_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_kingdom_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_duchy_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_county_aldorai
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_empire_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_kingdom_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_duchy_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_county_darothari
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:monarchy
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
 	# Hoggish
 	text = {
 		localization_key = etra_rank_empire_hoggish
@@ -3782,6 +3862,94 @@ country_flavor = {
 			government_type = government_type:theocracy
 			has_reform = government_reform:military_order_reform
 			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_empire_aldorai_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_kingdom_aldorai_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_duchy_aldorai_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_county_aldorai_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_empire_darothari_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_kingdom_darothari_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_duchy_darothari_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_county_darothari_order
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			has_reform = government_reform:military_order_reform
+			ruler ?= { culture = culture:darothari_culture }
 		}
 	}
 	# Hoggish
@@ -6384,6 +6552,94 @@ country_flavor = {
 			government_type = government_type:theocracy
 			NOT = { has_reform = government_reform:military_order_reform }
 			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_empire_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_kingdom_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_duchy_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Aldorai
+	text = {
+		localization_key = etra_rank_county_aldorai_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:aldorai_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_empire_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_kingdom_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_duchy_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:darothari_culture }
+		}
+	}
+	# Darothari
+	text = {
+		localization_key = etra_rank_county_darothari_theocracy
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:theocracy
+			NOT = { has_reform = government_reform:military_order_reform }
+			ruler ?= { culture = culture:darothari_culture }
 		}
 	}
 	# Hoggish
@@ -9946,6 +10202,46 @@ country_flavor = {
 
 	# === TRIBE — SPECIFIC ===
 
+	# Sarusthari
+	text = {
+		localization_key = etra_rank_empire_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_empire = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	# Sarusthari
+	text = {
+		localization_key = etra_rank_kingdom_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_kingdom = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	# Sarusthari
+	text = {
+		localization_key = etra_rank_duchy_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_duchy = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
+	# Sarusthari
+	text = {
+		localization_key = etra_rank_county_sarusthari_tribe
+		trigger = {
+			has_game_rule = etra_names_fantasy
+			country_rank_is_county = yes
+			government_type = government_type:tribe
+			ruler ?= { culture = culture:sarusthari_culture }
+		}
+	}
 	# Hoggish
 	text = {
 		localization_key = etra_rank_empire_hoggish_tribe
