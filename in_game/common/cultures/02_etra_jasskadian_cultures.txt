@@ -4,6 +4,17 @@
 
 # === JASSKADIAN CULTURES ===
 
+REPLACE:salusian_culture = {
+	language = jasskadian_language
+	color = map_IRE
+	tags = { gaelic_gfx irish_gfx celtic_gfx western_european_gfx european_gfx }
+	culture_groups = {
+		human_group
+		jaskadian_group
+	}
+	dynasty_name_type = descendant
+}
+
 REPLACE:highlander_salusian_culture = {
 	language = highlander_salusian_dialect
 	color = map_highland
@@ -12,15 +23,17 @@ REPLACE:highlander_salusian_culture = {
 		human_group
 		jaskadian_group
 	}
+	dynasty_name_type = descendant
 }
 
 REPLACE:ashenborn_culture = {
 	language = ashenborn_dialect
 	color = rgb { 15 15 15 }
-	tags = { irish_gfx gaelic_gfx celtic_gfx baltic_gfx eastern_european_gfx european_gfx }
+	tags = { sami_gfx gaelic_gfx celtic_gfx western_european_gfx european_gfx }
 	culture_groups = {
 		human_group
 		jaskadian_group
 	}
+	dynasty_name_type = descendant
 }
 

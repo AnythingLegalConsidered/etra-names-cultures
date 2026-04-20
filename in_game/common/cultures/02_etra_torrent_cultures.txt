@@ -134,7 +134,7 @@ REPLACE:tyelkian_culture = {
 REPLACE:chesmeker_culture = {
 	language = chesmeker_dialect
 	color = chesmeker_color
-	tags = { north_german_gfx german_gfx eastern_european_gfx european_gfx }
+	tags = { polish_gfx west_slavic_gfx slavic_gfx north_german_gfx german_gfx eastern_european_gfx european_gfx }
 	culture_groups = {
 		torrenter_group
 		human_group

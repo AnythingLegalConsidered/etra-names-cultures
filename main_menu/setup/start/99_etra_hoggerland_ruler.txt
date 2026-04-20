@@ -1,0 +1,29 @@
+﻿# A321 Hoggerland — assign Demon King Ganwulf as starting ruler.
+#
+# The base mod defines A321 with `ruler = random` in 10_countries.txt,
+# which spawns a generic random monarch instead of the canon Demon King.
+# Character A321_ganwulf itself is declared in 99_etra_hoggerland_demon_king.txt.
+#
+# This file merges into the existing A321 block via the same nested structure
+# `countries = { countries = { A321 = { ... } } }` used by the base file.
+# The government subblock is replicated in FULL (type + heir_selection) to
+# avoid the merge clobbering those keys if Paradox replaces rather than merges
+# the inner subblock.
+#
+# If empirical testing shows the starting ruler is still random, switch to a
+# REPLACE: approach on the full A321 block (requires duplicating ~25 lines of
+# cores/institutions and staying in sync with base mod updates).
+
+countries = {
+	countries = {
+
+		A321 = {
+			government = {
+				ruler = A321_ganwulf
+				type = monarchy
+				heir_selection = cognatic_primogeniture
+			}
+		}
+
+	}
+}
