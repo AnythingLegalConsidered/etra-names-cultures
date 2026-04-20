@@ -1,0 +1,32 @@
+# Ganwulf, Demon King of Hoggerland (A321)
+#
+# Canon lore (source: nuka_bear, Etra dev, Discord 2026-04-19):
+# - Hoggerland is ruled by the Demon King Ganwulf
+# - He burnt the World Trees in a Northern Crusade sometime before 1337
+# - The surviving trees are connected via a Mycelium network, deeply upset
+# - The Jasskadian tribes form a coalition to avenge their fallen brothers
+#   and expel the Pigmen from their lands (starting war)
+# - Hoggerland vibe: "Anglo-Saxon-ish Pigmen" (pastoral vocabulary retained
+#   only in peasant/lowborn names; noble/ruler caste is demonic OE)
+#
+# Pattern follows A332_the_dragon_queen (existing precedent for supernatural
+# starting ruler in base mod, see main_menu/setup/start/05_characters.txt).
+# Birth_date 1066 matches the dragon_queen: ancient entity, pre-1337 context.
+# Stats maxed reflect Demon King status. Fertility 0 (demons don't breed).
+
+character_db = {
+
+	A321_ganwulf = {
+		first_name = { name = Ganwulf }
+		nickname = { name = title_demon_king }
+		culture = hoggish_culture
+		religion = manyfold
+		estate = nobles_estate
+		adm = 99 dip = 85 mil = 99
+		female = no
+		birth_date = 1066.01.01
+		fertility = 0
+		tag = A321
+	}
+
+}
